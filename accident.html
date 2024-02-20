@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>交通事故数据分析系统</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* 自定义样式 */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">交通事故数据分析系统</h1>
+        <div class="row mt-5">
+            <div class="col-md-6">
+                <h3>数据处理</h3>
+                <form id="data-form">
+                    <div class="form-group">
+                        <label for="data-input">输入数据:</label>
+                        <input type="text" class="form-control" id="data-input">
+                    </div>
+                    <button type="submit" class="btn btn-primary">处理数据</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <h3>处理结果</h3>
+                <div id="result"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#data-form').submit(function(e) {
+                e.preventDefault();
+
+                // 获取输入的数据
+                var inputData = $('#data-input').val();
+
+                // 发送数据给后端进行处理
+                $.ajax({
+                    type: 'POST',
+                    url: '/process_data',
+                    contentType: 'application/json',
+                    data: JSON.stringify({ 'data': inputData }),
+                    success: function(response) {
+                        $('#result').html('<p>' + response.result + '</p>');
+                    },
+                    error: function() {
+                        $('#result').html('<p style="color: red;">处理数据时出错。</p>');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

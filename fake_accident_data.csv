@@ -1,0 +1,2001 @@
+OBJECTID,REPORTNO,STATUS,ADDRTYPE,LOCATION,COLLISIONTYPE,PERSONCOUNT,PEDCOUNT,PEDCYLCOUNT,VEHCOUNT,INJURIES,SERIOUSINJURIES,FATALITIES,INCDATE,INCDTTM,WEATHER,ROADCOND,LIGHTCOND,SPEEDING,HITPARKEDCAR
+1,REPORT1,STATUS3,ADDRTYPE3,"845 Wright Ports
+East Nancy, IL 84585",Parked Car,5,0,1,2,0,1,0,2023-08-16,2023-12-17 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Dark - No Street Lights,Y,Y
+2,REPORT2,STATUS1,ADDRTYPE2,"5620 Michael Underpass
+Smithport, GU 77264",Parked Car,5,1,0,3,3,1,0,2023-12-13,2023-04-01 03:25:08,Raining,Unknown,Dark - Street Lights Off,Y,Y
+3,REPORT3,STATUS1,ADDRTYPE3,"72248 Phillips Square Apt. 098
+South Kimberlyland, HI 77148",Parked Car,2,1,0,3,1,0,0,2023-06-01,2023-07-04 03:25:08,Severe Crosswind,Oil,Dark - Street Lights Off,N,Y
+4,REPORT4,STATUS3,ADDRTYPE3,"33395 Acosta Way Apt. 484
+New Mary, KY 76650",Parked Car,3,1,0,3,3,0,0,2023-08-23,2023-03-29 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dark - No Street Lights,N,N
+5,REPORT5,STATUS2,ADDRTYPE3,"74664 Mary Spurs Apt. 719
+New Christinatown, OK 84786",Cycles,1,1,0,2,1,0,0,2024-01-24,2023-04-29 03:25:08,Clear,Unknown,Dusk,N,N
+6,REPORT6,STATUS1,ADDRTYPE1,"6990 Rivas Oval Apt. 853
+Lake Marissashire, IA 56066",Rear Ended,4,1,1,1,3,1,1,2023-07-18,2024-01-01 03:25:08,Severe Crosswind,Oil,Dusk,Y,N
+7,REPORT7,STATUS1,ADDRTYPE3,"01130 Rich Cove Suite 613
+West Loganstad, OR 18354",Pedestrian,1,2,0,1,0,0,0,2023-06-11,2024-02-01 03:25:08,Snowing,Standing Water,Other,Y,N
+8,REPORT8,STATUS1,ADDRTYPE2,"00111 Juan Prairie
+Ryanmouth, VA 42787",Left Turn,3,2,0,1,1,0,0,2023-08-09,2023-10-31 03:25:08,,,,N,Y
+9,REPORT9,STATUS3,ADDRTYPE2,"6248 Oscar Mill
+Hansenport, OR 56645",Other,4,0,0,1,3,1,0,2023-11-24,2023-11-15 03:25:08,Severe Crosswind,Dry,Dark - Street Lights On,N,Y
+10,REPORT10,STATUS1,ADDRTYPE2,"43792 Jordan Walk Suite 151
+South Gabriellestad, AZ 54062",Cycles,1,0,0,1,1,0,1,2023-08-12,2023-07-19 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Dark - Street Lights On,Y,Y
+11,REPORT11,STATUS3,ADDRTYPE2,"839 Knight Corner
+South Kathryn, CT 18318",Sideswipe,1,0,1,1,0,1,0,2023-12-24,2023-02-28 03:25:08,Clear,Wet,Dusk,Y,N
+12,REPORT12,STATUS3,ADDRTYPE3,"978 Samuel Plaza Apt. 707
+Ramirezfort, NV 05532",Cycles,2,1,0,3,3,1,1,2023-08-30,2023-05-16 03:25:08,Other,Standing Water,Unknown,Y,N
+13,REPORT13,STATUS3,ADDRTYPE2,"17523 Harper Manor
+Doyleton, VT 12645",Other,3,2,1,3,2,0,0,2023-03-09,2023-11-26 03:25:08,Overcast,Snow/Slush,Dark - No Street Lights,Y,Y
+14,REPORT14,STATUS1,ADDRTYPE2,"165 Nash Tunnel
+Jerrystad, FM 80945",Other,3,1,0,2,0,0,1,2023-10-15,2023-04-18 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Other,Y,Y
+15,REPORT15,STATUS3,ADDRTYPE3,"27756 Robert Skyway Suite 552
+Coryberg, AL 35717",Sideswipe,3,1,1,3,0,0,1,2023-05-19,2023-08-10 03:25:08,Sleet/Hail/Freezing Rain,Oil,Other,Y,Y
+16,REPORT16,STATUS2,ADDRTYPE3,"687 Rosales Lakes Apt. 626
+Collinsview, AK 67710",Cycles,4,1,0,3,0,0,0,2023-12-21,2023-11-01 03:25:08,Snowing,Other,Daylight,Y,N
+17,REPORT17,STATUS1,ADDRTYPE1,"PSC 0047, Box 1773
+APO AP 73937",Other,2,2,0,3,0,0,1,2023-09-24,2023-08-25 03:25:08,Clear,Other,Dark - Street Lights Off,N,Y
+18,REPORT18,STATUS1,ADDRTYPE3,"34559 Mariah Spur
+West Elizabeth, VT 25593",Left Turn,5,1,1,1,2,1,1,2023-09-19,2023-11-04 03:25:08,Overcast,Unknown,Other,Y,Y
+19,REPORT19,STATUS1,ADDRTYPE3,"7496 George Loaf
+Jamesport, PW 69410",Cycles,4,2,1,3,3,1,0,2023-06-17,2023-11-14 03:25:08,Other,Unknown,Dusk,N,N
+20,REPORT20,STATUS1,ADDRTYPE1,"240 Nicole Isle Suite 617
+New Ericmouth, OK 83135",Cycles,3,2,1,1,0,1,1,2023-09-22,2023-03-09 03:25:08,Blowing Sand/Dirt,Snow/Slush,Dawn,N,Y
+21,REPORT21,STATUS1,ADDRTYPE1,"27029 Ball Park
+East Jillton, PR 17832",Sideswipe,4,0,0,1,3,1,0,2023-10-07,2023-04-30 03:25:08,,,,Y,Y
+22,REPORT22,STATUS3,ADDRTYPE3,"77655 Stacy Curve
+Greerstad, AR 79836",Pedestrian,1,0,0,3,1,0,0,2023-11-02,2024-02-12 03:25:08,Unknown,Ice,Daylight,Y,Y
+23,REPORT23,STATUS3,ADDRTYPE1,"8338 Moss Spur
+Lawsonhaven, CT 56062",Pedestrian,4,1,0,1,0,1,0,2024-02-18,2023-08-14 03:25:08,Other,Other,Dark - Street Lights On,Y,Y
+24,REPORT24,STATUS1,ADDRTYPE2,"Unit 4188 Box 5862
+DPO AP 33101",Parked Car,4,0,1,2,0,0,0,2023-04-02,2023-08-17 03:25:08,Blowing Sand/Dirt,Oil,Daylight,N,N
+25,REPORT25,STATUS3,ADDRTYPE3,"85169 Steele Valleys
+Port Laurieberg, MN 41805",Other,3,1,0,1,3,1,0,2023-05-04,2024-02-11 03:25:08,Fog/Smog/Smoke,Snow/Slush,Dark - No Street Lights,Y,N
+26,REPORT26,STATUS1,ADDRTYPE1,"716 Booker Burgs
+Lake Sydneyburgh, TX 35476",Parked Car,1,2,0,3,2,1,0,2023-08-02,2023-09-18 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Dawn,N,Y
+27,REPORT27,STATUS3,ADDRTYPE1,"99898 Edwards Glens Suite 997
+Lorettaland, DC 16878",Sideswipe,3,1,1,2,1,0,1,2023-10-31,2023-09-15 03:25:08,Raining,Sand/Mud/Dirt,Dark - No Street Lights,N,Y
+28,REPORT28,STATUS3,ADDRTYPE1,"350 Allen Valleys Suite 017
+Larryhaven, NE 18731",Rear Ended,1,2,1,1,2,0,1,2023-09-16,2023-06-07 03:25:08,Overcast,Ice,Other,N,Y
+29,REPORT29,STATUS3,ADDRTYPE1,"331 Thomas Ranch Apt. 710
+East Jaredhaven, OR 60746",Cycles,1,1,1,3,3,1,1,2023-03-27,2023-12-18 03:25:08,Overcast,Other,Dawn,N,N
+30,REPORT30,STATUS3,ADDRTYPE3,"39586 Philip Square
+Hernandeztown, FL 09213",Left Turn,1,0,1,3,0,1,1,2023-06-01,2023-02-26 03:25:08,Other,Unknown,Dark - Street Lights On,N,Y
+31,REPORT31,STATUS2,ADDRTYPE1,"2921 Hoffman Estate
+Johnsonland, GU 30413",Angles,3,2,1,2,3,0,0,2024-02-01,2023-06-09 03:25:08,Severe Crosswind,Unknown,Other,Y,Y
+32,REPORT32,STATUS1,ADDRTYPE1,"98080 Jennifer Court
+South Matthew, CA 13234",Angles,1,0,0,3,3,1,0,2023-06-27,2023-03-24 03:25:08,Other,Oil,Unknown,N,N
+33,REPORT33,STATUS2,ADDRTYPE1,"5607 Justin Passage Apt. 608
+West Karen, GA 09476",Sideswipe,2,0,1,3,3,1,0,2023-04-09,2023-07-01 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Dark - Street Lights On,N,Y
+34,REPORT34,STATUS3,ADDRTYPE2,"586 Amber Ramp
+New Chris, MA 80683",Angles,2,1,1,2,3,0,1,2023-06-15,2023-07-23 03:25:08,Overcast,Dry,Dark - No Street Lights,Y,Y
+35,REPORT35,STATUS2,ADDRTYPE2,"68453 Dylan Roads
+Anthonyhaven, IA 47438",Parked Car,5,2,1,1,0,0,0,2024-01-21,2023-07-24 03:25:08,Snowing,Other,Dark - Street Lights Off,Y,Y
+36,REPORT36,STATUS1,ADDRTYPE3,"73202 Rachel Ranch Suite 869
+South Michellefurt, IL 19245",Sideswipe,2,2,0,2,1,0,1,2023-08-21,2023-08-23 03:25:08,,,,Y,N
+37,REPORT37,STATUS1,ADDRTYPE3,"99348 Anthony Forks Apt. 483
+Kingfort, SD 08831",Cycles,5,1,0,2,0,0,0,2024-02-16,2023-08-23 03:25:08,Fog/Smog/Smoke,Unknown,Unknown,Y,Y
+38,REPORT38,STATUS3,ADDRTYPE2,"27330 Morris Forks
+Dicksonport, SD 96247",Parked Car,2,0,1,2,3,0,0,2023-04-10,2023-05-18 03:25:08,Raining,Unknown,Dawn,N,Y
+39,REPORT39,STATUS2,ADDRTYPE2,"Unit 5762 Box 8240
+DPO AE 30647",Pedestrian,3,2,0,1,3,1,1,2023-06-29,2023-07-16 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Dusk,Y,Y
+40,REPORT40,STATUS2,ADDRTYPE1,"718 David Neck
+Lake Ashleybury, WA 53151",Angles,5,2,0,1,0,0,0,2023-09-04,2023-05-28 03:25:08,Fog/Smog/Smoke,Wet,Dark - Street Lights On,N,N
+41,REPORT41,STATUS2,ADDRTYPE1,"974 Pierce Pass
+Pattonborough, HI 40982",Other,4,0,1,1,2,1,1,2023-09-20,2023-09-01 03:25:08,Sleet/Hail/Freezing Rain,Dry,Other,Y,N
+42,REPORT42,STATUS1,ADDRTYPE2,"4853 Kenneth Grove
+East Kristy, GA 68637",Cycles,4,0,1,1,2,0,0,2023-08-22,2023-12-23 03:25:08,Severe Crosswind,Snow/Slush,Dusk,N,N
+43,REPORT43,STATUS1,ADDRTYPE3,"83706 Kenneth Prairie
+Karaton, AK 72128",Left Turn,2,0,1,1,2,0,0,2023-12-27,2023-11-21 03:25:08,Overcast,Ice,Dark - No Street Lights,N,N
+44,REPORT44,STATUS2,ADDRTYPE2,"57942 Robert Key
+New Garyside, MD 50716",Rear Ended,4,0,0,2,3,1,1,2024-02-17,2023-06-30 03:25:08,Severe Crosswind,Ice,Dawn,Y,Y
+45,REPORT45,STATUS1,ADDRTYPE3,"7965 Clark Forest
+South Jeremy, NM 04008",Pedestrian,2,0,1,1,0,1,0,2023-08-24,2023-07-15 03:25:08,Blowing Sand/Dirt,Wet,Dawn,Y,Y
+46,REPORT46,STATUS1,ADDRTYPE2,"36863 Burton Harbors Apt. 951
+New Robertmouth, MO 69911",Rear Ended,2,0,1,2,0,1,0,2023-11-16,2023-08-12 03:25:08,Blowing Sand/Dirt,Oil,Daylight,Y,Y
+47,REPORT47,STATUS2,ADDRTYPE1,"USNV Perez
+FPO AP 99585",Pedestrian,4,0,1,2,2,0,1,2023-07-29,2023-11-21 03:25:08,Snowing,Sand/Mud/Dirt,Unknown,N,Y
+48,REPORT48,STATUS1,ADDRTYPE3,"9116 Richard Cape
+Ramirezmouth, WY 77376",Left Turn,4,1,1,1,2,0,1,2023-08-22,2023-05-12 03:25:08,Overcast,Other,Dark - Street Lights On,Y,N
+49,REPORT49,STATUS2,ADDRTYPE1,"649 Brown Ville
+Robbinsville, MT 32963",Other,1,0,1,3,0,1,1,2024-02-15,2023-04-21 03:25:08,Other,Wet,Dark - No Street Lights,Y,N
+50,REPORT50,STATUS2,ADDRTYPE2,"Unit 7878 Box 7994
+DPO AE 25835",Pedestrian,5,1,1,3,3,0,1,2023-12-30,2023-11-28 03:25:08,Severe Crosswind,Dry,Dark - No Street Lights,Y,N
+51,REPORT51,STATUS3,ADDRTYPE3,"22334 Shaun Locks
+South Daniel, WA 42937",Angles,2,2,1,1,2,0,0,2023-07-14,2023-05-18 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Other,N,Y
+52,REPORT52,STATUS2,ADDRTYPE3,"4559 Donaldson Lake
+East Stephen, TX 83328",Left Turn,4,0,0,1,1,0,1,2023-06-13,2023-07-11 03:25:08,Other,Unknown,Dusk,N,N
+53,REPORT53,STATUS1,ADDRTYPE3,"Unit 2490 Box 3396
+DPO AA 49877",Other,5,1,0,1,1,1,1,2023-11-10,2023-08-08 03:25:08,Severe Crosswind,Wet,Unknown,N,N
+54,REPORT54,STATUS3,ADDRTYPE1,"297 Santos Walks
+Parrishtown, LA 57615",Rear Ended,4,1,0,1,0,1,1,2024-01-07,2023-09-27 03:25:08,Severe Crosswind,Other,Dark - No Street Lights,N,Y
+55,REPORT55,STATUS2,ADDRTYPE2,"916 Tamara Inlet Apt. 727
+North Jessica, PA 97125",Left Turn,4,1,1,2,3,1,1,2023-05-25,2023-03-19 03:25:08,Fog/Smog/Smoke,Oil,Other,Y,N
+56,REPORT56,STATUS3,ADDRTYPE1,"865 Jacqueline Squares
+Port Anthonymouth, MN 69742",Angles,1,2,0,3,1,0,1,2023-06-01,2023-03-04 03:25:08,Raining,Ice,Dusk,Y,Y
+57,REPORT57,STATUS1,ADDRTYPE3,"006 Schaefer Streets Suite 118
+North Michellehaven, NY 31027",Left Turn,2,1,0,2,2,0,1,2023-12-03,2023-03-08 03:25:08,Clear,Other,Other,N,N
+58,REPORT58,STATUS2,ADDRTYPE1,"623 Diane Via Suite 655
+Kevinmouth, SD 86368",Parked Car,2,2,1,3,3,0,1,2023-07-24,2023-07-11 03:25:08,Clear,Dry,Dark - No Street Lights,N,N
+59,REPORT59,STATUS1,ADDRTYPE3,"Unit 4820 Box 7958
+DPO AP 76149",Parked Car,3,0,0,2,0,0,0,2023-12-18,2023-04-01 03:25:08,Overcast,Ice,Dark - No Street Lights,Y,N
+60,REPORT60,STATUS3,ADDRTYPE1,"815 Gabriel Keys Suite 490
+Wardtown, DE 90944",Rear Ended,1,2,0,2,2,1,0,2023-06-15,2023-09-27 03:25:08,Unknown,Snow/Slush,Dusk,N,N
+61,REPORT61,STATUS2,ADDRTYPE2,"2380 Clark Loaf
+Josephchester, FM 90818",Sideswipe,5,0,0,1,3,1,0,2024-02-16,2023-02-25 03:25:08,Raining,Snow/Slush,Dawn,Y,Y
+62,REPORT62,STATUS3,ADDRTYPE1,"88584 Gentry Loaf
+Kathleenmouth, IA 61080",Cycles,1,0,0,2,0,1,0,2023-12-02,2023-04-08 03:25:08,Raining,Standing Water,Dawn,N,N
+63,REPORT63,STATUS3,ADDRTYPE1,"8811 Summer Light
+Robertsfort, VT 16086",Parked Car,5,1,1,2,3,1,1,2023-03-20,2023-12-31 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Daylight,N,N
+64,REPORT64,STATUS2,ADDRTYPE1,"4283 Joseph Mountains
+Harrellshire, VT 79813",Cycles,2,1,0,1,1,0,0,2023-10-14,2024-01-06 03:25:08,Sleet/Hail/Freezing Rain,Other,Unknown,N,N
+65,REPORT65,STATUS3,ADDRTYPE1,"94180 Marie Estate Apt. 497
+Sydneymouth, FL 61191",Cycles,3,2,0,3,1,1,1,2023-10-27,2023-12-28 03:25:08,,,,Y,Y
+66,REPORT66,STATUS1,ADDRTYPE2,"USCGC Williams
+FPO AA 03854",Rear Ended,3,1,1,3,0,0,0,2023-06-24,2024-01-05 03:25:08,Unknown,Snow/Slush,Dark - Street Lights Off,N,N
+67,REPORT67,STATUS3,ADDRTYPE3,"406 Ortiz Groves
+Davidborough, MO 07928",Angles,2,0,1,2,1,0,1,2023-08-01,2023-03-24 03:25:08,Unknown,Oil,Dark - Street Lights Off,Y,Y
+68,REPORT68,STATUS1,ADDRTYPE3,"817 Hamilton Mission
+South Kristin, MP 26088",Rear Ended,4,1,0,3,0,1,1,2023-08-12,2024-02-11 03:25:08,Raining,Oil,Dark - Street Lights Off,Y,Y
+69,REPORT69,STATUS1,ADDRTYPE3,"68007 Hanson Road
+East Zachary, AL 33362",Sideswipe,1,2,1,2,1,0,1,2023-09-19,2023-04-10 03:25:08,Overcast,Ice,Other,Y,N
+70,REPORT70,STATUS3,ADDRTYPE2,"1208 Pitts Islands Apt. 948
+Lake Brenda, FL 77464",Other,3,2,1,2,3,1,0,2023-08-17,2023-07-24 03:25:08,Fog/Smog/Smoke,Wet,Daylight,N,Y
+71,REPORT71,STATUS1,ADDRTYPE2,"098 Schroeder Crest Apt. 731
+Jerryview, CT 52632",Parked Car,4,1,0,3,3,0,1,2023-07-15,2023-12-28 03:25:08,Fog/Smog/Smoke,Unknown,Daylight,N,N
+72,REPORT72,STATUS2,ADDRTYPE1,"57143 Michelle Shores
+Castroton, CO 16628",Pedestrian,5,1,1,3,0,1,1,2023-11-18,2023-06-10 03:25:08,Raining,Wet,Dark - No Street Lights,Y,Y
+73,REPORT73,STATUS1,ADDRTYPE2,"632 Cooper Hill Apt. 860
+Powelltown, MS 45432",Angles,3,0,0,3,2,0,0,2023-05-21,2023-04-06 03:25:08,Clear,Ice,Daylight,Y,Y
+74,REPORT74,STATUS1,ADDRTYPE3,"27960 Savannah Orchard
+Robertsstad, WA 05717",Sideswipe,5,1,1,3,3,0,0,2023-10-05,2023-05-17 03:25:08,Severe Crosswind,Snow/Slush,Dark - Street Lights Off,Y,N
+75,REPORT75,STATUS1,ADDRTYPE2,"4139 Kaufman Circle Apt. 200
+South John, MS 16204",Other,4,2,0,3,3,1,0,2023-12-26,2023-12-30 03:25:08,,,,N,N
+76,REPORT76,STATUS2,ADDRTYPE3,"676 Little Run Suite 911
+Davischester, WI 93221",Sideswipe,5,2,1,3,0,1,1,2023-07-10,2023-04-01 03:25:08,Raining,Snow/Slush,Dark - No Street Lights,N,N
+77,REPORT77,STATUS2,ADDRTYPE2,"5490 Martinez Pass Suite 277
+Lake Jasmine, OK 99478",Angles,4,0,1,3,0,0,1,2023-03-20,2023-07-07 03:25:08,Clear,Wet,Other,Y,N
+78,REPORT78,STATUS2,ADDRTYPE2,"08438 John Court
+Antonioland, MP 33482",Rear Ended,5,1,0,3,2,1,1,2023-07-10,2023-06-07 03:25:08,Raining,Unknown,Dawn,N,Y
+79,REPORT79,STATUS3,ADDRTYPE3,"5258 Padilla Union
+Shannonmouth, AZ 16711",Other,1,0,0,1,0,0,0,2023-11-29,2023-04-28 03:25:08,Sleet/Hail/Freezing Rain,Oil,Dark - No Street Lights,N,N
+80,REPORT80,STATUS2,ADDRTYPE3,"762 Jackson Creek
+North Meghan, CO 52896",Pedestrian,3,1,0,3,2,1,0,2023-12-10,2024-02-03 03:25:08,Other,Standing Water,Dark - Street Lights On,Y,Y
+81,REPORT81,STATUS1,ADDRTYPE2,"4076 Ellis Way Apt. 866
+East Michelle, PW 94048",Cycles,3,0,0,1,0,1,1,2023-08-22,2023-03-15 03:25:08,Severe Crosswind,Other,Dark - Street Lights On,N,N
+82,REPORT82,STATUS2,ADDRTYPE2,"PSC 6182, Box 4951
+APO AA 50660",Angles,4,0,1,2,3,0,1,2023-07-12,2023-09-24 03:25:08,Clear,Snow/Slush,Dark - Street Lights On,Y,N
+83,REPORT83,STATUS2,ADDRTYPE1,"4453 James Unions
+Monicashire, NJ 70437",Angles,5,2,0,2,0,0,1,2024-02-17,2023-07-19 03:25:08,Overcast,Sand/Mud/Dirt,Dark - Street Lights On,N,Y
+84,REPORT84,STATUS1,ADDRTYPE3,"4565 French Meadow Suite 222
+Lake Sarahville, GU 39536",Cycles,2,0,0,1,1,1,1,2023-08-20,2023-11-03 03:25:08,Other,Ice,Unknown,N,Y
+85,REPORT85,STATUS3,ADDRTYPE1,"923 Anthony Shoal
+Robertfurt, MI 92094",Rear Ended,3,0,0,1,3,0,1,2023-02-21,2023-10-28 03:25:08,Raining,Unknown,Dark - Street Lights On,Y,Y
+86,REPORT86,STATUS2,ADDRTYPE2,"5359 Stephanie Shoals Apt. 931
+Kevinstad, MO 74407",Other,5,2,1,3,1,1,1,2023-11-10,2023-07-02 03:25:08,Sleet/Hail/Freezing Rain,Dry,Other,N,N
+87,REPORT87,STATUS3,ADDRTYPE3,"2256 Humphrey Tunnel
+Cynthiafurt, LA 98362",Parked Car,5,0,1,3,1,1,1,2023-12-25,2023-05-13 03:25:08,,,,Y,Y
+88,REPORT88,STATUS3,ADDRTYPE2,"01659 Isabel Isle Suite 578
+Collinsberg, MD 60640",Sideswipe,1,2,0,2,0,0,1,2023-11-14,2023-08-08 03:25:08,Overcast,Ice,Dark - Street Lights On,N,N
+89,REPORT89,STATUS3,ADDRTYPE3,"26687 Ariel Keys
+East Michelleberg, DC 87187",Pedestrian,2,0,0,3,0,1,1,2023-09-27,2023-12-23 03:25:08,Severe Crosswind,Wet,Dark - Street Lights Off,N,N
+90,REPORT90,STATUS1,ADDRTYPE2,"Unit 1585 Box 0495
+DPO AA 85144",Rear Ended,3,1,1,1,1,1,1,2024-01-30,2023-11-11 03:25:08,Blowing Sand/Dirt,Unknown,Dawn,Y,N
+91,REPORT91,STATUS3,ADDRTYPE1,"USCGC Hughes
+FPO AE 45083",Left Turn,1,2,0,3,3,1,1,2023-12-13,2023-06-24 03:25:08,Unknown,Unknown,Other,Y,N
+92,REPORT92,STATUS3,ADDRTYPE1,"252 Jones Groves Apt. 255
+Port Jenniferfurt, AR 53900",Other,2,1,0,2,0,0,1,2023-08-01,2023-12-18 03:25:08,Unknown,Unknown,Other,Y,Y
+93,REPORT93,STATUS1,ADDRTYPE1,"8866 Rhonda Brooks
+Holmesburgh, PA 46354",Pedestrian,3,2,1,3,3,0,0,2023-07-19,2023-08-24 03:25:08,Snowing,Sand/Mud/Dirt,Unknown,N,N
+94,REPORT94,STATUS3,ADDRTYPE3,"Unit 5846 Box 3561
+DPO AE 36971",Parked Car,1,0,1,3,0,0,0,2023-09-03,2023-06-27 03:25:08,,,,N,N
+95,REPORT95,STATUS3,ADDRTYPE3,"8998 Campbell Ridges Suite 390
+Olsonberg, NM 42294",Angles,2,2,0,1,1,0,1,2024-02-03,2023-07-23 03:25:08,Sleet/Hail/Freezing Rain,Other,Dark - Street Lights On,N,N
+96,REPORT96,STATUS1,ADDRTYPE3,"4099 Henderson Rest
+Leetown, MA 15856",Left Turn,3,0,0,1,1,1,0,2023-11-29,2023-03-26 03:25:08,Snowing,Wet,Unknown,N,N
+97,REPORT97,STATUS1,ADDRTYPE1,"065 Cortez Road Suite 936
+West Pamela, GU 71069",Angles,2,1,0,2,0,0,1,2023-03-15,2023-02-24 03:25:08,Unknown,Dry,Dark - No Street Lights,N,Y
+98,REPORT98,STATUS2,ADDRTYPE3,"10416 Tammy Orchard
+West Stevenbury, MO 38410",Rear Ended,5,0,1,2,1,1,0,2023-11-10,2023-08-01 03:25:08,Unknown,Unknown,Other,Y,N
+99,REPORT99,STATUS2,ADDRTYPE2,"1722 Johnson Loop Apt. 478
+East Haydenmouth, IL 19560",Pedestrian,4,2,1,2,0,1,1,2023-06-19,2024-02-16 03:25:08,Overcast,Oil,Dark - Street Lights Off,N,N
+100,REPORT100,STATUS2,ADDRTYPE3,"056 Ellis Club Suite 603
+West Stacy, PR 53780",Cycles,4,0,1,2,2,0,0,2023-03-16,2023-08-12 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Daylight,N,N
+101,REPORT101,STATUS3,ADDRTYPE1,"7990 Clark Villages Suite 744
+Medinahaven, OR 03112",Rear Ended,5,2,1,2,0,0,1,2023-10-06,2023-10-28 03:25:08,Blowing Sand/Dirt,Standing Water,Dark - Street Lights Off,Y,Y
+102,REPORT102,STATUS3,ADDRTYPE1,"169 Pope Knolls
+South Aaron, MO 77321",Pedestrian,2,0,0,2,3,1,0,2023-12-21,2023-06-05 03:25:08,Unknown,Sand/Mud/Dirt,Dawn,N,N
+103,REPORT103,STATUS3,ADDRTYPE2,"93668 Alan Harbors
+West Shannonshire, MD 03072",Left Turn,5,0,0,1,1,1,1,2023-07-19,2023-09-27 03:25:08,Raining,Other,Daylight,Y,N
+104,REPORT104,STATUS1,ADDRTYPE3,"60958 Campos Village
+New Melissaside, WY 30379",Sideswipe,4,1,1,2,0,1,0,2023-06-14,2023-10-05 03:25:08,Severe Crosswind,Snow/Slush,Dark - Street Lights Off,Y,N
+105,REPORT105,STATUS3,ADDRTYPE3,"45239 May Mount Suite 273
+Port Markfort, CT 32878",Rear Ended,4,2,0,2,0,1,0,2023-05-14,2023-03-19 03:25:08,Clear,Oil,Daylight,Y,N
+106,REPORT106,STATUS2,ADDRTYPE2,"4500 Morgan Drives Suite 343
+South Stacey, FM 15090",Left Turn,2,1,1,3,0,1,0,2023-06-11,2023-10-07 03:25:08,Raining,Wet,Daylight,Y,Y
+107,REPORT107,STATUS1,ADDRTYPE2,"108 Patrick Squares
+Jillview, CO 95521",Angles,4,2,1,1,3,0,0,2023-03-07,2023-09-15 03:25:08,Unknown,Ice,Dusk,N,Y
+108,REPORT108,STATUS1,ADDRTYPE1,"9901 Barnes Inlet
+Shannonport, NH 23232",Left Turn,5,2,0,3,1,0,1,2023-12-16,2023-07-22 03:25:08,Clear,Oil,Dark - No Street Lights,N,Y
+109,REPORT109,STATUS1,ADDRTYPE3,"1098 Long Plains
+Heidihaven, MD 28804",Other,2,2,1,3,0,0,0,2023-09-06,2023-03-12 03:25:08,Overcast,Standing Water,Dark - Street Lights Off,Y,Y
+110,REPORT110,STATUS2,ADDRTYPE2,"86350 Mcintosh Stream Apt. 687
+Karenshire, PW 32930",Angles,5,1,1,1,1,1,0,2023-07-30,2023-10-19 03:25:08,Clear,Standing Water,Unknown,N,Y
+111,REPORT111,STATUS2,ADDRTYPE3,"8081 Norman Parkway Apt. 266
+New Hannahshire, MI 27084",Left Turn,2,1,1,2,3,0,1,2023-06-08,2024-02-17 03:25:08,Other,Standing Water,Dawn,N,N
+112,REPORT112,STATUS2,ADDRTYPE2,"6938 Christina Village
+West Matthewport, IN 93484",Parked Car,4,1,0,3,2,1,0,2023-08-04,2023-07-22 03:25:08,,,,N,N
+113,REPORT113,STATUS1,ADDRTYPE1,"5925 Joshua Well Suite 422
+West Carlshire, PW 11623",Rear Ended,3,1,1,2,3,1,1,2023-12-14,2024-02-03 03:25:08,Severe Crosswind,Other,Dark - No Street Lights,Y,Y
+114,REPORT114,STATUS1,ADDRTYPE2,"8025 Shawn Stream
+Caldwellshire, NC 51452",Left Turn,2,1,1,1,2,1,1,2023-12-25,2024-02-12 03:25:08,Blowing Sand/Dirt,Snow/Slush,Other,N,Y
+115,REPORT115,STATUS3,ADDRTYPE2,"5801 Snyder Street
+Davidton, AR 15758",Left Turn,2,1,0,3,0,0,1,2023-12-26,2024-02-06 03:25:08,Raining,Oil,Dusk,N,Y
+116,REPORT116,STATUS3,ADDRTYPE2,"25766 Sean Walks Suite 123
+South Jennifer, GU 81574",Parked Car,3,0,1,3,1,0,1,2024-02-09,2023-12-03 03:25:08,Other,Other,Dark - No Street Lights,N,Y
+117,REPORT117,STATUS2,ADDRTYPE2,"4662 Marquez Wall Suite 557
+Thomasbury, NM 45155",Cycles,4,1,1,1,2,1,0,2023-12-17,2023-08-12 03:25:08,Overcast,Oil,Unknown,N,Y
+118,REPORT118,STATUS1,ADDRTYPE2,"1541 Harris Path
+West Michelle, ID 94119",Cycles,5,1,1,1,1,1,0,2023-12-02,2023-05-30 03:25:08,Blowing Sand/Dirt,Wet,Dusk,N,Y
+119,REPORT119,STATUS3,ADDRTYPE3,"04387 Camacho Drives Apt. 562
+Timothyshire, FM 05648",Parked Car,1,2,1,3,0,0,1,2023-08-27,2023-04-18 03:25:08,Sleet/Hail/Freezing Rain,Ice,Unknown,N,N
+120,REPORT120,STATUS2,ADDRTYPE1,"30193 Mathis Stream
+Millerport, MO 79101",Parked Car,3,2,1,3,1,1,0,2023-06-08,2023-09-10 03:25:08,Unknown,Unknown,Dusk,N,Y
+121,REPORT121,STATUS2,ADDRTYPE1,"55638 Bowen Pike
+Stevenville, VT 70896",Angles,1,2,0,3,2,0,1,2024-02-13,2023-09-01 03:25:08,,,,Y,N
+122,REPORT122,STATUS3,ADDRTYPE2,"760 Garrett Fields
+North Jenniferside, DC 65923",Cycles,4,1,0,1,0,1,1,2023-03-06,2023-11-24 03:25:08,Severe Crosswind,Unknown,Unknown,N,N
+123,REPORT123,STATUS2,ADDRTYPE2,"132 David Spur Suite 291
+Lake Robertmouth, TX 43142",Rear Ended,2,2,1,2,0,0,1,2023-10-21,2023-05-03 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Dark - Street Lights On,N,Y
+124,REPORT124,STATUS1,ADDRTYPE3,"USNS Ellis
+FPO AP 87603",Sideswipe,2,0,0,2,2,0,1,2024-01-24,2023-07-14 03:25:08,Blowing Sand/Dirt,Oil,Daylight,Y,N
+125,REPORT125,STATUS2,ADDRTYPE2,"2792 Ruth Shore Apt. 697
+Port Melissabury, MA 25788",Other,4,0,0,2,1,1,1,2023-03-09,2023-10-19 03:25:08,Other,Sand/Mud/Dirt,Daylight,N,Y
+126,REPORT126,STATUS1,ADDRTYPE2,"524 Heather Village Suite 744
+Cannontown, AR 09792",Rear Ended,5,2,0,2,3,1,0,2023-08-28,2023-05-11 03:25:08,Other,Sand/Mud/Dirt,Unknown,N,N
+127,REPORT127,STATUS1,ADDRTYPE3,"08893 Gail Village Suite 036
+East Joshuabury, NY 04135",Other,5,2,1,1,1,1,1,2023-07-15,2023-08-03 03:25:08,Severe Crosswind,Snow/Slush,Dark - No Street Lights,N,N
+128,REPORT128,STATUS3,ADDRTYPE2,"20412 Lacey Union Suite 539
+East Dana, MO 52677",Rear Ended,4,1,0,1,2,1,0,2023-04-20,2023-11-13 03:25:08,Blowing Sand/Dirt,Wet,Dark - Street Lights On,Y,Y
+129,REPORT129,STATUS3,ADDRTYPE3,"502 Hanson Walk Suite 294
+Lorichester, AL 10043",Left Turn,4,2,0,2,1,1,1,2024-02-15,2023-04-10 03:25:08,Overcast,Oil,Dark - No Street Lights,N,Y
+130,REPORT130,STATUS3,ADDRTYPE1,"136 Tammie Plaza
+Susantown, CA 44206",Sideswipe,4,2,0,3,3,1,0,2023-07-12,2023-03-27 03:25:08,Raining,Standing Water,Dark - No Street Lights,Y,N
+131,REPORT131,STATUS2,ADDRTYPE2,"USNS Taylor
+FPO AE 44587",Pedestrian,4,2,0,3,1,1,0,2023-06-19,2023-08-02 03:25:08,Sleet/Hail/Freezing Rain,Other,Dusk,N,N
+132,REPORT132,STATUS3,ADDRTYPE1,"938 Davis Stravenue Suite 059
+North Rachael, NH 43390",Cycles,4,2,1,1,0,1,0,2023-09-24,2024-01-24 03:25:08,Fog/Smog/Smoke,Unknown,Dusk,Y,Y
+133,REPORT133,STATUS3,ADDRTYPE2,"900 Kayla Wall
+Michellemouth, VT 95950",Sideswipe,4,1,0,2,1,1,1,2023-09-28,2023-04-30 03:25:08,Fog/Smog/Smoke,Dry,Dusk,Y,Y
+134,REPORT134,STATUS2,ADDRTYPE2,"6847 Pena Key
+West James, WA 64823",Rear Ended,2,1,0,1,0,0,0,2023-06-16,2023-07-15 03:25:08,Raining,Other,Dawn,Y,Y
+135,REPORT135,STATUS3,ADDRTYPE2,"2209 Christopher Throughway
+Port Nicoleborough, TN 43190",Other,1,2,1,2,3,1,1,2024-01-08,2023-12-16 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Unknown,Y,Y
+136,REPORT136,STATUS2,ADDRTYPE1,"281 Morgan Street
+Gabrielborough, MS 61379",Sideswipe,5,0,1,2,1,1,1,2023-07-15,2023-03-31 03:25:08,Raining,Other,Dark - Street Lights Off,Y,Y
+137,REPORT137,STATUS2,ADDRTYPE2,"453 Pittman Point
+North Monica, ND 66157",Left Turn,1,1,0,3,0,0,1,2023-10-16,2023-08-04 03:25:08,Overcast,Standing Water,Dawn,Y,Y
+138,REPORT138,STATUS1,ADDRTYPE3,"PSC 3521, Box 6005
+APO AP 51265",Rear Ended,2,0,1,3,3,1,0,2023-04-09,2023-11-23 03:25:08,Blowing Sand/Dirt,Ice,Dusk,Y,N
+139,REPORT139,STATUS1,ADDRTYPE1,"8734 Palmer Trail
+South Michelle, AL 39783",Left Turn,3,1,1,3,0,0,1,2023-12-03,2023-07-28 03:25:08,Snowing,Oil,Dusk,N,N
+140,REPORT140,STATUS3,ADDRTYPE3,"626 Richard Meadows
+Port Lisa, DC 87564",Sideswipe,1,1,1,1,0,0,0,2023-06-03,2023-09-10 03:25:08,Raining,Ice,Dark - No Street Lights,Y,N
+141,REPORT141,STATUS2,ADDRTYPE3,"8131 Evans Glen Apt. 338
+New John, IA 68684",Angles,3,2,0,3,0,0,1,2023-11-16,2023-05-31 03:25:08,Raining,Standing Water,Daylight,Y,Y
+142,REPORT142,STATUS1,ADDRTYPE2,"08437 Tucker Walk
+Melissaside, ND 85175",Left Turn,2,1,0,3,1,0,1,2023-10-15,2023-11-30 03:25:08,Sleet/Hail/Freezing Rain,Other,Unknown,Y,Y
+143,REPORT143,STATUS1,ADDRTYPE2,"725 Jaime Squares
+North Kevinview, DC 16808",Pedestrian,5,1,1,1,0,0,0,2023-09-29,2023-07-11 03:25:08,Unknown,Unknown,Other,Y,Y
+144,REPORT144,STATUS1,ADDRTYPE1,"29710 Catherine Points
+Lyonsshire, RI 77059",Pedestrian,3,1,0,1,2,0,1,2023-12-23,2023-10-24 03:25:08,Clear,Dry,Dark - Street Lights On,Y,Y
+145,REPORT145,STATUS1,ADDRTYPE1,"9782 Hector Springs
+North Robert, UT 51288",Cycles,2,2,0,1,3,0,1,2023-10-08,2023-12-31 03:25:08,Severe Crosswind,Ice,Dark - Street Lights Off,Y,Y
+146,REPORT146,STATUS3,ADDRTYPE3,"559 Jimmy Shore
+Beckhaven, IA 56878",Pedestrian,4,2,0,3,3,1,0,2023-02-26,2023-02-21 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Daylight,Y,Y
+147,REPORT147,STATUS1,ADDRTYPE2,"65771 Jones Causeway Suite 947
+Mooreview, OR 48491",Left Turn,5,2,0,2,1,1,1,2023-10-16,2023-12-17 03:25:08,Other,Other,Other,N,Y
+148,REPORT148,STATUS3,ADDRTYPE3,"15061 Larson Mills Suite 218
+East Jeanside, GU 11730",Parked Car,4,1,0,3,1,0,0,2023-03-15,2023-06-06 03:25:08,Clear,Oil,Dusk,Y,N
+149,REPORT149,STATUS2,ADDRTYPE2,"6270 Schneider Summit
+East Savannah, NV 73116",Cycles,5,0,0,2,1,1,0,2023-07-15,2023-12-21 03:25:08,Unknown,Ice,Dark - Street Lights Off,Y,Y
+150,REPORT150,STATUS3,ADDRTYPE3,"USNS Rogers
+FPO AP 10002",Cycles,5,0,0,1,2,1,1,2023-11-10,2023-04-02 03:25:08,Snowing,Dry,Daylight,N,Y
+151,REPORT151,STATUS1,ADDRTYPE2,"PSC 2168, Box 5898
+APO AA 47326",Left Turn,1,2,0,3,3,0,0,2023-06-22,2023-04-30 03:25:08,Snowing,Snow/Slush,Other,N,N
+152,REPORT152,STATUS2,ADDRTYPE1,"337 Parker Prairie
+Ryanchester, WV 32691",Sideswipe,5,0,0,3,3,1,1,2023-02-23,2023-08-03 03:25:08,Fog/Smog/Smoke,Other,Other,Y,N
+153,REPORT153,STATUS2,ADDRTYPE1,"190 Ethan Circle
+North Jenniferside, SC 66778",Angles,1,0,0,2,1,0,1,2023-12-29,2023-04-04 03:25:08,Other,Wet,Dark - Street Lights Off,Y,Y
+154,REPORT154,STATUS3,ADDRTYPE2,"Unit 4211 Box 5763
+DPO AA 20227",Pedestrian,3,2,1,3,1,1,1,2023-02-26,2023-10-09 03:25:08,Raining,Other,Dusk,Y,Y
+155,REPORT155,STATUS2,ADDRTYPE3,"PSC 1092, Box 8006
+APO AE 66126",Angles,5,1,0,3,0,1,0,2023-06-07,2023-05-12 03:25:08,Overcast,Snow/Slush,Dusk,Y,Y
+156,REPORT156,STATUS3,ADDRTYPE1,"26439 Everett Dam Suite 451
+Jensenbury, NM 10393",Pedestrian,3,2,1,3,1,1,1,2023-04-13,2023-11-30 03:25:08,Snowing,Oil,Dark - Street Lights Off,Y,Y
+157,REPORT157,STATUS2,ADDRTYPE2,"6818 Sherry Squares
+Fisherville, DE 61127",Parked Car,5,1,0,1,3,1,1,2023-11-19,2023-09-07 03:25:08,Raining,Dry,Dark - Street Lights On,Y,Y
+158,REPORT158,STATUS3,ADDRTYPE2,"8548 Vernon Shoals Apt. 858
+Leetown, IA 11734",Sideswipe,1,2,1,2,0,1,1,2023-11-15,2023-11-07 03:25:08,,,,Y,N
+159,REPORT159,STATUS1,ADDRTYPE3,"773 Eric Flats Apt. 637
+North Katherine, MP 91451",Left Turn,4,0,0,3,2,0,1,2023-04-23,2024-01-03 03:25:08,Severe Crosswind,Dry,Unknown,Y,Y
+160,REPORT160,STATUS3,ADDRTYPE2,"USS Poole
+FPO AE 64631",Angles,5,2,0,2,2,0,1,2023-04-03,2024-01-03 03:25:08,Unknown,Snow/Slush,Dark - Street Lights On,Y,N
+161,REPORT161,STATUS3,ADDRTYPE1,"039 James Walk
+South Cheyenne, FM 50153",Angles,2,0,1,1,3,0,0,2023-04-01,2024-02-06 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Unknown,Y,Y
+162,REPORT162,STATUS1,ADDRTYPE1,"22117 Misty Springs
+North Daniel, LA 82750",Left Turn,4,2,1,1,0,1,0,2023-12-05,2023-07-11 03:25:08,,,,N,Y
+163,REPORT163,STATUS3,ADDRTYPE3,"732 David Neck
+Lake Carl, OR 01230",Sideswipe,1,1,1,2,1,0,0,2023-10-25,2024-02-14 03:25:08,,,,Y,N
+164,REPORT164,STATUS3,ADDRTYPE3,"66850 Delgado Way Suite 592
+East Elizabethshire, SC 49512",Sideswipe,2,1,0,3,1,0,0,2023-12-20,2023-04-04 03:25:08,Snowing,Snow/Slush,Other,Y,Y
+165,REPORT165,STATUS2,ADDRTYPE1,"8241 King Parks
+West Teresatown, CO 00635",Cycles,3,1,0,3,0,1,1,2023-12-14,2023-04-22 03:25:08,Fog/Smog/Smoke,Snow/Slush,Dark - No Street Lights,Y,Y
+166,REPORT166,STATUS3,ADDRTYPE3,"49971 Brenda Fort Suite 894
+Lake Theresa, WI 36707",Pedestrian,1,1,1,1,0,0,1,2023-07-29,2023-12-03 03:25:08,Severe Crosswind,Dry,Dark - No Street Lights,Y,Y
+167,REPORT167,STATUS2,ADDRTYPE1,"31163 Jasmine Walk
+South Jenniferton, NC 21119",Parked Car,4,1,0,1,2,0,1,2024-01-31,2024-02-05 03:25:08,Clear,Dry,Dark - Street Lights Off,N,N
+168,REPORT168,STATUS1,ADDRTYPE2,"9060 Tracy Light
+Lake Ashley, FL 11214",Cycles,3,1,0,1,1,1,0,2023-10-02,2023-04-09 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Dusk,N,Y
+169,REPORT169,STATUS2,ADDRTYPE3,"49488 Nguyen Radial
+North Tinafort, CT 62972",Left Turn,3,2,1,1,3,0,1,2023-11-13,2023-02-22 03:25:08,Raining,Sand/Mud/Dirt,Dusk,Y,Y
+170,REPORT170,STATUS2,ADDRTYPE1,"8488 Hernandez Estate
+Lake Juliamouth, KS 48175",Cycles,1,0,0,3,1,0,0,2023-12-07,2023-05-17 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Dark - Street Lights On,N,Y
+171,REPORT171,STATUS1,ADDRTYPE3,"6466 Berry Camp
+Lauratown, KY 00676",Rear Ended,4,2,1,1,2,0,1,2023-07-16,2024-01-10 03:25:08,,,,Y,N
+172,REPORT172,STATUS2,ADDRTYPE2,"52484 Jennifer Ville Suite 313
+East Crystal, IL 55307",Left Turn,1,2,1,2,0,1,0,2024-02-10,2023-05-03 03:25:08,Snowing,Sand/Mud/Dirt,Other,N,N
+173,REPORT173,STATUS1,ADDRTYPE1,"PSC 5104, Box 4080
+APO AA 49311",Pedestrian,2,2,0,2,1,0,1,2023-04-10,2023-08-08 03:25:08,Clear,Oil,Dawn,Y,N
+174,REPORT174,STATUS3,ADDRTYPE1,"5485 Daniel Trail Apt. 648
+West Kevinborough, MA 79913",Sideswipe,2,0,0,2,0,0,0,2023-11-09,2024-02-07 03:25:08,Clear,Wet,Dark - Street Lights On,N,Y
+175,REPORT175,STATUS3,ADDRTYPE1,"6260 Heather Court
+Gallagherhaven, LA 43826",Rear Ended,5,1,1,3,1,1,1,2024-01-04,2023-12-15 03:25:08,Other,Dry,Other,N,N
+176,REPORT176,STATUS2,ADDRTYPE2,"300 Carroll Plaza Apt. 301
+West Bryanberg, CO 26738",Angles,3,2,1,2,3,0,1,2024-01-24,2023-07-02 03:25:08,,,,Y,Y
+177,REPORT177,STATUS3,ADDRTYPE1,"27474 Johnny Viaduct Suite 977
+North Christopherberg, KY 56283",Pedestrian,5,2,0,2,3,1,1,2023-08-09,2023-04-01 03:25:08,,,,N,Y
+178,REPORT178,STATUS1,ADDRTYPE3,"56239 Carrie River
+New Jeremy, IA 93557",Left Turn,4,0,0,3,1,0,0,2023-07-26,2023-04-02 03:25:08,Unknown,Unknown,Dark - Street Lights Off,Y,Y
+179,REPORT179,STATUS3,ADDRTYPE1,"77743 Emily Pass
+North Anthony, FM 51431",Parked Car,2,2,0,1,1,1,0,2023-05-27,2023-08-20 03:25:08,Other,Unknown,Dark - Street Lights Off,Y,Y
+180,REPORT180,STATUS1,ADDRTYPE2,"249 Lindsey Club Suite 842
+Jasonbury, WA 78203",Rear Ended,5,2,0,1,0,0,0,2023-09-16,2023-11-16 03:25:08,,,,Y,Y
+181,REPORT181,STATUS3,ADDRTYPE3,"5149 Sylvia Underpass
+Brianashire, PW 46023",Parked Car,2,2,1,1,0,1,0,2023-02-26,2023-10-20 03:25:08,Overcast,Wet,Dark - Street Lights On,Y,Y
+182,REPORT182,STATUS2,ADDRTYPE2,"46843 Holland Glen Apt. 126
+Snyderhaven, NC 20773",Cycles,2,1,0,1,2,1,0,2023-04-01,2023-03-22 03:25:08,Unknown,Standing Water,Dark - No Street Lights,Y,N
+183,REPORT183,STATUS3,ADDRTYPE3,"239 Anna Center
+Lake Kristie, ND 40925",Rear Ended,2,2,0,1,2,0,1,2023-10-24,2023-10-29 03:25:08,Blowing Sand/Dirt,Wet,Dark - No Street Lights,N,Y
+184,REPORT184,STATUS3,ADDRTYPE3,"08886 King Oval Apt. 095
+West Tracyville, WY 41110",Parked Car,1,1,0,3,1,1,0,2023-10-29,2023-09-20 03:25:08,Other,Dry,Dawn,Y,Y
+185,REPORT185,STATUS3,ADDRTYPE2,"052 Julia Fords Suite 020
+South Sarahland, MT 21826",Angles,5,2,1,2,3,0,0,2023-08-31,2023-11-12 03:25:08,Clear,Sand/Mud/Dirt,Dark - Street Lights On,Y,N
+186,REPORT186,STATUS1,ADDRTYPE2,"50740 Fuentes Pike Suite 721
+Jacksonshire, NM 56248",Other,3,1,0,1,2,0,0,2023-07-16,2023-05-21 03:25:08,Unknown,Dry,Dark - Street Lights Off,Y,N
+187,REPORT187,STATUS1,ADDRTYPE2,"7939 Robin Groves
+Sharonside, MP 78707",Left Turn,5,0,0,2,2,0,0,2023-06-19,2023-10-17 03:25:08,Sleet/Hail/Freezing Rain,Other,Dawn,Y,N
+188,REPORT188,STATUS2,ADDRTYPE2,"702 Edward Valley
+Watsonburgh, IA 63223",Left Turn,3,2,0,2,3,1,1,2024-01-19,2023-08-10 03:25:08,Raining,Wet,Dusk,Y,N
+189,REPORT189,STATUS1,ADDRTYPE1,"96707 Melissa Hills
+East Justin, PA 15840",Pedestrian,5,2,1,2,0,1,1,2023-06-03,2023-10-09 03:25:08,Severe Crosswind,Oil,Dark - Street Lights On,Y,N
+190,REPORT190,STATUS3,ADDRTYPE2,"1676 Katie Summit
+East Brookeside, NV 21249",Rear Ended,5,0,0,3,0,1,0,2023-07-16,2023-03-19 03:25:08,Severe Crosswind,Snow/Slush,Dark - Street Lights Off,N,N
+191,REPORT191,STATUS3,ADDRTYPE3,"37769 Whitney Circles
+Candaceton, MA 98271",Parked Car,2,1,0,1,0,1,0,2023-03-27,2024-01-24 03:25:08,Clear,Ice,Other,Y,N
+192,REPORT192,STATUS1,ADDRTYPE1,"75546 Paul Burg
+West Andrew, AL 85464",Cycles,3,0,1,3,1,0,1,2024-01-24,2023-10-02 03:25:08,Other,Dry,Daylight,Y,N
+193,REPORT193,STATUS3,ADDRTYPE2,"38517 James Ranch
+Shannonville, ND 88850",Left Turn,3,1,1,2,1,1,0,2023-09-17,2024-01-08 03:25:08,Raining,Other,Dawn,N,N
+194,REPORT194,STATUS2,ADDRTYPE1,"0290 Shawn Forks Apt. 478
+Mistyhaven, NY 72343",Left Turn,3,0,1,1,0,0,1,2023-12-25,2023-12-08 03:25:08,Fog/Smog/Smoke,Other,Dark - No Street Lights,N,N
+195,REPORT195,STATUS2,ADDRTYPE3,"0804 Shirley Wall Suite 832
+East Hector, CT 92961",Cycles,5,2,0,1,3,1,0,2023-10-05,2023-04-04 03:25:08,Severe Crosswind,Unknown,Daylight,N,Y
+196,REPORT196,STATUS1,ADDRTYPE3,"4022 Reynolds Neck Suite 108
+Huffmanside, KY 06948",Angles,3,1,1,3,0,1,1,2023-08-17,2024-02-08 03:25:08,Severe Crosswind,Other,Unknown,N,N
+197,REPORT197,STATUS1,ADDRTYPE3,"48492 Jaime Crest
+Amyport, ND 42920",Parked Car,5,2,0,3,0,0,0,2023-09-29,2023-03-30 03:25:08,Raining,Oil,Dusk,Y,Y
+198,REPORT198,STATUS2,ADDRTYPE1,"9241 Chelsea Avenue Suite 848
+Thompsonland, AL 58006",Left Turn,1,2,1,2,1,0,0,2023-08-24,2023-04-29 03:25:08,Blowing Sand/Dirt,Dry,Unknown,N,Y
+199,REPORT199,STATUS2,ADDRTYPE1,"825 Kelsey Knoll Suite 900
+Keymouth, AZ 78113",Pedestrian,2,0,1,2,3,0,1,2023-02-20,2023-12-29 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Daylight,N,Y
+200,REPORT200,STATUS1,ADDRTYPE2,"4605 Osborne Vista Apt. 495
+East Michaelburgh, NY 24517",Left Turn,4,2,1,2,2,1,1,2023-07-20,2023-12-25 03:25:08,Overcast,Standing Water,Unknown,N,Y
+201,REPORT201,STATUS1,ADDRTYPE2,"3034 Newman Cove Apt. 792
+South Maria, PR 42462",Sideswipe,1,1,0,2,3,1,1,2023-10-16,2023-06-29 03:25:08,,,,Y,N
+202,REPORT202,STATUS1,ADDRTYPE2,"4329 Catherine Ford
+Silvashire, FL 48612",Other,3,2,1,1,1,0,0,2023-09-09,2023-04-20 03:25:08,Clear,Wet,Unknown,Y,N
+203,REPORT203,STATUS3,ADDRTYPE3,"58205 Hahn Plains
+Ramirezburgh, SD 05095",Angles,2,0,0,3,2,0,0,2024-01-26,2023-12-19 03:25:08,Raining,Ice,Other,N,Y
+204,REPORT204,STATUS1,ADDRTYPE2,"5953 Marks Inlet
+Gonzalezburgh, MT 39089",Rear Ended,2,0,1,3,1,1,0,2023-11-18,2023-12-27 03:25:08,Clear,Oil,Daylight,N,N
+205,REPORT205,STATUS1,ADDRTYPE1,"90274 Christina Centers
+Penningtonmouth, PR 10803",Parked Car,2,1,1,1,0,0,1,2024-01-30,2023-12-09 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Daylight,Y,N
+206,REPORT206,STATUS3,ADDRTYPE2,"07076 Brown Plaza
+New Lukeshire, MP 73931",Cycles,2,0,0,1,2,1,1,2024-02-19,2023-09-28 03:25:08,Blowing Sand/Dirt,Snow/Slush,Dusk,Y,N
+207,REPORT207,STATUS2,ADDRTYPE3,"0674 Byrd Village Suite 653
+New Christophermouth, WI 18434",Pedestrian,3,2,0,3,1,1,0,2024-01-24,2023-10-08 03:25:08,Unknown,Wet,Dawn,Y,N
+208,REPORT208,STATUS1,ADDRTYPE2,"PSC 9637, Box 0485
+APO AP 88038",Angles,2,1,1,2,0,0,1,2023-03-18,2023-11-19 03:25:08,Other,Unknown,Dark - No Street Lights,Y,N
+209,REPORT209,STATUS3,ADDRTYPE3,"30041 Lawson Plains Suite 403
+Teresahaven, OK 87539",Sideswipe,4,1,1,3,1,0,0,2023-09-08,2024-01-03 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dark - Street Lights Off,N,Y
+210,REPORT210,STATUS1,ADDRTYPE3,"6013 Martin Trail
+South David, MS 57082",Sideswipe,4,1,1,3,3,1,0,2023-11-03,2024-01-11 03:25:08,,,,N,N
+211,REPORT211,STATUS1,ADDRTYPE3,"USS Harper
+FPO AA 41800",Cycles,2,1,0,3,1,0,0,2023-09-26,2023-06-11 03:25:08,Snowing,Snow/Slush,Dark - Street Lights Off,Y,N
+212,REPORT212,STATUS3,ADDRTYPE2,"36972 Henry Islands Suite 005
+North Stacy, NM 91813",Other,5,1,0,1,3,0,1,2023-06-23,2023-08-18 03:25:08,Unknown,Ice,Unknown,N,Y
+213,REPORT213,STATUS2,ADDRTYPE1,"41046 Cruz Summit Apt. 387
+Onealton, FL 59614",Sideswipe,3,2,0,1,1,0,1,2023-09-29,2023-11-05 03:25:08,Clear,Oil,Unknown,Y,Y
+214,REPORT214,STATUS3,ADDRTYPE2,"7908 Huerta Ridge
+Port Laura, PW 01806",Cycles,4,1,0,1,0,0,1,2023-04-15,2023-08-03 03:25:08,Clear,Standing Water,Unknown,N,Y
+215,REPORT215,STATUS1,ADDRTYPE3,"063 Gonzalez Vista
+Sherrishire, OK 21540",Other,4,1,0,1,3,1,0,2023-12-30,2023-12-30 03:25:08,Clear,Unknown,Unknown,Y,N
+216,REPORT216,STATUS2,ADDRTYPE2,"4512 Christopher Ford Suite 260
+Jameschester, OR 32710",Angles,4,0,1,1,3,1,1,2023-07-14,2023-06-13 03:25:08,Unknown,Dry,Dark - No Street Lights,Y,Y
+217,REPORT217,STATUS3,ADDRTYPE2,"894 Amanda Square
+Angelicastad, GU 84152",Parked Car,1,1,0,3,0,1,0,2023-11-17,2024-02-08 03:25:08,,,,N,N
+218,REPORT218,STATUS3,ADDRTYPE2,"171 Elizabeth Isle
+South Katrina, ND 68052",Angles,1,0,1,2,3,0,1,2023-10-13,2023-07-23 03:25:08,Severe Crosswind,Snow/Slush,Unknown,N,Y
+219,REPORT219,STATUS2,ADDRTYPE3,"13610 Rubio Knoll Suite 702
+Amandaland, RI 70746",Cycles,4,2,1,1,1,0,1,2023-06-13,2024-01-13 03:25:08,Fog/Smog/Smoke,Oil,Daylight,Y,N
+220,REPORT220,STATUS1,ADDRTYPE3,"Unit 2021 Box 1337
+DPO AE 59599",Parked Car,5,2,1,1,1,1,0,2023-08-17,2023-06-15 03:25:08,,,,N,N
+221,REPORT221,STATUS3,ADDRTYPE2,"514 Espinoza Rapid
+Johnburgh, WY 96864",Cycles,3,2,0,1,3,1,0,2023-09-01,2023-04-05 03:25:08,,,,N,Y
+222,REPORT222,STATUS3,ADDRTYPE2,"5014 Jimenez Summit
+New Stephenton, AR 02715",Angles,3,2,0,3,1,1,0,2023-09-17,2024-01-11 03:25:08,Sleet/Hail/Freezing Rain,Other,Dawn,N,Y
+223,REPORT223,STATUS3,ADDRTYPE2,"56987 Brian Villages
+Nicolemouth, IL 29281",Left Turn,4,0,1,3,3,1,1,2023-12-24,2023-11-04 03:25:08,Clear,Sand/Mud/Dirt,Dark - Street Lights Off,N,Y
+224,REPORT224,STATUS1,ADDRTYPE1,"5348 Marie Lights
+Lake Maria, MN 27625",Left Turn,4,1,1,3,2,0,0,2024-01-01,2023-03-05 03:25:08,Fog/Smog/Smoke,Wet,Dark - No Street Lights,N,Y
+225,REPORT225,STATUS3,ADDRTYPE3,"824 Daniel Streets
+Estradafort, TX 34259",Angles,3,0,1,2,1,1,1,2023-03-14,2023-07-20 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dawn,N,N
+226,REPORT226,STATUS2,ADDRTYPE1,"0936 Marcus Forge Suite 181
+Simmonsside, WA 56214",Sideswipe,5,2,1,2,3,0,0,2024-02-13,2023-08-11 03:25:08,Overcast,Wet,Dark - No Street Lights,N,N
+227,REPORT227,STATUS2,ADDRTYPE3,"77431 Michael Keys
+Johnstonfort, PA 57970",Sideswipe,1,0,1,1,1,1,1,2023-03-07,2023-09-12 03:25:08,Fog/Smog/Smoke,Wet,Daylight,N,N
+228,REPORT228,STATUS3,ADDRTYPE2,"4804 Kristen Creek
+Kimberlymouth, MT 26891",Parked Car,1,2,1,1,2,0,1,2023-05-13,2023-04-01 03:25:08,Fog/Smog/Smoke,Wet,Daylight,N,N
+229,REPORT229,STATUS3,ADDRTYPE1,"99272 Emily Row
+Davidfort, CO 91280",Parked Car,4,1,1,1,2,1,1,2023-12-15,2023-07-04 03:25:08,Blowing Sand/Dirt,Unknown,Dark - No Street Lights,N,N
+230,REPORT230,STATUS2,ADDRTYPE2,"PSC 3866, Box 2478
+APO AP 32917",Left Turn,3,2,0,2,1,1,1,2023-09-03,2023-11-29 03:25:08,Overcast,Wet,Daylight,Y,N
+231,REPORT231,STATUS2,ADDRTYPE1,"5168 Susan Flat
+Jonesport, KY 84586",Other,1,1,1,1,2,1,0,2023-08-19,2023-11-19 03:25:08,Raining,Unknown,Other,Y,N
+232,REPORT232,STATUS3,ADDRTYPE2,"10633 Henry Crossroad Suite 883
+Duncanshire, WV 48705",Angles,5,1,1,1,1,1,0,2023-08-18,2023-09-20 03:25:08,Sleet/Hail/Freezing Rain,Other,Daylight,Y,Y
+233,REPORT233,STATUS2,ADDRTYPE3,"26904 Jones Ramp
+Weeksbury, NY 22401",Other,4,0,0,3,0,1,1,2023-04-24,2024-02-14 03:25:08,Raining,Dry,Unknown,Y,N
+234,REPORT234,STATUS1,ADDRTYPE2,"873 Suzanne Ridges
+North Peter, FL 14975",Parked Car,2,0,1,2,0,1,1,2023-05-25,2023-11-20 03:25:08,Severe Crosswind,Unknown,Dark - Street Lights Off,N,Y
+235,REPORT235,STATUS1,ADDRTYPE3,"214 Jones Station
+South Tamiview, MA 92885",Other,4,0,1,3,2,0,1,2023-04-16,2023-03-19 03:25:08,,,,N,N
+236,REPORT236,STATUS1,ADDRTYPE2,"820 Villegas Stravenue
+Wolfport, AK 22756",Cycles,2,0,1,3,1,1,1,2023-08-13,2023-05-05 03:25:08,Other,Ice,Dark - Street Lights Off,N,Y
+237,REPORT237,STATUS1,ADDRTYPE2,"4522 Wilson Burgs
+East Lawrencefurt, WA 43766",Rear Ended,4,1,1,3,0,1,1,2023-10-21,2023-04-02 03:25:08,Unknown,Other,Unknown,N,Y
+238,REPORT238,STATUS2,ADDRTYPE3,"71400 Julia Canyon
+East Daleshire, VA 51575",Left Turn,3,1,1,3,3,0,0,2023-03-24,2023-04-15 03:25:08,Other,Sand/Mud/Dirt,Unknown,N,Y
+239,REPORT239,STATUS1,ADDRTYPE3,"784 Cassidy Canyon
+New Rogerton, CO 82664",Left Turn,3,2,1,3,3,1,1,2023-10-01,2024-02-03 03:25:08,Fog/Smog/Smoke,Wet,Dark - Street Lights On,N,Y
+240,REPORT240,STATUS3,ADDRTYPE1,"9890 Mason Pass
+Smithland, MN 19301",Cycles,3,1,0,3,3,1,0,2023-11-04,2023-12-21 03:25:08,Clear,Ice,Daylight,N,N
+241,REPORT241,STATUS3,ADDRTYPE2,"USCGC Gardner
+FPO AP 47759",Parked Car,3,0,0,3,1,0,0,2023-04-26,2023-08-28 03:25:08,Unknown,Snow/Slush,Dark - No Street Lights,N,N
+242,REPORT242,STATUS1,ADDRTYPE1,"USNS Wagner
+FPO AA 89784",Angles,5,1,0,1,2,0,1,2023-08-07,2023-08-26 03:25:08,Unknown,Ice,Dusk,N,Y
+243,REPORT243,STATUS3,ADDRTYPE1,"USS Dennis
+FPO AE 23672",Angles,5,2,1,2,1,1,1,2024-01-06,2023-06-17 03:25:08,Raining,Unknown,Dark - Street Lights On,Y,N
+244,REPORT244,STATUS1,ADDRTYPE3,"8397 Griffin Viaduct Suite 856
+North Richardbury, VI 58675",Sideswipe,2,0,0,3,2,1,1,2023-12-27,2023-04-11 03:25:08,Severe Crosswind,Snow/Slush,Dark - Street Lights Off,Y,N
+245,REPORT245,STATUS1,ADDRTYPE3,"278 Laura Square Apt. 764
+Dennisland, VA 23532",Pedestrian,5,0,0,3,1,0,0,2023-12-15,2023-04-18 03:25:08,Clear,Dry,Dark - Street Lights On,N,N
+246,REPORT246,STATUS1,ADDRTYPE2,"966 Regina Stravenue Suite 656
+Marshville, NH 93137",Cycles,4,1,0,2,1,0,0,2023-04-03,2023-05-16 03:25:08,Unknown,Standing Water,Dark - Street Lights On,N,N
+247,REPORT247,STATUS3,ADDRTYPE1,"649 Jackson Wall Suite 459
+West Robertberg, KS 49035",Pedestrian,3,1,1,1,1,1,1,2023-04-17,2024-02-17 03:25:08,Fog/Smog/Smoke,Snow/Slush,Other,Y,Y
+248,REPORT248,STATUS3,ADDRTYPE2,"53185 Pollard River Suite 538
+Brianfurt, GA 74534",Pedestrian,1,2,1,1,0,0,0,2023-12-20,2023-11-30 03:25:08,Blowing Sand/Dirt,Unknown,Other,Y,N
+249,REPORT249,STATUS1,ADDRTYPE1,"USCGC Kim
+FPO AE 72325",Angles,1,0,0,2,3,1,0,2024-01-29,2023-05-28 03:25:08,Severe Crosswind,Snow/Slush,Dark - Street Lights Off,N,N
+250,REPORT250,STATUS1,ADDRTYPE3,"19049 Howell Land Apt. 857
+Meadowschester, WI 23137",Parked Car,1,1,0,2,3,1,0,2023-04-25,2023-10-12 03:25:08,Clear,Unknown,Other,N,N
+251,REPORT251,STATUS1,ADDRTYPE2,"3744 Watson Isle Suite 306
+Richardland, CA 10060",Left Turn,4,2,1,2,1,1,1,2023-03-21,2023-12-19 03:25:08,Clear,Other,Unknown,Y,Y
+252,REPORT252,STATUS1,ADDRTYPE1,"948 Alison Stream Apt. 569
+Port Tammyton, HI 20615",Angles,1,0,0,2,3,0,1,2023-11-14,2023-11-13 03:25:08,Unknown,Standing Water,Daylight,N,N
+253,REPORT253,STATUS2,ADDRTYPE3,"68303 Huerta Burg
+Dixonfurt, IA 72937",Cycles,1,0,0,1,3,1,0,2023-11-13,2023-04-15 03:25:08,Clear,Ice,Dawn,N,Y
+254,REPORT254,STATUS1,ADDRTYPE1,"8715 Martin Hills Suite 051
+Susanborough, IL 78655",Cycles,2,1,0,2,2,1,0,2023-02-24,2024-02-04 03:25:08,Raining,Ice,Other,Y,N
+255,REPORT255,STATUS3,ADDRTYPE2,"5246 Bowman Crossroad
+Vincentside, GU 70782",Left Turn,4,1,1,3,0,0,1,2023-07-06,2023-05-21 03:25:08,Clear,Snow/Slush,Other,N,N
+256,REPORT256,STATUS1,ADDRTYPE3,"877 Wells Canyon Suite 820
+New Brooke, MD 55555",Parked Car,4,0,1,1,3,0,1,2023-12-31,2024-02-08 03:25:08,Overcast,Ice,Dawn,Y,Y
+257,REPORT257,STATUS2,ADDRTYPE1,"9045 King Pike Suite 244
+Johnshire, UT 84216",Parked Car,1,0,0,2,1,1,0,2024-01-12,2023-05-30 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Unknown,Y,N
+258,REPORT258,STATUS3,ADDRTYPE1,"5447 Vance Extension Apt. 198
+Port Patrick, SC 45915",Parked Car,4,2,0,2,1,0,1,2023-05-16,2023-06-02 03:25:08,Overcast,Snow/Slush,Dark - No Street Lights,Y,Y
+259,REPORT259,STATUS2,ADDRTYPE2,"84585 Lynch Port Apt. 856
+South Jennifer, IL 17747",Pedestrian,2,0,1,1,2,1,0,2023-04-09,2023-12-03 03:25:08,Snowing,Snow/Slush,Dark - No Street Lights,Y,Y
+260,REPORT260,STATUS1,ADDRTYPE2,"682 King Cliffs Suite 700
+Port Annamouth, MI 96428",Rear Ended,2,1,0,1,3,1,0,2023-08-28,2023-11-01 03:25:08,Clear,Sand/Mud/Dirt,Dark - Street Lights On,Y,Y
+261,REPORT261,STATUS3,ADDRTYPE2,"671 Cameron Circles Suite 645
+East Matthew, ME 29071",Angles,3,0,1,3,1,0,1,2023-09-18,2023-08-17 03:25:08,Other,Snow/Slush,Other,Y,Y
+262,REPORT262,STATUS1,ADDRTYPE3,"337 Brandon Coves
+Port Justinmouth, ME 14462",Parked Car,2,0,0,2,1,0,1,2023-06-22,2023-12-23 03:25:08,Other,Wet,Other,N,N
+263,REPORT263,STATUS3,ADDRTYPE3,"876 Parker Pike
+East Crystalfort, MD 94764",Sideswipe,3,2,0,2,0,0,1,2023-11-08,2023-10-31 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Dusk,N,Y
+264,REPORT264,STATUS3,ADDRTYPE2,"00140 Pamela Gardens
+Oneillbury, CT 33178",Parked Car,1,1,1,3,3,0,0,2023-05-22,2024-02-04 03:25:08,Unknown,Other,Unknown,Y,Y
+265,REPORT265,STATUS3,ADDRTYPE3,"19610 Diane Manor
+North Johnhaven, MD 65266",Parked Car,3,2,1,2,0,1,1,2023-12-03,2023-09-05 03:25:08,Snowing,Other,Dusk,N,Y
+266,REPORT266,STATUS2,ADDRTYPE1,"PSC 9571, Box 0686
+APO AE 60473",Left Turn,3,1,1,3,0,1,0,2024-01-28,2023-12-11 03:25:08,Overcast,Other,Unknown,N,N
+267,REPORT267,STATUS1,ADDRTYPE2,"2083 Chelsea Drives Suite 104
+Bullockburgh, IN 06952",Other,1,1,0,1,3,0,0,2023-12-16,2023-10-30 03:25:08,,,,Y,Y
+268,REPORT268,STATUS2,ADDRTYPE3,"341 Arias Island
+West Michael, DE 77312",Left Turn,3,1,0,3,0,1,1,2023-11-13,2024-01-08 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dusk,Y,N
+269,REPORT269,STATUS2,ADDRTYPE3,"819 Sanders Common
+Nguyenton, AR 05413",Sideswipe,2,1,1,1,3,1,0,2023-07-20,2023-03-02 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Dark - Street Lights On,N,N
+270,REPORT270,STATUS1,ADDRTYPE2,"5718 Maureen Prairie
+South Michelle, TN 12415",Angles,1,1,1,3,3,1,0,2023-05-14,2023-12-17 03:25:08,Raining,Dry,Dark - Street Lights On,N,N
+271,REPORT271,STATUS1,ADDRTYPE2,"USCGC Guzman
+FPO AA 10813",Sideswipe,4,0,0,1,3,1,1,2023-02-20,2023-10-05 03:25:08,Raining,Standing Water,Dark - Street Lights Off,Y,N
+272,REPORT272,STATUS1,ADDRTYPE3,"3944 Denise Roads Suite 336
+Angelaton, KS 21874",Other,3,0,0,1,0,0,1,2023-10-13,2023-10-02 03:25:08,Raining,Unknown,Dawn,N,N
+273,REPORT273,STATUS3,ADDRTYPE3,"79537 Amanda Ports
+Cannonfurt, MA 49526",Sideswipe,2,2,1,3,3,0,1,2023-05-09,2023-06-18 03:25:08,,,,N,N
+274,REPORT274,STATUS2,ADDRTYPE2,"1571 Carol Streets
+Lake Deannaburgh, VI 85340",Parked Car,4,0,0,3,3,0,1,2023-08-26,2023-11-09 03:25:08,Blowing Sand/Dirt,Ice,Dusk,Y,N
+275,REPORT275,STATUS2,ADDRTYPE3,"PSC 8201, Box 8834
+APO AE 16516",Sideswipe,1,2,0,3,1,1,0,2023-08-16,2024-01-03 03:25:08,Unknown,Standing Water,Dusk,Y,N
+276,REPORT276,STATUS2,ADDRTYPE1,"0648 Sosa Islands
+East Tracytown, OK 43326",Angles,1,1,0,3,0,0,1,2023-07-05,2023-08-25 03:25:08,Sleet/Hail/Freezing Rain,Other,Dawn,N,Y
+277,REPORT277,STATUS2,ADDRTYPE3,"096 Dean Ridge
+Lake Lydia, ID 14621",Parked Car,1,0,0,1,0,0,0,2023-04-03,2023-02-22 03:25:08,Other,Snow/Slush,Unknown,N,Y
+278,REPORT278,STATUS2,ADDRTYPE1,"020 Scott Island Apt. 974
+South Trevormouth, NC 81341",Parked Car,2,1,0,2,3,1,0,2023-12-21,2023-05-13 03:25:08,Unknown,Ice,Dawn,N,N
+279,REPORT279,STATUS3,ADDRTYPE1,"4189 Campbell Corner Apt. 783
+Port Marissa, VA 54112",Parked Car,4,2,1,3,1,0,1,2023-07-11,2023-03-23 03:25:08,Sleet/Hail/Freezing Rain,Other,Dark - No Street Lights,N,N
+280,REPORT280,STATUS1,ADDRTYPE3,"037 Contreras Burgs Apt. 068
+New Robertside, OK 77960",Left Turn,1,0,0,3,1,0,0,2024-01-16,2023-09-22 03:25:08,Snowing,Oil,Other,Y,N
+281,REPORT281,STATUS3,ADDRTYPE3,"424 Katherine Orchard
+Garyton, MA 70214",Rear Ended,2,0,0,3,2,1,0,2023-06-17,2023-06-25 03:25:08,Other,Oil,Dawn,N,Y
+282,REPORT282,STATUS3,ADDRTYPE2,"349 Miller Circle Suite 390
+Manningtown, AS 14485",Rear Ended,5,2,0,3,2,1,1,2023-07-20,2023-06-11 03:25:08,Blowing Sand/Dirt,Snow/Slush,Unknown,Y,Y
+283,REPORT283,STATUS3,ADDRTYPE1,"Unit 9937 Box 1298
+DPO AA 23085",Angles,2,0,0,2,1,1,1,2023-05-27,2023-07-11 03:25:08,Snowing,Wet,Dark - No Street Lights,N,Y
+284,REPORT284,STATUS1,ADDRTYPE3,"48013 Diane Center Suite 194
+West Roberto, NC 62963",Rear Ended,5,2,1,2,0,1,1,2023-06-07,2023-06-02 03:25:08,Unknown,Oil,Dark - Street Lights Off,Y,N
+285,REPORT285,STATUS1,ADDRTYPE1,"5968 Aaron Extensions Suite 013
+Micheleton, PR 52108",Sideswipe,4,2,1,3,0,1,1,2024-02-08,2023-07-30 03:25:08,Blowing Sand/Dirt,Ice,Dark - No Street Lights,Y,N
+286,REPORT286,STATUS2,ADDRTYPE2,"2810 Vanessa Fort Suite 791
+Guzmanborough, UT 25241",Other,1,0,1,2,3,1,0,2023-11-26,2023-11-13 03:25:08,,,,N,N
+287,REPORT287,STATUS3,ADDRTYPE1,"40299 Medina Parkway
+Langstad, GA 41664",Pedestrian,1,0,1,2,2,1,0,2023-04-19,2023-10-14 03:25:08,Other,Ice,Daylight,N,N
+288,REPORT288,STATUS2,ADDRTYPE3,"046 Michael Camp Suite 538
+Edwardhaven, PR 16781",Rear Ended,3,2,1,3,1,0,0,2023-10-02,2023-11-23 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Dark - Street Lights Off,N,Y
+289,REPORT289,STATUS1,ADDRTYPE3,"59703 Potter Greens
+East Wesley, PA 37405",Cycles,1,1,0,3,3,0,1,2023-02-28,2023-11-10 03:25:08,Blowing Sand/Dirt,Snow/Slush,Daylight,Y,Y
+290,REPORT290,STATUS1,ADDRTYPE1,"236 Kenneth Ridges Apt. 689
+Port Davidmouth, AL 42519",Sideswipe,4,1,0,3,0,0,0,2023-12-15,2023-03-05 03:25:08,Raining,Dry,Dusk,Y,Y
+291,REPORT291,STATUS1,ADDRTYPE2,"8774 Kyle Mills Apt. 211
+North Mariaburgh, NY 10463",Sideswipe,2,0,0,2,3,0,1,2023-09-24,2023-09-29 03:25:08,Clear,Wet,Unknown,N,Y
+292,REPORT292,STATUS1,ADDRTYPE1,"3419 Richard Street Suite 192
+Banksshire, ND 98316",Cycles,4,0,0,1,3,1,1,2024-01-27,2023-08-02 03:25:08,Other,Oil,Daylight,Y,N
+293,REPORT293,STATUS3,ADDRTYPE3,"26734 Yoder Inlet Suite 980
+Phillipstad, GU 52089",Other,1,1,1,3,1,0,0,2023-05-06,2023-12-29 03:25:08,Fog/Smog/Smoke,Unknown,Unknown,N,N
+294,REPORT294,STATUS2,ADDRTYPE2,"88747 Johnson Overpass
+West David, AL 00696",Pedestrian,2,2,1,3,3,1,0,2024-01-19,2023-04-27 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Daylight,N,N
+295,REPORT295,STATUS1,ADDRTYPE1,"280 Cameron Hills
+East Joshuaborough, MT 11280",Sideswipe,4,2,1,2,1,0,0,2023-03-01,2023-04-25 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Dusk,Y,Y
+296,REPORT296,STATUS2,ADDRTYPE1,"8119 Tucker Union Suite 320
+Davidside, AK 03006",Cycles,1,1,1,3,2,0,0,2023-11-14,2023-09-13 03:25:08,Snowing,Sand/Mud/Dirt,Unknown,N,Y
+297,REPORT297,STATUS1,ADDRTYPE2,"048 Gibson Heights
+East Jaredburgh, VA 96714",Angles,1,0,0,3,3,1,0,2023-07-31,2023-11-27 03:25:08,Raining,Other,Dark - Street Lights Off,Y,Y
+298,REPORT298,STATUS2,ADDRTYPE1,"124 Hernandez Lakes Suite 499
+New Meghanmouth, CT 40521",Rear Ended,1,0,0,3,0,0,1,2023-06-11,2023-11-06 03:25:08,Unknown,Other,Dark - No Street Lights,N,N
+299,REPORT299,STATUS2,ADDRTYPE2,"9617 Young Park
+Ramseyburgh, ND 87363",Parked Car,3,0,1,2,0,0,0,2023-03-06,2023-06-15 03:25:08,Overcast,Standing Water,Daylight,N,Y
+300,REPORT300,STATUS1,ADDRTYPE2,"076 Veronica Village
+Frankborough, SD 52236",Cycles,3,1,1,2,3,0,1,2023-05-23,2023-07-13 03:25:08,Blowing Sand/Dirt,Dry,Other,N,Y
+301,REPORT301,STATUS1,ADDRTYPE2,"315 Campbell Port
+Allisonberg, AZ 02012",Pedestrian,3,1,0,1,2,1,0,2023-06-02,2023-07-06 03:25:08,Unknown,Other,Other,Y,Y
+302,REPORT302,STATUS2,ADDRTYPE2,"Unit 4658 Box 9305
+DPO AP 12303",Cycles,2,1,1,3,0,1,0,2024-01-12,2023-07-18 03:25:08,Snowing,Wet,Dark - No Street Lights,Y,N
+303,REPORT303,STATUS3,ADDRTYPE1,"7823 Hall Harbor
+Jasonberg, IL 23033",Cycles,4,2,0,1,2,1,0,2023-11-27,2023-04-20 03:25:08,,,,N,Y
+304,REPORT304,STATUS1,ADDRTYPE1,"7844 Sanchez Brook Apt. 447
+Lisashire, CT 65040",Other,2,2,1,3,3,1,1,2023-07-10,2023-10-03 03:25:08,Unknown,Dry,Dark - Street Lights Off,N,N
+305,REPORT305,STATUS1,ADDRTYPE3,"Unit 8281 Box 4104
+DPO AE 05865",Left Turn,2,2,0,2,2,1,0,2023-06-04,2023-09-09 03:25:08,Raining,Unknown,Other,N,Y
+306,REPORT306,STATUS3,ADDRTYPE2,"2061 Kevin Shores
+South Amandaside, AL 22612",Parked Car,1,2,0,1,1,1,1,2023-08-07,2023-04-07 03:25:08,Other,Standing Water,Dusk,Y,N
+307,REPORT307,STATUS3,ADDRTYPE3,"9779 Moreno Branch
+Smithtown, CA 33140",Left Turn,5,1,1,1,0,1,1,2023-05-08,2023-12-26 03:25:08,,,,N,N
+308,REPORT308,STATUS1,ADDRTYPE3,"1166 Victor Viaduct Suite 519
+Andersonport, IL 11907",Left Turn,5,1,1,1,2,1,0,2023-08-04,2023-04-15 03:25:08,Clear,Other,Dawn,N,Y
+309,REPORT309,STATUS1,ADDRTYPE1,"551 Nichols Brook
+Port Crystalville, AR 02534",Left Turn,1,2,0,1,0,0,0,2023-07-29,2023-08-07 03:25:08,Unknown,Other,Other,Y,Y
+310,REPORT310,STATUS1,ADDRTYPE1,"Unit 6839 Box 6532
+DPO AE 65701",Pedestrian,5,0,1,2,2,0,0,2023-04-15,2023-07-15 03:25:08,Sleet/Hail/Freezing Rain,Wet,Dark - Street Lights On,Y,Y
+311,REPORT311,STATUS1,ADDRTYPE1,"0331 Kristina Mount
+Montgomerytown, MH 14644",Parked Car,2,1,1,3,0,0,0,2023-10-03,2023-11-09 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Dawn,N,Y
+312,REPORT312,STATUS2,ADDRTYPE1,"198 Christopher Valley
+North Mitchellshire, PR 82054",Left Turn,4,1,1,1,0,0,1,2023-11-06,2023-05-05 03:25:08,Raining,Other,Dark - No Street Lights,N,Y
+313,REPORT313,STATUS2,ADDRTYPE3,"020 Bryan Terrace
+East Johnmouth, CO 26717",Angles,3,1,1,3,3,0,0,2023-11-17,2023-08-23 03:25:08,Clear,Snow/Slush,Dark - No Street Lights,N,N
+314,REPORT314,STATUS2,ADDRTYPE2,"576 Cabrera Mount
+South Samuel, CA 83752",Left Turn,2,0,1,1,2,0,0,2024-02-18,2023-08-12 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Unknown,Y,N
+315,REPORT315,STATUS1,ADDRTYPE3,"7120 Kevin Estate
+South Katiefort, IL 57811",Other,2,0,0,3,3,0,1,2023-11-30,2023-04-02 03:25:08,Clear,Sand/Mud/Dirt,Dawn,Y,Y
+316,REPORT316,STATUS2,ADDRTYPE3,"USCGC Carter
+FPO AP 48218",Cycles,4,1,1,2,0,0,1,2023-05-03,2024-01-18 03:25:08,Snowing,Oil,Dark - No Street Lights,N,Y
+317,REPORT317,STATUS1,ADDRTYPE1,"701 Michael Lake Apt. 741
+Davismouth, GU 00697",Angles,5,0,1,2,2,0,1,2023-10-31,2023-07-04 03:25:08,Snowing,Unknown,Other,Y,N
+318,REPORT318,STATUS1,ADDRTYPE2,"141 Jessica Square Apt. 059
+Lake Calvinview, MH 91424",Sideswipe,4,0,1,1,2,0,0,2023-04-22,2023-11-26 03:25:08,Severe Crosswind,Dry,Other,N,Y
+319,REPORT319,STATUS2,ADDRTYPE3,"Unit 0031 Box 8698
+DPO AP 79363",Cycles,2,0,0,2,1,1,0,2023-02-28,2024-02-02 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dark - Street Lights On,N,N
+320,REPORT320,STATUS1,ADDRTYPE1,"2115 Hall Harbors Suite 315
+East Stevenbury, FL 59338",Other,1,2,1,2,0,0,0,2024-02-15,2023-06-03 03:25:08,Snowing,Sand/Mud/Dirt,Dark - No Street Lights,N,Y
+321,REPORT321,STATUS2,ADDRTYPE1,"63443 Brett Cliff Suite 021
+Snyderview, WY 46430",Parked Car,1,0,0,3,1,0,1,2023-06-02,2023-10-13 03:25:08,Raining,Standing Water,Dawn,N,Y
+322,REPORT322,STATUS2,ADDRTYPE2,"72906 Cynthia Summit Suite 730
+New Josephmouth, NE 82947",Angles,2,0,1,3,1,1,0,2023-07-01,2023-04-25 03:25:08,Clear,Standing Water,Dark - Street Lights On,N,N
+323,REPORT323,STATUS2,ADDRTYPE3,"74387 Jason Pike Apt. 187
+New Davidport, ID 20030",Rear Ended,1,2,0,1,2,0,0,2023-06-07,2023-07-25 03:25:08,Snowing,Sand/Mud/Dirt,Dark - No Street Lights,Y,N
+324,REPORT324,STATUS2,ADDRTYPE2,"USS Andersen
+FPO AP 57234",Sideswipe,5,0,1,1,1,0,1,2023-02-22,2023-09-22 03:25:08,,,,Y,N
+325,REPORT325,STATUS2,ADDRTYPE2,"178 Mcdaniel Loaf
+Katelynmouth, MN 91464",Pedestrian,4,2,0,3,0,1,0,2023-05-27,2023-04-16 03:25:08,Fog/Smog/Smoke,Snow/Slush,Daylight,N,N
+326,REPORT326,STATUS3,ADDRTYPE2,"6107 Mccullough Ford
+Stephanieborough, HI 44934",Pedestrian,3,2,0,1,3,1,0,2023-10-10,2023-03-26 03:25:08,Sleet/Hail/Freezing Rain,Other,Unknown,Y,N
+327,REPORT327,STATUS3,ADDRTYPE3,"USNS Smith
+FPO AA 69040",Other,4,0,1,3,1,0,0,2023-09-17,2023-05-24 03:25:08,Clear,Other,Dark - Street Lights On,Y,N
+328,REPORT328,STATUS3,ADDRTYPE1,"858 Lisa Rapid Apt. 344
+Mcgrathmouth, GA 23481",Parked Car,3,0,1,2,1,1,0,2023-10-30,2023-08-23 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dusk,Y,N
+329,REPORT329,STATUS3,ADDRTYPE2,"8507 Mark Park
+East Robert, MS 33752",Left Turn,2,1,1,2,2,1,1,2023-09-21,2023-07-31 03:25:08,Fog/Smog/Smoke,Standing Water,Other,N,Y
+330,REPORT330,STATUS3,ADDRTYPE2,"6481 Breanna Shore
+East Jameshaven, NJ 15779",Left Turn,2,2,0,1,2,0,0,2023-02-22,2024-02-04 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Dark - Street Lights On,N,N
+331,REPORT331,STATUS2,ADDRTYPE3,"6207 Riggs Summit Apt. 066
+Adrianchester, AS 49207",Other,3,2,1,2,2,0,0,2023-10-05,2023-12-23 03:25:08,Clear,Dry,Dark - Street Lights On,Y,Y
+332,REPORT332,STATUS1,ADDRTYPE3,"812 Jensen Way
+West Brian, IL 43597",Parked Car,1,0,0,2,3,0,1,2023-05-13,2023-11-19 03:25:08,Unknown,Ice,Dawn,N,Y
+333,REPORT333,STATUS1,ADDRTYPE1,"240 Alexander Shoal
+Jonesville, MH 20914",Cycles,2,1,1,3,2,0,0,2023-12-21,2023-09-07 03:25:08,Unknown,Oil,Unknown,Y,Y
+334,REPORT334,STATUS2,ADDRTYPE1,"69352 Hunter Oval Suite 219
+North Benjaminfort, KY 74995",Cycles,5,2,0,3,0,1,0,2023-11-24,2023-07-15 03:25:08,Fog/Smog/Smoke,Wet,Dark - No Street Lights,N,N
+335,REPORT335,STATUS1,ADDRTYPE2,"706 Byrd Plains Apt. 371
+Michellebury, MI 85518",Cycles,5,1,1,2,0,1,0,2023-10-28,2023-11-16 03:25:08,Overcast,Standing Water,Dawn,Y,N
+336,REPORT336,STATUS1,ADDRTYPE2,"447 Richard Roads
+Michaelport, CO 09146",Sideswipe,5,2,1,1,2,1,0,2024-01-27,2023-08-20 03:25:08,Fog/Smog/Smoke,Standing Water,Other,N,N
+337,REPORT337,STATUS3,ADDRTYPE3,"33244 Michael Prairie Suite 447
+Allenside, OR 57866",Cycles,5,2,0,1,2,0,0,2023-05-22,2023-10-17 03:25:08,Blowing Sand/Dirt,Snow/Slush,Dark - Street Lights Off,Y,N
+338,REPORT338,STATUS3,ADDRTYPE2,"23749 Jon Road Apt. 607
+Raymouth, NC 44909",Rear Ended,3,0,0,3,3,1,0,2023-10-21,2024-01-13 03:25:08,,,,N,N
+339,REPORT339,STATUS3,ADDRTYPE3,"030 Ashley Wells
+Johnsonhaven, UT 78203",Angles,1,2,1,2,3,0,0,2023-09-23,2023-11-01 03:25:08,Snowing,Dry,Unknown,N,N
+340,REPORT340,STATUS1,ADDRTYPE2,"70729 Padilla Freeway Apt. 189
+West Kathrynton, MD 65027",Pedestrian,3,0,1,2,0,0,1,2024-01-30,2023-03-20 03:25:08,Clear,Unknown,Dark - Street Lights Off,N,N
+341,REPORT341,STATUS3,ADDRTYPE3,"48937 Taylor Lakes
+New Jessicafort, RI 49293",Cycles,2,2,1,2,3,1,0,2023-03-29,2023-08-13 03:25:08,Blowing Sand/Dirt,Oil,Dusk,Y,Y
+342,REPORT342,STATUS2,ADDRTYPE2,"82711 Henry Path Suite 078
+Seanburgh, CT 34905",Other,5,0,0,3,2,1,1,2023-12-06,2023-08-13 03:25:08,Other,Unknown,Unknown,N,N
+343,REPORT343,STATUS1,ADDRTYPE2,"94383 Steve Walk
+New Amy, NV 76928",Other,5,2,1,3,3,0,1,2023-09-30,2023-12-07 03:25:08,Clear,Snow/Slush,Dusk,N,N
+344,REPORT344,STATUS1,ADDRTYPE2,"647 Danielle Well
+Port Bryanport, HI 12118",Left Turn,5,0,0,3,2,1,0,2023-12-13,2023-09-12 03:25:08,Severe Crosswind,Oil,Daylight,Y,Y
+345,REPORT345,STATUS3,ADDRTYPE1,"547 Luis Spring
+Proctormouth, KS 17289",Rear Ended,2,0,0,1,0,0,0,2023-10-04,2023-12-19 03:25:08,Other,Ice,Dusk,N,Y
+346,REPORT346,STATUS2,ADDRTYPE2,"30932 Strong Squares Apt. 210
+South Danielshire, VI 64879",Rear Ended,4,2,1,1,1,0,1,2024-01-24,2024-02-15 03:25:08,Snowing,Unknown,Dark - No Street Lights,Y,Y
+347,REPORT347,STATUS3,ADDRTYPE2,"9240 Ashley Mission Apt. 786
+Tammyshire, WI 91626",Sideswipe,3,0,0,1,3,1,1,2023-03-28,2023-09-09 03:25:08,Severe Crosswind,Unknown,Unknown,N,Y
+348,REPORT348,STATUS3,ADDRTYPE1,"264 Johnny Place
+South Kristinton, IN 77144",Cycles,1,1,0,2,0,1,0,2023-10-15,2023-03-04 03:25:08,Unknown,Other,Daylight,Y,Y
+349,REPORT349,STATUS1,ADDRTYPE1,"0791 Kyle Summit Apt. 493
+Lake Joshuachester, GA 57823",Cycles,2,1,0,2,0,1,0,2023-11-04,2024-02-14 03:25:08,Clear,Dry,Dark - No Street Lights,N,N
+350,REPORT350,STATUS1,ADDRTYPE2,"Unit 0277 Box 2097
+DPO AE 53724",Sideswipe,4,1,1,3,3,1,0,2023-05-22,2023-09-04 03:25:08,Other,Wet,Dusk,Y,Y
+351,REPORT351,STATUS3,ADDRTYPE3,"78670 Wallace Station Suite 117
+Lake Jeffreyfort, AZ 11962",Rear Ended,4,0,0,2,1,0,0,2023-12-22,2023-11-02 03:25:08,Severe Crosswind,Snow/Slush,Unknown,Y,Y
+352,REPORT352,STATUS1,ADDRTYPE2,"7324 Arias Ridge
+Lake Lori, KS 94407",Angles,1,2,0,2,2,1,1,2024-02-19,2023-06-26 03:25:08,Fog/Smog/Smoke,Unknown,Dark - No Street Lights,Y,N
+353,REPORT353,STATUS1,ADDRTYPE3,"18723 Ronald Ridges Apt. 131
+Port Gregoryside, LA 11968",Pedestrian,2,1,0,1,0,1,1,2023-03-24,2023-05-05 03:25:08,Fog/Smog/Smoke,Other,Unknown,N,N
+354,REPORT354,STATUS1,ADDRTYPE2,"0931 Kim Orchard
+Joshuaberg, MS 98135",Parked Car,4,1,0,3,0,1,0,2023-08-26,2023-09-08 03:25:08,Clear,Sand/Mud/Dirt,Dark - Street Lights On,N,N
+355,REPORT355,STATUS3,ADDRTYPE3,"2363 Dougherty Unions Apt. 482
+Johnsonchester, SC 48643",Sideswipe,5,2,1,1,1,1,0,2023-04-02,2023-10-23 03:25:08,Raining,Standing Water,Unknown,N,N
+356,REPORT356,STATUS1,ADDRTYPE2,"5798 Johnny Light Suite 966
+Port Johnny, DE 26612",Left Turn,1,0,0,2,2,0,1,2023-04-16,2023-05-08 03:25:08,Blowing Sand/Dirt,Unknown,Dusk,Y,N
+357,REPORT357,STATUS3,ADDRTYPE1,"9267 Mitchell River Apt. 335
+Jennifermouth, MT 09650",Pedestrian,5,0,0,1,0,0,1,2023-08-15,2024-01-17 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Unknown,N,N
+358,REPORT358,STATUS1,ADDRTYPE3,"1831 Kevin Trail
+North Robertberg, DE 65044",Left Turn,1,2,0,3,1,0,0,2023-09-06,2023-08-06 03:25:08,Snowing,Dry,Dark - Street Lights Off,N,Y
+359,REPORT359,STATUS2,ADDRTYPE2,"68329 Caleb Extensions Apt. 683
+Port Davidmouth, WV 77870",Rear Ended,3,2,0,2,3,1,1,2024-01-08,2023-09-27 03:25:08,Blowing Sand/Dirt,Unknown,Dusk,N,Y
+360,REPORT360,STATUS1,ADDRTYPE2,"USCGC Wilson
+FPO AP 21883",Pedestrian,3,2,1,3,1,1,0,2023-02-23,2023-04-17 03:25:08,Sleet/Hail/Freezing Rain,Ice,Dawn,N,Y
+361,REPORT361,STATUS3,ADDRTYPE1,"881 Douglas Loop
+West Dana, DC 48656",Rear Ended,2,0,0,2,1,0,1,2023-05-14,2023-11-03 03:25:08,Fog/Smog/Smoke,Unknown,Daylight,Y,N
+362,REPORT362,STATUS1,ADDRTYPE3,"50499 Baker Ranch
+Markberg, MN 89189",Other,4,1,0,2,0,1,0,2023-10-07,2023-05-26 03:25:08,Severe Crosswind,Snow/Slush,Dark - Street Lights Off,Y,Y
+363,REPORT363,STATUS3,ADDRTYPE3,"212 Nicole Light
+South Tara, FM 80589",Left Turn,5,1,1,2,2,1,0,2023-12-13,2023-10-31 03:25:08,Severe Crosswind,Snow/Slush,Dawn,Y,N
+364,REPORT364,STATUS3,ADDRTYPE3,"PSC 4999, Box 3759
+APO AA 72574",Sideswipe,4,2,1,3,3,1,1,2023-07-25,2023-12-29 03:25:08,Blowing Sand/Dirt,Wet,Dark - Street Lights Off,N,Y
+365,REPORT365,STATUS1,ADDRTYPE1,"6253 Scott Squares
+Allenport, MN 84465",Angles,3,0,1,1,1,0,1,2023-04-12,2023-05-08 03:25:08,Snowing,Unknown,Dark - Street Lights Off,Y,N
+366,REPORT366,STATUS3,ADDRTYPE3,"4452 Mcdonald Valleys
+North Lisa, OH 20069",Pedestrian,5,2,1,3,3,1,0,2023-09-22,2023-09-30 03:25:08,Overcast,Ice,Other,Y,N
+367,REPORT367,STATUS1,ADDRTYPE3,"58171 Schmidt Port
+New David, ME 06645",Cycles,2,2,1,2,2,1,0,2023-09-06,2023-04-14 03:25:08,Fog/Smog/Smoke,Ice,Other,N,N
+368,REPORT368,STATUS2,ADDRTYPE2,"037 Megan Expressway
+Blackbury, GA 48941",Sideswipe,4,1,1,3,3,1,0,2024-01-21,2023-03-13 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Dark - No Street Lights,Y,Y
+369,REPORT369,STATUS3,ADDRTYPE2,"2334 Jensen Port
+North Micheleton, LA 40354",Angles,1,2,0,3,3,1,1,2023-04-05,2024-01-12 03:25:08,Unknown,Wet,Unknown,N,N
+370,REPORT370,STATUS3,ADDRTYPE1,"225 Mccarthy Falls Apt. 063
+Port Ellenborough, MH 67893",Parked Car,1,2,1,3,0,0,1,2024-02-14,2023-05-02 03:25:08,Overcast,Ice,Dawn,N,N
+371,REPORT371,STATUS3,ADDRTYPE3,"8149 Roberts Overpass Apt. 392
+Davidton, LA 69964",Angles,5,2,1,2,2,0,1,2023-08-21,2023-03-26 03:25:08,Clear,Unknown,Daylight,Y,Y
+372,REPORT372,STATUS3,ADDRTYPE2,"428 Holder Tunnel Suite 907
+North John, WI 13637",Pedestrian,1,0,0,3,1,1,0,2023-10-30,2023-07-19 03:25:08,Snowing,Oil,Dark - Street Lights On,N,N
+373,REPORT373,STATUS2,ADDRTYPE1,"0509 Wright Fort Suite 624
+Juarezmouth, VT 23267",Left Turn,1,1,0,3,0,0,0,2023-09-29,2023-03-07 03:25:08,Snowing,Other,Dawn,N,N
+374,REPORT374,STATUS2,ADDRTYPE3,"5987 Elizabeth Hollow
+Lake Lauraside, MS 22479",Left Turn,3,0,0,1,0,1,1,2023-11-21,2023-07-12 03:25:08,Raining,Dry,Dawn,Y,Y
+375,REPORT375,STATUS1,ADDRTYPE1,"81153 Stokes Ford Suite 325
+Port Robinmouth, AS 00674",Left Turn,2,2,1,1,1,1,0,2023-10-11,2023-09-10 03:25:08,Unknown,Sand/Mud/Dirt,Dusk,Y,N
+376,REPORT376,STATUS3,ADDRTYPE3,"942 Janet Land Apt. 364
+Port Amandaview, IL 48788",Parked Car,1,2,1,3,2,1,1,2024-02-11,2023-09-09 03:25:08,,,,N,Y
+377,REPORT377,STATUS3,ADDRTYPE2,"962 Anderson Pine
+North Heatherborough, AR 10768",Other,1,2,0,3,3,0,1,2023-05-20,2023-11-10 03:25:08,Snowing,Other,Daylight,Y,N
+378,REPORT378,STATUS2,ADDRTYPE3,"10741 Jose Burg Apt. 918
+East Sandra, PR 66198",Pedestrian,4,0,1,2,2,0,0,2023-03-20,2023-11-11 03:25:08,Other,Wet,Dark - Street Lights Off,Y,N
+379,REPORT379,STATUS1,ADDRTYPE3,"6986 Walker Cliff Suite 104
+Christopherburgh, GU 09594",Rear Ended,5,1,1,2,2,1,1,2023-04-27,2024-01-25 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Unknown,N,N
+380,REPORT380,STATUS2,ADDRTYPE3,"85655 Joy Valleys
+North Dale, OR 22264",Rear Ended,3,0,0,1,3,1,0,2023-12-27,2023-06-12 03:25:08,Fog/Smog/Smoke,Oil,Unknown,Y,Y
+381,REPORT381,STATUS2,ADDRTYPE3,"78095 Jamie Glen Apt. 671
+Port Heatherside, MD 11812",Rear Ended,5,0,1,1,3,0,1,2023-03-04,2023-06-09 03:25:08,Clear,Standing Water,Other,N,N
+382,REPORT382,STATUS1,ADDRTYPE1,"7413 Brown Village Apt. 793
+New Jordanburgh, OH 72655",Parked Car,4,1,0,2,3,1,1,2023-08-08,2024-01-27 03:25:08,Severe Crosswind,Ice,Unknown,N,N
+383,REPORT383,STATUS3,ADDRTYPE3,"60852 Shields Gateway
+Aliciaborough, MT 30292",Left Turn,4,0,1,1,2,1,0,2023-03-22,2023-10-02 03:25:08,Snowing,Sand/Mud/Dirt,Dusk,Y,Y
+384,REPORT384,STATUS3,ADDRTYPE1,"813 Charles Stravenue Suite 023
+Amychester, WI 21387",Cycles,4,2,1,2,1,1,1,2023-10-11,2023-07-19 03:25:08,,,,N,N
+385,REPORT385,STATUS2,ADDRTYPE3,"750 Melody Station Apt. 669
+Brittanyport, NH 88897",Cycles,1,0,0,2,2,1,0,2023-04-05,2023-12-20 03:25:08,,,,N,Y
+386,REPORT386,STATUS2,ADDRTYPE3,"7978 Shawn Crossroad
+Hensonstad, NJ 98000",Parked Car,5,1,0,3,1,1,1,2023-04-01,2023-12-18 03:25:08,Snowing,Ice,Dark - Street Lights Off,Y,Y
+387,REPORT387,STATUS2,ADDRTYPE1,"82896 Emily Manors
+Gomezview, MP 62818",Parked Car,5,2,0,3,2,0,1,2023-04-16,2023-07-03 03:25:08,Severe Crosswind,Wet,Dark - Street Lights Off,N,N
+388,REPORT388,STATUS1,ADDRTYPE2,"9763 Michael Branch
+Greenmouth, GA 98341",Left Turn,5,0,1,1,1,0,0,2023-05-13,2023-11-24 03:25:08,,,,N,Y
+389,REPORT389,STATUS1,ADDRTYPE2,"Unit 6525 Box 8642
+DPO AA 37968",Left Turn,2,1,0,3,3,1,0,2023-11-06,2023-04-18 03:25:08,Raining,Unknown,Dusk,Y,N
+390,REPORT390,STATUS2,ADDRTYPE1,"542 Nicole Cove
+Justinfurt, NM 48826",Parked Car,3,2,1,3,2,0,0,2023-07-08,2023-09-05 03:25:08,Snowing,Other,Dark - No Street Lights,N,N
+391,REPORT391,STATUS3,ADDRTYPE3,"29838 Kristin Drive Apt. 269
+Christopherhaven, OK 57016",Pedestrian,1,1,1,2,2,1,0,2023-10-30,2023-04-23 03:25:08,Severe Crosswind,Unknown,Dark - Street Lights On,N,Y
+392,REPORT392,STATUS3,ADDRTYPE2,"2393 Tiffany Mills Suite 057
+New Daniel, NH 12273",Sideswipe,3,1,1,1,0,0,0,2023-09-06,2023-08-07 03:25:08,Other,Standing Water,Dusk,N,Y
+393,REPORT393,STATUS1,ADDRTYPE3,"81855 Luis Estate
+South Claudiashire, DC 11501",Left Turn,1,0,0,3,1,0,1,2023-10-05,2023-10-21 03:25:08,Snowing,Other,Dawn,Y,Y
+394,REPORT394,STATUS1,ADDRTYPE1,"4045 Elliott Road Apt. 578
+New Leonardstad, SD 16253",Cycles,5,0,1,1,2,0,0,2023-11-07,2023-04-30 03:25:08,Overcast,Snow/Slush,Unknown,N,Y
+395,REPORT395,STATUS3,ADDRTYPE1,"87980 Lee Lodge
+Samuelstad, MS 24887",Sideswipe,2,2,0,2,2,0,1,2023-04-28,2024-02-09 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Dark - Street Lights Off,N,Y
+396,REPORT396,STATUS1,ADDRTYPE2,"4859 Jack Stream
+South Jeffrey, TX 24268",Cycles,2,1,1,3,3,1,0,2023-04-03,2023-09-27 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Dark - Street Lights On,Y,Y
+397,REPORT397,STATUS3,ADDRTYPE2,"211 Felicia Lodge Apt. 034
+Pamelafort, MA 01925",Rear Ended,5,0,1,2,1,0,0,2023-08-01,2024-02-10 03:25:08,Clear,Oil,Unknown,Y,N
+398,REPORT398,STATUS2,ADDRTYPE3,"803 Davis Track Apt. 083
+Michelefurt, TN 27238",Left Turn,3,2,1,3,1,1,0,2023-12-02,2023-03-27 03:25:08,Sleet/Hail/Freezing Rain,Wet,Dusk,N,N
+399,REPORT399,STATUS1,ADDRTYPE2,"26248 Donna Roads
+Lake Deannaborough, NM 91862",Left Turn,4,1,1,1,2,1,0,2023-07-06,2023-05-01 03:25:08,Clear,Other,Other,Y,Y
+400,REPORT400,STATUS2,ADDRTYPE1,"12564 Kristine Extension Apt. 082
+New Allison, FL 52751",Angles,5,1,0,2,1,1,1,2023-10-24,2024-02-17 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Unknown,Y,Y
+401,REPORT401,STATUS1,ADDRTYPE1,"58398 Castillo Heights
+South Michele, KS 17504",Pedestrian,1,0,1,2,1,0,1,2023-07-12,2023-06-28 03:25:08,Clear,Dry,Dawn,Y,Y
+402,REPORT402,STATUS1,ADDRTYPE1,"14432 Meza Mountain Suite 862
+Lake Jeffreyfort, MA 37506",Sideswipe,3,0,1,1,1,0,1,2023-08-15,2023-09-27 03:25:08,Other,Ice,Dark - No Street Lights,N,Y
+403,REPORT403,STATUS2,ADDRTYPE3,"4141 Morgan Port Apt. 865
+Coxstad, MH 17444",Rear Ended,4,0,0,2,1,0,0,2023-12-06,2023-12-14 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Daylight,N,N
+404,REPORT404,STATUS2,ADDRTYPE2,"266 Murray Spur
+Weisston, WA 71392",Cycles,2,2,1,1,1,0,0,2023-06-19,2023-07-28 03:25:08,Blowing Sand/Dirt,Ice,Dark - Street Lights On,N,Y
+405,REPORT405,STATUS1,ADDRTYPE3,"PSC 7710, Box 8524
+APO AE 18099",Sideswipe,1,0,1,2,0,1,1,2024-01-03,2024-02-01 03:25:08,Unknown,Other,Dawn,Y,Y
+406,REPORT406,STATUS2,ADDRTYPE3,"Unit 4814 Box 1268
+DPO AE 16173",Other,2,0,1,2,0,1,0,2023-06-11,2023-05-22 03:25:08,Fog/Smog/Smoke,Other,Dark - Street Lights On,N,Y
+407,REPORT407,STATUS3,ADDRTYPE2,"277 Tyler Hills Suite 878
+North Johnbury, KS 47276",Rear Ended,1,2,1,2,2,1,0,2023-11-19,2023-05-25 03:25:08,Clear,Other,Other,N,N
+408,REPORT408,STATUS3,ADDRTYPE1,"66818 Samuel Locks Apt. 901
+Port James, MH 95101",Cycles,4,2,1,1,1,0,0,2023-06-29,2024-01-30 03:25:08,Severe Crosswind,Oil,Dusk,Y,N
+409,REPORT409,STATUS2,ADDRTYPE2,"USNS Holden
+FPO AA 32011",Parked Car,1,1,1,3,3,0,1,2023-11-17,2023-08-31 03:25:08,Raining,Dry,Other,N,N
+410,REPORT410,STATUS3,ADDRTYPE2,"2549 Pamela Lights Suite 154
+New Robert, PR 60679",Pedestrian,4,0,0,2,2,0,1,2023-11-21,2023-03-26 03:25:08,Snowing,Standing Water,Dawn,N,Y
+411,REPORT411,STATUS3,ADDRTYPE2,"640 Joe Garden
+Hoodstad, TX 35661",Parked Car,5,0,0,1,2,0,0,2023-11-15,2024-02-11 03:25:08,Severe Crosswind,Wet,Dark - Street Lights On,N,Y
+412,REPORT412,STATUS3,ADDRTYPE3,"PSC 3128, Box 1684
+APO AA 71455",Other,5,2,0,1,1,1,1,2023-05-04,2024-01-15 03:25:08,Blowing Sand/Dirt,Ice,Other,Y,Y
+413,REPORT413,STATUS1,ADDRTYPE2,"4208 Samuel Meadows
+Victorchester, IN 99722",Rear Ended,1,0,0,2,1,1,1,2023-06-13,2023-06-24 03:25:08,Other,Unknown,Unknown,N,N
+414,REPORT414,STATUS3,ADDRTYPE1,"555 Jonathan Mountains Apt. 589
+North Mary, ID 31832",Angles,3,2,1,1,0,0,0,2023-11-19,2024-01-02 03:25:08,Raining,Sand/Mud/Dirt,Dark - Street Lights On,Y,N
+415,REPORT415,STATUS3,ADDRTYPE2,"379 Smith Islands Suite 256
+Christopherbury, MH 22848",Other,2,2,0,1,2,0,1,2023-03-25,2023-07-22 03:25:08,Sleet/Hail/Freezing Rain,Ice,Dark - No Street Lights,N,Y
+416,REPORT416,STATUS2,ADDRTYPE1,"9926 Hill Spurs
+Morganmouth, VT 16927",Rear Ended,1,0,1,1,2,0,1,2023-09-28,2023-09-18 03:25:08,,,,N,Y
+417,REPORT417,STATUS3,ADDRTYPE1,"596 Ashley Falls Suite 494
+South Melinda, MP 86933",Cycles,1,1,1,2,1,0,0,2024-02-09,2023-10-02 03:25:08,Snowing,Ice,Daylight,Y,Y
+418,REPORT418,STATUS1,ADDRTYPE1,"27541 Clifford Crescent Apt. 848
+Fernandezhaven, NH 65746",Left Turn,2,2,0,3,2,1,0,2023-09-14,2023-09-10 03:25:08,Snowing,Snow/Slush,Dark - Street Lights Off,Y,Y
+419,REPORT419,STATUS1,ADDRTYPE3,"0285 Cole Plaza
+Holmesside, AR 77039",Pedestrian,1,0,0,1,3,1,1,2023-11-28,2023-08-26 03:25:08,Snowing,Standing Water,Dawn,Y,Y
+420,REPORT420,STATUS2,ADDRTYPE3,"900 Christina Ways
+North Debbie, GA 76063",Parked Car,2,1,0,2,1,1,1,2023-11-21,2023-07-30 03:25:08,Sleet/Hail/Freezing Rain,Wet,Dark - Street Lights On,N,Y
+421,REPORT421,STATUS1,ADDRTYPE3,"064 Douglas Ranch Apt. 945
+Masonmouth, ME 12926",Pedestrian,4,1,1,3,2,1,0,2023-08-02,2024-01-10 03:25:08,Overcast,Other,Other,Y,Y
+422,REPORT422,STATUS1,ADDRTYPE2,"330 Craig Crossing
+West Garyland, AR 44527",Other,3,1,0,1,0,0,0,2023-03-05,2023-05-11 03:25:08,Unknown,Standing Water,Dark - Street Lights Off,Y,N
+423,REPORT423,STATUS3,ADDRTYPE3,"966 Erin Park
+Reillyshire, OR 13740",Pedestrian,5,1,0,1,0,1,0,2023-04-14,2023-09-12 03:25:08,Overcast,Unknown,Unknown,Y,N
+424,REPORT424,STATUS3,ADDRTYPE2,"539 Jonathan Groves Apt. 168
+Krausehaven, RI 19764",Cycles,5,0,1,2,3,0,0,2023-11-15,2023-06-12 03:25:08,Overcast,Standing Water,Other,Y,Y
+425,REPORT425,STATUS1,ADDRTYPE1,"368 Walker Parks
+Port Rachelton, UT 64646",Rear Ended,3,0,1,2,3,0,0,2024-01-15,2023-04-12 03:25:08,Severe Crosswind,Unknown,Dawn,Y,N
+426,REPORT426,STATUS2,ADDRTYPE2,"Unit 4076 Box 7366
+DPO AE 74598",Parked Car,2,0,0,3,1,0,1,2023-12-08,2024-01-26 03:25:08,,,,Y,N
+427,REPORT427,STATUS2,ADDRTYPE1,"244 Johnson Glens Suite 723
+South Jenniferfort, OH 43858",Other,3,0,1,3,3,1,1,2024-01-14,2023-08-02 03:25:08,Unknown,Snow/Slush,Dark - Street Lights On,Y,Y
+428,REPORT428,STATUS3,ADDRTYPE2,"557 Joseph Drive
+Deleonshire, TX 87892",Left Turn,2,1,1,2,2,1,0,2023-07-16,2023-09-20 03:25:08,Raining,Standing Water,Dark - Street Lights On,Y,N
+429,REPORT429,STATUS1,ADDRTYPE3,"8977 Jeffery Divide Suite 242
+East Amanda, OK 04147",Cycles,3,1,1,2,1,0,1,2023-10-17,2023-02-28 03:25:08,Clear,Sand/Mud/Dirt,Dark - No Street Lights,N,Y
+430,REPORT430,STATUS3,ADDRTYPE1,"Unit 2306 Box 8456
+DPO AA 04875",Pedestrian,1,2,1,1,0,0,0,2023-07-02,2023-07-02 03:25:08,Overcast,Dry,Dusk,N,Y
+431,REPORT431,STATUS2,ADDRTYPE2,"9289 Solis Park Suite 012
+West Jason, MS 24069",Left Turn,1,1,0,1,2,0,0,2023-03-26,2023-06-12 03:25:08,,,,N,N
+432,REPORT432,STATUS1,ADDRTYPE2,"374 Kelly Cliff Suite 816
+New Kevin, FL 10318",Parked Car,3,1,1,3,2,0,1,2023-07-28,2023-03-28 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Dark - Street Lights Off,Y,N
+433,REPORT433,STATUS3,ADDRTYPE3,"40797 Martin Island
+Port Bradley, NJ 41804",Cycles,4,2,0,3,3,0,0,2023-12-30,2023-12-19 03:25:08,Severe Crosswind,Unknown,Dark - Street Lights Off,N,Y
+434,REPORT434,STATUS3,ADDRTYPE3,"850 Joseph Bypass Apt. 487
+Lake Michelleport, VI 41490",Left Turn,3,0,0,1,2,0,0,2023-05-26,2023-08-12 03:25:08,Other,Unknown,Daylight,N,Y
+435,REPORT435,STATUS2,ADDRTYPE3,"810 Boyer Forge Apt. 374
+New Breanna, NM 78514",Left Turn,5,0,0,1,1,0,0,2023-12-11,2023-04-09 03:25:08,Clear,Standing Water,Dark - Street Lights On,Y,N
+436,REPORT436,STATUS3,ADDRTYPE2,"66199 Rhonda Courts
+West Georgeport, NH 71758",Sideswipe,1,0,0,3,3,0,0,2024-02-13,2023-12-29 03:25:08,,,,N,Y
+437,REPORT437,STATUS2,ADDRTYPE3,"242 James Valleys
+Lake Nicole, WA 25048",Cycles,3,0,1,1,2,1,0,2023-04-17,2024-02-05 03:25:08,Unknown,Wet,Dawn,N,N
+438,REPORT438,STATUS2,ADDRTYPE2,"PSC 7901, Box 5148
+APO AE 11917",Other,5,0,1,2,0,0,0,2023-12-30,2023-10-28 03:25:08,Clear,Sand/Mud/Dirt,Dawn,Y,Y
+439,REPORT439,STATUS1,ADDRTYPE3,"97311 Phillips Walks Apt. 681
+Andreashire, OH 84536",Other,1,2,0,2,3,1,0,2023-08-10,2024-01-26 03:25:08,Snowing,Wet,Dark - No Street Lights,N,N
+440,REPORT440,STATUS1,ADDRTYPE2,"98837 Henson Via Suite 594
+Lake Cynthiahaven, PW 66484",Sideswipe,4,2,1,3,0,1,0,2023-08-07,2024-02-14 03:25:08,Snowing,Other,Dark - Street Lights Off,N,N
+441,REPORT441,STATUS3,ADDRTYPE1,"236 Dickson Plains Apt. 261
+New Amanda, VI 17042",Sideswipe,4,0,1,3,1,1,0,2024-02-09,2023-12-10 03:25:08,Clear,Wet,Dawn,Y,Y
+442,REPORT442,STATUS2,ADDRTYPE3,"836 Elizabeth Rapids
+New Carl, CO 64884",Other,5,1,1,1,0,0,0,2023-12-25,2023-12-28 03:25:08,Other,Standing Water,Dark - No Street Lights,Y,N
+443,REPORT443,STATUS2,ADDRTYPE1,"748 Courtney Isle
+Pittsshire, HI 13518",Sideswipe,3,1,1,1,2,0,0,2024-02-13,2023-09-07 03:25:08,,,,Y,N
+444,REPORT444,STATUS1,ADDRTYPE2,"259 Christopher Village
+East Mariahland, ME 35393",Sideswipe,1,1,1,2,0,1,1,2023-03-27,2023-03-04 03:25:08,Clear,Unknown,Daylight,N,N
+445,REPORT445,STATUS1,ADDRTYPE1,"740 Mason Mews Apt. 409
+Lindseytown, WY 03004",Other,4,2,1,1,3,1,1,2024-01-28,2023-07-11 03:25:08,Severe Crosswind,Other,Dark - Street Lights On,Y,N
+446,REPORT446,STATUS2,ADDRTYPE3,"16066 Mccall Viaduct Suite 249
+Timothyside, AL 88567",Cycles,5,1,1,3,1,0,1,2023-12-14,2023-10-27 03:25:08,,,,Y,N
+447,REPORT447,STATUS1,ADDRTYPE3,"58320 Frederick Drive Apt. 217
+Leachmouth, ME 29864",Left Turn,2,2,0,3,3,0,0,2023-10-15,2023-11-24 03:25:08,Other,Oil,Dusk,N,N
+448,REPORT448,STATUS3,ADDRTYPE2,"065 Christopher Via
+Johnsonburgh, CT 25773",Cycles,3,0,1,1,2,0,0,2024-01-08,2024-01-05 03:25:08,Raining,Standing Water,Other,Y,N
+449,REPORT449,STATUS2,ADDRTYPE3,"47094 Maxwell Plain Suite 377
+West Erinport, NV 64017",Left Turn,2,1,0,2,0,1,0,2023-10-05,2023-11-14 03:25:08,Raining,Sand/Mud/Dirt,Dusk,Y,Y
+450,REPORT450,STATUS1,ADDRTYPE1,"964 David Mountains
+Chapmanland, NC 05232",Sideswipe,3,1,1,2,2,1,1,2023-12-08,2023-08-15 03:25:08,Blowing Sand/Dirt,Dry,Dark - Street Lights Off,Y,N
+451,REPORT451,STATUS3,ADDRTYPE3,"30871 Farley Circle
+Melissaton, NV 98353",Sideswipe,1,0,0,1,0,0,0,2023-04-04,2023-05-20 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Dawn,Y,N
+452,REPORT452,STATUS2,ADDRTYPE1,"0320 Cruz Center Apt. 695
+Garcialand, IN 72270",Angles,5,0,0,1,1,0,0,2023-04-18,2024-02-17 03:25:08,Raining,Standing Water,Dark - Street Lights On,Y,Y
+453,REPORT453,STATUS3,ADDRTYPE3,"6298 Courtney Road
+New Sierra, GU 67319",Pedestrian,1,1,1,3,1,1,1,2024-02-13,2023-03-04 03:25:08,Blowing Sand/Dirt,Standing Water,Other,Y,Y
+454,REPORT454,STATUS3,ADDRTYPE2,"75642 Hamilton Islands Suite 669
+Elizabethmouth, PW 59994",Pedestrian,2,1,1,3,2,1,1,2024-02-15,2024-01-24 03:25:08,Raining,Dry,Dark - Street Lights Off,N,N
+455,REPORT455,STATUS2,ADDRTYPE3,"25377 Duane Plains Apt. 548
+Lake Monique, NV 31152",Left Turn,5,1,1,3,1,1,1,2023-12-27,2023-10-10 03:25:08,Unknown,Snow/Slush,Dark - Street Lights Off,Y,Y
+456,REPORT456,STATUS3,ADDRTYPE2,"805 Taylor Valleys
+Longfort, OH 25189",Parked Car,1,1,1,2,0,0,0,2023-05-18,2024-01-28 03:25:08,,,,Y,Y
+457,REPORT457,STATUS1,ADDRTYPE3,"5136 Amanda Manors
+West William, MA 18834",Sideswipe,1,1,1,1,0,0,1,2023-08-30,2023-12-25 03:25:08,Other,Snow/Slush,Dark - Street Lights On,Y,Y
+458,REPORT458,STATUS1,ADDRTYPE2,"5006 Thompson Rapids
+South Curtis, CA 62724",Rear Ended,1,2,0,3,3,1,1,2023-02-22,2024-01-26 03:25:08,Severe Crosswind,Wet,Dark - Street Lights On,Y,Y
+459,REPORT459,STATUS1,ADDRTYPE1,"707 Wendy Route
+Nicholastown, ID 06163",Sideswipe,2,1,1,2,0,1,0,2024-01-07,2023-09-17 03:25:08,Other,Sand/Mud/Dirt,Dark - Street Lights On,Y,Y
+460,REPORT460,STATUS3,ADDRTYPE1,"67806 Ryan Manors
+West Ambermouth, FL 61400",Angles,1,1,1,3,3,1,1,2023-11-08,2024-01-12 03:25:08,,,,Y,Y
+461,REPORT461,STATUS1,ADDRTYPE1,"PSC 1921, Box 3639
+APO AA 86067",Left Turn,4,2,1,1,1,1,1,2023-12-10,2023-10-07 03:25:08,Raining,Other,Dusk,N,Y
+462,REPORT462,STATUS3,ADDRTYPE1,"454 Lee Mountains Suite 833
+East Laura, GU 78328",Cycles,3,0,0,2,3,0,1,2023-06-19,2023-09-04 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dark - No Street Lights,N,Y
+463,REPORT463,STATUS1,ADDRTYPE2,"68278 Rebekah Via Apt. 172
+Christophermouth, VA 64203",Sideswipe,4,0,0,1,2,0,0,2023-05-07,2023-03-04 03:25:08,Snowing,Other,Dark - Street Lights Off,N,N
+464,REPORT464,STATUS2,ADDRTYPE2,"32617 Jennifer Flats
+West Brianland, VA 23400",Cycles,2,0,1,1,0,1,1,2023-07-07,2023-04-12 03:25:08,,,,N,Y
+465,REPORT465,STATUS3,ADDRTYPE1,"Unit 9473 Box 4599
+DPO AP 06141",Other,2,2,1,2,2,0,1,2023-11-28,2023-08-09 03:25:08,Clear,Other,Daylight,Y,Y
+466,REPORT466,STATUS3,ADDRTYPE1,"796 Meadows Branch
+East Jessicaberg, MT 71351",Other,1,2,1,2,3,0,1,2023-09-15,2023-10-04 03:25:08,Other,Wet,Dark - No Street Lights,N,Y
+467,REPORT467,STATUS1,ADDRTYPE1,"4436 Monica Union Apt. 397
+Johnview, ND 97953",Sideswipe,5,0,0,3,1,1,1,2023-09-03,2023-02-27 03:25:08,Severe Crosswind,Unknown,Other,N,N
+468,REPORT468,STATUS2,ADDRTYPE3,"3880 Bryan Meadow Apt. 475
+Port Brittanytown, NC 96488",Sideswipe,4,0,0,2,3,1,0,2023-06-19,2023-11-24 03:25:08,Other,Standing Water,Other,Y,N
+469,REPORT469,STATUS1,ADDRTYPE1,"58289 Angela Grove
+Port Linda, MT 61564",Parked Car,2,0,0,2,2,1,1,2023-12-02,2023-12-11 03:25:08,Other,Oil,Daylight,N,N
+470,REPORT470,STATUS1,ADDRTYPE2,"7446 Crawford Rapid
+Francomouth, FL 16956",Angles,3,1,1,3,3,1,0,2023-10-18,2023-04-27 03:25:08,Fog/Smog/Smoke,Standing Water,Dark - Street Lights Off,Y,Y
+471,REPORT471,STATUS2,ADDRTYPE2,"77621 Theresa Groves
+Garciamouth, NE 43766",Other,2,2,0,1,2,1,1,2024-01-22,2023-06-29 03:25:08,Other,Wet,Dark - Street Lights Off,Y,N
+472,REPORT472,STATUS2,ADDRTYPE2,"USNS Duke
+FPO AE 66377",Other,4,1,1,2,0,0,1,2023-05-17,2023-12-20 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Daylight,Y,N
+473,REPORT473,STATUS1,ADDRTYPE3,"2328 Adrian Turnpike Apt. 062
+East Mariafort, MA 69722",Rear Ended,3,2,1,1,2,1,0,2023-03-02,2023-12-17 03:25:08,Snowing,Dry,Dusk,Y,N
+474,REPORT474,STATUS2,ADDRTYPE3,"502 Gutierrez Valley Suite 094
+South Kimberly, CO 52280",Other,3,2,1,1,2,0,1,2023-10-06,2023-09-09 03:25:08,Severe Crosswind,Other,Unknown,Y,Y
+475,REPORT475,STATUS1,ADDRTYPE3,"5754 Ralph Streets Suite 425
+Lake Brianborough, MO 30891",Other,1,1,1,2,2,0,0,2023-04-04,2023-12-06 03:25:08,Clear,Snow/Slush,Daylight,Y,N
+476,REPORT476,STATUS3,ADDRTYPE3,"7008 Ellis Ford
+North Jasmine, NY 91444",Rear Ended,5,0,1,1,2,0,0,2023-05-17,2023-04-26 03:25:08,Overcast,Ice,Dark - No Street Lights,N,Y
+477,REPORT477,STATUS1,ADDRTYPE2,"7908 Darlene Prairie
+New Michaelville, AS 14788",Angles,3,2,1,1,3,0,1,2023-12-18,2023-07-23 03:25:08,,,,Y,N
+478,REPORT478,STATUS3,ADDRTYPE3,"8054 Charles Island Apt. 487
+Michaelmouth, PW 61888",Pedestrian,1,1,1,3,0,1,1,2024-02-09,2023-03-30 03:25:08,Clear,Sand/Mud/Dirt,Dawn,N,Y
+479,REPORT479,STATUS1,ADDRTYPE3,"8464 Brown Tunnel
+Youngchester, GU 43996",Left Turn,5,1,1,3,1,1,1,2024-01-28,2023-07-06 03:25:08,Snowing,Standing Water,Dark - Street Lights Off,Y,N
+480,REPORT480,STATUS2,ADDRTYPE3,"2825 Walker Spring Suite 700
+West Ericburgh, TN 26574",Cycles,1,2,1,3,3,1,1,2023-12-29,2023-03-14 03:25:08,Overcast,Dry,Daylight,N,Y
+481,REPORT481,STATUS3,ADDRTYPE1,"301 Patterson Parkway
+Matthewport, MS 74921",Angles,2,0,1,1,3,0,1,2023-05-17,2023-12-19 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Other,Y,N
+482,REPORT482,STATUS2,ADDRTYPE2,"5048 Rodriguez Crossroad Suite 923
+Lyonsfort, PA 25424",Parked Car,2,2,0,1,3,1,1,2023-09-21,2023-05-28 03:25:08,Clear,Snow/Slush,Dawn,N,Y
+483,REPORT483,STATUS3,ADDRTYPE3,"08811 Parker Manors Suite 573
+Mckinneyshire, NH 75348",Rear Ended,5,2,0,3,2,0,1,2023-12-29,2023-05-25 03:25:08,Raining,Dry,Dark - No Street Lights,Y,N
+484,REPORT484,STATUS3,ADDRTYPE1,"863 Dorsey Port
+Port Erinstad, KS 24062",Parked Car,1,0,0,2,1,1,1,2023-06-03,2023-10-19 03:25:08,Severe Crosswind,Wet,Dark - No Street Lights,Y,Y
+485,REPORT485,STATUS1,ADDRTYPE2,"USS Jones
+FPO AE 56833",Pedestrian,4,1,0,3,3,0,0,2023-07-22,2023-04-30 03:25:08,Unknown,Sand/Mud/Dirt,Dark - No Street Lights,Y,Y
+486,REPORT486,STATUS1,ADDRTYPE3,"533 Moore Stravenue Suite 821
+Haroldfurt, ID 25264",Cycles,1,1,0,2,3,0,1,2023-12-09,2023-06-20 03:25:08,,,,N,Y
+487,REPORT487,STATUS1,ADDRTYPE2,"3286 Brewer Camp
+Port Garrett, NC 70388",Cycles,4,0,1,2,1,0,0,2024-02-19,2023-03-18 03:25:08,Blowing Sand/Dirt,Other,Dawn,N,N
+488,REPORT488,STATUS1,ADDRTYPE2,"726 Weiss Stream
+Kennethmouth, WV 57154",Other,3,1,0,1,0,1,1,2023-10-28,2023-06-14 03:25:08,Blowing Sand/Dirt,Dry,Other,N,N
+489,REPORT489,STATUS2,ADDRTYPE1,"77848 Katherine Branch
+Rossland, SD 49362",Sideswipe,3,1,0,3,1,1,0,2024-02-07,2023-09-29 03:25:08,Severe Crosswind,Other,Daylight,N,Y
+490,REPORT490,STATUS1,ADDRTYPE3,"4148 Hunter Spurs
+Laraport, NH 80315",Left Turn,3,0,0,2,1,1,0,2023-10-26,2023-09-08 03:25:08,Other,Snow/Slush,Dark - No Street Lights,Y,N
+491,REPORT491,STATUS1,ADDRTYPE2,"151 Clark Knoll Apt. 751
+Port Nicholas, DE 66378",Sideswipe,1,0,1,3,2,1,0,2023-07-16,2023-06-17 03:25:08,Unknown,Standing Water,Other,Y,N
+492,REPORT492,STATUS3,ADDRTYPE1,"139 William Shores Suite 287
+North Angela, IN 96183",Rear Ended,5,1,0,1,3,1,0,2023-08-06,2023-10-27 03:25:08,Fog/Smog/Smoke,Other,Dawn,N,N
+493,REPORT493,STATUS2,ADDRTYPE2,"72268 Johnson Islands
+Franklinmouth, MH 28957",Angles,4,2,0,1,2,1,0,2023-12-06,2024-01-03 03:25:08,Severe Crosswind,Snow/Slush,Unknown,N,N
+494,REPORT494,STATUS2,ADDRTYPE2,"54701 Margaret Lock
+Odonnellton, MN 58912",Other,1,1,0,1,0,0,1,2023-08-23,2023-10-07 03:25:08,Clear,Dry,Dusk,Y,N
+495,REPORT495,STATUS3,ADDRTYPE1,"302 Erik Loop Apt. 453
+Lake Sabrinaport, WI 36926",Rear Ended,3,0,1,2,3,1,1,2023-03-21,2023-09-21 03:25:08,Overcast,Oil,Dark - No Street Lights,N,Y
+496,REPORT496,STATUS3,ADDRTYPE2,"830 Gutierrez Harbors
+Shermanburgh, IN 51694",Parked Car,2,2,0,3,0,0,1,2023-09-26,2023-02-20 03:25:08,Fog/Smog/Smoke,Snow/Slush,Dark - Street Lights Off,N,N
+497,REPORT497,STATUS1,ADDRTYPE1,"194 Jeffrey Corners Apt. 654
+Stanleytown, AS 98903",Pedestrian,3,2,0,2,0,1,1,2023-10-27,2024-01-08 03:25:08,Raining,Unknown,Dark - No Street Lights,N,N
+498,REPORT498,STATUS2,ADDRTYPE3,"92072 Wright Groves Suite 409
+Alexandraborough, WV 10358",Parked Car,5,2,1,3,3,1,1,2023-03-06,2023-08-23 03:25:08,Raining,Snow/Slush,Unknown,Y,N
+499,REPORT499,STATUS1,ADDRTYPE2,"564 Andrew Points
+Jeffreyshire, ME 21655",Rear Ended,3,2,0,2,2,0,1,2023-08-07,2023-05-10 03:25:08,Unknown,Other,Other,N,Y
+500,REPORT500,STATUS3,ADDRTYPE3,"06442 Virginia Lake
+East Audrey, UT 31225",Pedestrian,5,2,0,1,3,1,1,2023-03-05,2023-10-18 03:25:08,Severe Crosswind,Standing Water,Dark - Street Lights On,N,Y
+501,REPORT501,STATUS1,ADDRTYPE3,"5488 Samantha Extension Apt. 458
+Davidview, IL 44949",Cycles,2,2,1,1,1,1,1,2023-12-24,2023-03-19 03:25:08,Blowing Sand/Dirt,Dry,Dark - No Street Lights,Y,Y
+502,REPORT502,STATUS2,ADDRTYPE2,"044 Ernest Ville
+East Ashley, MO 13409",Parked Car,4,2,0,1,3,1,1,2023-06-13,2023-03-25 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Dark - No Street Lights,N,N
+503,REPORT503,STATUS1,ADDRTYPE1,"USCGC Gomez
+FPO AE 22853",Sideswipe,3,0,0,2,1,0,0,2023-11-25,2023-11-06 03:25:08,Blowing Sand/Dirt,Other,Dusk,N,N
+504,REPORT504,STATUS2,ADDRTYPE2,"129 Gonzalez Curve
+South David, UT 88085",Rear Ended,5,2,1,3,1,1,1,2023-12-25,2023-03-01 03:25:08,Fog/Smog/Smoke,Snow/Slush,Dark - No Street Lights,Y,Y
+505,REPORT505,STATUS1,ADDRTYPE2,"USNV Herman
+FPO AE 29976",Rear Ended,4,1,1,1,1,0,0,2023-10-28,2024-01-11 03:25:08,Blowing Sand/Dirt,Dry,Dawn,Y,N
+506,REPORT506,STATUS1,ADDRTYPE1,"PSC 8522, Box 0404
+APO AA 42805",Sideswipe,2,2,0,1,3,0,0,2023-12-29,2024-01-12 03:25:08,Raining,Wet,Dark - Street Lights On,Y,N
+507,REPORT507,STATUS2,ADDRTYPE1,"5203 Terry Key
+Tammiemouth, MH 49502",Angles,5,2,0,2,2,1,1,2023-09-28,2023-06-11 03:25:08,Blowing Sand/Dirt,Other,Dark - Street Lights On,Y,Y
+508,REPORT508,STATUS2,ADDRTYPE2,"731 Evan Prairie
+Vargashaven, DE 19835",Left Turn,2,2,1,1,3,1,0,2023-08-21,2024-01-20 03:25:08,Clear,Dry,Dark - Street Lights Off,N,Y
+509,REPORT509,STATUS2,ADDRTYPE1,"2250 Wheeler Mission Apt. 429
+Weissport, IL 47097",Sideswipe,2,2,1,1,0,0,0,2024-01-11,2023-11-03 03:25:08,Severe Crosswind,Oil,Dark - No Street Lights,Y,Y
+510,REPORT510,STATUS1,ADDRTYPE3,"52440 Alison Corner Suite 982
+Port James, OH 22786",Cycles,1,2,0,2,2,1,1,2023-04-10,2024-02-13 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Other,Y,Y
+511,REPORT511,STATUS1,ADDRTYPE1,"43905 Andrews Center
+Jonathanchester, PW 01894",Cycles,4,0,0,2,2,0,1,2023-09-02,2023-03-13 03:25:08,Blowing Sand/Dirt,Ice,Unknown,Y,N
+512,REPORT512,STATUS1,ADDRTYPE3,"12711 Hayden Bridge
+South Rickview, MO 60657",Parked Car,1,1,0,1,3,0,1,2023-12-21,2023-11-01 03:25:08,Blowing Sand/Dirt,Unknown,Dark - Street Lights Off,N,N
+513,REPORT513,STATUS3,ADDRTYPE3,"860 Jared Crest
+Susanfort, GA 44215",Cycles,2,2,0,3,3,1,1,2023-08-19,2023-06-25 03:25:08,Sleet/Hail/Freezing Rain,Wet,Dusk,Y,Y
+514,REPORT514,STATUS1,ADDRTYPE3,"883 David Land
+Port Michael, CT 80101",Sideswipe,5,2,0,3,1,1,1,2024-01-07,2023-08-06 03:25:08,Other,Oil,Dawn,N,Y
+515,REPORT515,STATUS2,ADDRTYPE1,"07339 Campbell Expressway Apt. 510
+Nicoleport, RI 26176",Other,3,0,1,3,0,0,0,2024-01-28,2023-11-15 03:25:08,Snowing,Wet,Other,N,N
+516,REPORT516,STATUS2,ADDRTYPE1,"PSC 8982, Box 4054
+APO AA 10361",Angles,1,1,1,3,0,0,1,2023-04-16,2023-06-15 03:25:08,Unknown,Unknown,Dark - No Street Lights,N,Y
+517,REPORT517,STATUS2,ADDRTYPE2,"385 Santos Vista Suite 427
+South Kristine, WI 50537",Left Turn,3,1,1,3,1,0,1,2023-12-04,2023-12-28 03:25:08,Severe Crosswind,Unknown,Dark - No Street Lights,Y,Y
+518,REPORT518,STATUS1,ADDRTYPE1,"8348 Gary Stream Suite 471
+Caldwelltown, CO 00657",Parked Car,1,2,1,3,2,1,0,2023-11-20,2023-08-29 03:25:08,Snowing,Sand/Mud/Dirt,Other,Y,N
+519,REPORT519,STATUS2,ADDRTYPE1,"14307 Joseph Knolls
+Murrayfurt, MP 60410",Cycles,4,2,1,2,2,0,0,2023-07-15,2023-11-05 03:25:08,Unknown,Standing Water,Dark - No Street Lights,N,N
+520,REPORT520,STATUS2,ADDRTYPE3,"20033 Carrie Extension
+Jessicaberg, TX 99004",Sideswipe,3,2,1,3,3,1,1,2023-05-24,2023-04-23 03:25:08,Other,Snow/Slush,Unknown,Y,N
+521,REPORT521,STATUS3,ADDRTYPE1,"606 Ryan Mall
+Popeville, VI 25722",Parked Car,1,1,0,2,0,1,0,2023-09-01,2023-05-25 03:25:08,Unknown,Other,Unknown,Y,N
+522,REPORT522,STATUS3,ADDRTYPE1,"331 Reyes Throughway
+Lake Jacobmouth, AS 12733",Rear Ended,2,0,0,2,2,0,1,2023-04-18,2023-06-01 03:25:08,Other,Sand/Mud/Dirt,Dark - No Street Lights,N,Y
+523,REPORT523,STATUS2,ADDRTYPE3,"989 Tina Freeway Apt. 958
+Hawkinsborough, PW 42533",Left Turn,5,2,1,2,3,0,0,2023-11-19,2023-09-12 03:25:08,Unknown,Ice,Daylight,Y,Y
+524,REPORT524,STATUS3,ADDRTYPE1,"80844 James Vista Suite 060
+Villarrealland, NH 08090",Sideswipe,2,2,1,1,1,1,0,2023-03-09,2023-09-13 03:25:08,Sleet/Hail/Freezing Rain,Oil,Dark - Street Lights On,Y,N
+525,REPORT525,STATUS3,ADDRTYPE3,"393 Martinez Mission Suite 936
+Austinmouth, PW 57517",Other,4,0,1,3,3,1,1,2023-07-17,2023-02-22 03:25:08,Other,Sand/Mud/Dirt,Dusk,Y,Y
+526,REPORT526,STATUS2,ADDRTYPE1,"754 Brandon Meadows Suite 054
+Reginaside, ND 28133",Parked Car,4,0,1,3,1,1,1,2023-12-05,2023-07-02 03:25:08,Raining,Dry,Dawn,N,Y
+527,REPORT527,STATUS1,ADDRTYPE1,"87722 Warner Road Suite 296
+North Amberport, NV 55991",Pedestrian,1,2,1,3,0,0,0,2023-03-15,2023-03-21 03:25:08,Unknown,Wet,Dawn,Y,Y
+528,REPORT528,STATUS1,ADDRTYPE2,"635 Michael Divide Apt. 957
+Robinsonside, AS 03592",Pedestrian,2,0,0,1,0,0,1,2023-03-05,2023-12-03 03:25:08,Sleet/Hail/Freezing Rain,Other,Unknown,N,N
+529,REPORT529,STATUS2,ADDRTYPE1,"0405 Howard Locks Apt. 939
+New Alyssabury, TX 62824",Left Turn,3,2,0,2,2,0,0,2023-09-18,2023-06-06 03:25:08,Fog/Smog/Smoke,Other,Dark - Street Lights Off,N,N
+530,REPORT530,STATUS1,ADDRTYPE3,"7125 Amanda Plain
+North James, MP 22884",Angles,1,1,1,3,3,1,0,2023-04-06,2023-12-27 03:25:08,Other,Dry,Dark - Street Lights On,N,N
+531,REPORT531,STATUS3,ADDRTYPE1,"18739 Keith Green
+Kimfurt, ID 20864",Pedestrian,1,1,1,1,0,1,0,2023-09-26,2023-12-15 03:25:08,Raining,Unknown,Dusk,N,Y
+532,REPORT532,STATUS2,ADDRTYPE2,"62446 Gill Trail
+New Laura, MI 45930",Angles,2,0,1,1,2,0,0,2023-08-25,2023-10-30 03:25:08,Other,Wet,Dark - Street Lights On,N,N
+533,REPORT533,STATUS1,ADDRTYPE1,"080 Watson Club Suite 420
+Leahbury, PA 16606",Parked Car,5,0,1,3,3,1,0,2023-12-28,2023-08-17 03:25:08,,,,Y,Y
+534,REPORT534,STATUS1,ADDRTYPE1,"USNS Wilson
+FPO AP 48782",Parked Car,4,1,1,2,3,1,1,2023-10-04,2023-08-06 03:25:08,Blowing Sand/Dirt,Oil,Dark - Street Lights Off,N,N
+535,REPORT535,STATUS3,ADDRTYPE3,"5230 Barrett Tunnel Suite 590
+Port Patrick, NM 16211",Cycles,3,1,0,1,2,0,1,2023-06-09,2023-07-03 03:25:08,Raining,Wet,Dawn,N,N
+536,REPORT536,STATUS2,ADDRTYPE2,"PSC 6373, Box 2323
+APO AP 52589",Left Turn,4,0,1,2,3,0,0,2023-03-18,2023-04-08 03:25:08,Other,Other,Unknown,N,N
+537,REPORT537,STATUS2,ADDRTYPE1,"940 Douglas Islands
+Lake Mary, NM 69377",Other,1,1,0,2,0,1,0,2023-08-15,2023-06-02 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Dark - No Street Lights,Y,Y
+538,REPORT538,STATUS3,ADDRTYPE1,"599 John Squares Apt. 311
+Wrightport, IA 13659",Rear Ended,5,1,0,3,2,1,1,2023-10-07,2023-11-08 03:25:08,Severe Crosswind,Standing Water,Dark - No Street Lights,Y,N
+539,REPORT539,STATUS2,ADDRTYPE3,"34703 John Gateway Apt. 126
+Michaelport, GA 07206",Sideswipe,1,0,0,3,0,1,0,2023-02-20,2023-07-30 03:25:08,Unknown,Standing Water,Dark - Street Lights Off,Y,N
+540,REPORT540,STATUS2,ADDRTYPE1,"8244 Norman Courts
+North Elizabeth, NJ 42361",Pedestrian,5,2,1,3,2,0,1,2024-01-11,2023-11-15 03:25:08,Sleet/Hail/Freezing Rain,Dry,Unknown,Y,Y
+541,REPORT541,STATUS3,ADDRTYPE1,"153 Brian Valley Suite 921
+Fowlerfurt, RI 58506",Other,2,0,1,2,1,1,1,2024-02-18,2024-01-15 03:25:08,Fog/Smog/Smoke,Unknown,Dark - Street Lights Off,Y,N
+542,REPORT542,STATUS3,ADDRTYPE1,"186 Melinda Plaza
+Port Crystal, AS 83032",Cycles,4,2,1,2,0,0,1,2023-12-05,2023-09-30 03:25:08,Unknown,Snow/Slush,Dark - Street Lights On,Y,Y
+543,REPORT543,STATUS1,ADDRTYPE2,"706 Swanson Land
+West Craig, PR 90074",Sideswipe,1,2,0,1,1,0,1,2023-03-21,2023-07-18 03:25:08,Severe Crosswind,Wet,Dawn,Y,N
+544,REPORT544,STATUS2,ADDRTYPE1,"27358 Hernandez Club
+West Elizabethland, MS 00644",Left Turn,5,1,1,1,2,1,1,2023-12-06,2023-11-27 03:25:08,,,,N,N
+545,REPORT545,STATUS3,ADDRTYPE3,"2618 Nicole Cape
+North Ana, KS 47316",Sideswipe,5,1,1,1,3,0,1,2023-09-09,2023-03-05 03:25:08,Blowing Sand/Dirt,Wet,Dark - No Street Lights,Y,N
+546,REPORT546,STATUS1,ADDRTYPE2,"8292 Mcguire Spurs
+East Cynthia, NJ 71563",Rear Ended,1,0,1,3,1,1,0,2023-12-06,2023-09-15 03:25:08,,,,N,Y
+547,REPORT547,STATUS2,ADDRTYPE1,"5558 Morales Skyway
+Hartchester, MP 25205",Sideswipe,4,0,0,2,2,1,0,2023-08-04,2023-04-30 03:25:08,Fog/Smog/Smoke,Snow/Slush,Other,N,N
+548,REPORT548,STATUS1,ADDRTYPE1,"6527 Washington Neck
+North Michaelshire, CO 56376",Left Turn,2,1,1,2,1,0,1,2023-07-06,2023-03-25 03:25:08,Severe Crosswind,Snow/Slush,Daylight,N,Y
+549,REPORT549,STATUS3,ADDRTYPE2,"940 Shannon Avenue
+Johnchester, NC 34016",Other,2,1,1,2,0,0,0,2023-06-20,2023-12-29 03:25:08,,,,Y,N
+550,REPORT550,STATUS2,ADDRTYPE1,"81335 Hoffman Parkways
+New Amyport, GU 51072",Rear Ended,3,2,0,1,2,1,1,2024-01-16,2023-12-06 03:25:08,Severe Crosswind,Oil,Unknown,Y,N
+551,REPORT551,STATUS1,ADDRTYPE1,"612 Lyons Course
+Bryanfort, MT 98757",Angles,3,1,0,3,2,1,0,2023-12-24,2023-06-28 03:25:08,Snowing,Ice,Dawn,Y,N
+552,REPORT552,STATUS3,ADDRTYPE3,"292 Jordan Key
+Howardland, VI 16506",Cycles,3,0,1,3,3,0,1,2023-04-30,2023-12-27 03:25:08,Snowing,Dry,Daylight,N,Y
+553,REPORT553,STATUS3,ADDRTYPE2,"USS Harrington
+FPO AP 86412",Sideswipe,4,1,0,2,2,0,1,2023-07-16,2023-12-25 03:25:08,Other,Other,Other,Y,Y
+554,REPORT554,STATUS3,ADDRTYPE3,"05965 Tran Estate Suite 940
+Gutierrezburgh, MH 69092",Parked Car,3,1,1,2,0,0,0,2023-09-30,2023-10-19 03:25:08,Other,Sand/Mud/Dirt,Dusk,Y,N
+555,REPORT555,STATUS3,ADDRTYPE1,"00237 Thompson Valleys
+North Ryan, NH 58852",Pedestrian,3,1,1,2,2,1,0,2023-12-07,2024-02-11 03:25:08,Raining,Ice,Dusk,N,N
+556,REPORT556,STATUS3,ADDRTYPE3,"01983 Lauren Harbors Suite 913
+Lake Monicaburgh, AK 84651",Sideswipe,4,0,1,2,2,0,1,2024-01-04,2023-06-29 03:25:08,Raining,Standing Water,Dusk,N,N
+557,REPORT557,STATUS3,ADDRTYPE1,"062 Salas Expressway Suite 542
+South Andrew, ME 22793",Angles,3,1,0,1,0,1,0,2023-09-07,2023-11-16 03:25:08,Fog/Smog/Smoke,Snow/Slush,Dusk,Y,Y
+558,REPORT558,STATUS3,ADDRTYPE2,"889 Evans Dam
+Hillfurt, MS 84944",Sideswipe,2,2,0,1,1,0,0,2023-12-16,2023-10-06 03:25:08,Fog/Smog/Smoke,Unknown,Other,N,Y
+559,REPORT559,STATUS1,ADDRTYPE2,"674 Emily Grove
+Randallburgh, UT 87846",Left Turn,1,2,1,2,1,1,0,2023-11-18,2024-02-05 03:25:08,Blowing Sand/Dirt,Snow/Slush,Dusk,N,Y
+560,REPORT560,STATUS2,ADDRTYPE2,"77997 Michelle Valley
+Hoganmouth, ME 34885",Other,2,0,1,1,0,0,1,2023-08-06,2023-06-21 03:25:08,Overcast,Oil,Unknown,Y,Y
+561,REPORT561,STATUS2,ADDRTYPE3,"8154 Blankenship Ports
+Williamstad, WI 44592",Other,2,0,0,2,1,1,1,2023-08-23,2023-03-18 03:25:08,Severe Crosswind,Dry,Daylight,N,N
+562,REPORT562,STATUS1,ADDRTYPE3,"USCGC Williamson
+FPO AE 20311",Parked Car,5,1,1,2,2,1,1,2023-09-09,2023-05-24 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Dawn,Y,Y
+563,REPORT563,STATUS3,ADDRTYPE1,"8954 Sheila Trail Apt. 348
+Madelineton, CA 18169",Cycles,1,1,0,2,2,1,1,2023-06-11,2023-07-03 03:25:08,Unknown,Unknown,Dusk,Y,N
+564,REPORT564,STATUS2,ADDRTYPE2,"80123 Moore Walks Suite 019
+South Dustin, RI 60019",Parked Car,2,0,1,1,2,1,0,2023-07-17,2023-08-23 03:25:08,Overcast,Snow/Slush,Daylight,N,Y
+565,REPORT565,STATUS3,ADDRTYPE3,"45090 Cheryl Canyon Suite 444
+West Christina, MN 31961",Cycles,1,2,0,2,2,1,0,2023-06-18,2023-10-07 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Other,Y,N
+566,REPORT566,STATUS2,ADDRTYPE1,"9528 Robert Freeway Suite 113
+North Tyler, KS 95467",Left Turn,2,2,1,2,2,1,1,2023-03-01,2023-12-21 03:25:08,Clear,Dry,Other,N,Y
+567,REPORT567,STATUS3,ADDRTYPE3,"8810 Christopher Square
+Franklinmouth, MO 37924",Pedestrian,4,0,1,3,0,1,0,2023-07-23,2023-05-14 03:25:08,Overcast,Standing Water,Dark - Street Lights Off,N,Y
+568,REPORT568,STATUS1,ADDRTYPE1,"6348 Cochran Bridge Suite 756
+Loveshire, AL 51426",Cycles,4,0,1,3,2,1,0,2023-04-17,2024-01-07 03:25:08,Raining,Ice,Dusk,Y,N
+569,REPORT569,STATUS3,ADDRTYPE3,"56164 Daniel Stravenue
+Port Timothy, ME 78782",Other,3,2,1,1,1,1,0,2023-03-31,2023-08-22 03:25:08,,,,Y,N
+570,REPORT570,STATUS2,ADDRTYPE3,"559 Jessica Ferry Suite 991
+North Jeffreyton, NH 87409",Other,4,2,0,3,0,0,1,2023-09-02,2023-07-14 03:25:08,Snowing,Standing Water,Unknown,Y,Y
+571,REPORT571,STATUS3,ADDRTYPE3,"2043 Martinez Stream Suite 703
+South Haleybury, AR 03881",Angles,1,2,0,1,1,0,0,2023-12-11,2023-11-03 03:25:08,Blowing Sand/Dirt,Unknown,Dark - Street Lights Off,N,N
+572,REPORT572,STATUS2,ADDRTYPE2,"7696 Jennifer Circle Apt. 005
+East Joseph, PW 44503",Cycles,5,1,0,2,2,0,0,2023-03-22,2023-12-04 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Dark - Street Lights Off,Y,Y
+573,REPORT573,STATUS3,ADDRTYPE2,"752 Chandler Branch
+Shawnstad, AK 05321",Left Turn,3,2,0,3,2,1,1,2023-10-17,2023-07-31 03:25:08,Raining,Snow/Slush,Dawn,Y,N
+574,REPORT574,STATUS2,ADDRTYPE3,"USNV Li
+FPO AA 99122",Angles,2,2,1,1,3,1,0,2023-08-07,2023-06-07 03:25:08,Overcast,Sand/Mud/Dirt,Dark - No Street Lights,Y,Y
+575,REPORT575,STATUS2,ADDRTYPE1,"03164 Bethany View Suite 871
+Port Xavierside, MH 33316",Angles,4,0,0,2,3,0,0,2023-07-20,2023-07-14 03:25:08,Clear,Other,Dawn,Y,N
+576,REPORT576,STATUS2,ADDRTYPE1,"PSC 1483, Box 8143
+APO AA 55186",Rear Ended,3,2,1,3,2,0,0,2023-05-14,2023-06-04 03:25:08,Fog/Smog/Smoke,Wet,Dark - Street Lights Off,Y,Y
+577,REPORT577,STATUS3,ADDRTYPE2,"6732 Geoffrey Branch
+Port Justinshire, MH 30243",Other,4,2,1,3,1,0,0,2023-06-10,2023-09-02 03:25:08,Clear,Ice,Dark - No Street Lights,N,Y
+578,REPORT578,STATUS2,ADDRTYPE2,"40590 James Green
+Port Williamstad, ME 82466",Parked Car,3,1,1,1,0,1,0,2023-05-20,2024-01-23 03:25:08,Overcast,Ice,Dark - No Street Lights,N,N
+579,REPORT579,STATUS3,ADDRTYPE2,"32620 Michael Station
+Lake Devin, TX 14029",Parked Car,1,1,1,2,1,1,0,2023-05-22,2023-07-09 03:25:08,Raining,Dry,Dusk,N,N
+580,REPORT580,STATUS1,ADDRTYPE3,"998 Catherine Village Suite 015
+Smithside, AR 01318",Left Turn,1,1,0,3,1,0,1,2023-06-12,2023-10-03 03:25:08,Overcast,Other,Dark - No Street Lights,Y,Y
+581,REPORT581,STATUS1,ADDRTYPE1,"Unit 4716 Box 1809
+DPO AE 80626",Cycles,2,0,1,2,1,0,1,2023-05-23,2023-08-14 03:25:08,,,,N,Y
+582,REPORT582,STATUS2,ADDRTYPE2,"5194 William Station
+Feliciafurt, PA 16275",Angles,3,0,0,2,1,1,1,2023-05-21,2023-12-31 03:25:08,Blowing Sand/Dirt,Wet,Dark - Street Lights On,Y,Y
+583,REPORT583,STATUS3,ADDRTYPE3,"3443 Hernandez Circles
+Masonborough, GU 48128",Other,5,1,0,3,0,0,0,2023-10-25,2024-01-25 03:25:08,Fog/Smog/Smoke,Snow/Slush,Unknown,Y,N
+584,REPORT584,STATUS2,ADDRTYPE2,"873 Jackson Stravenue Apt. 805
+Saratown, FL 49987",Cycles,1,1,0,2,3,1,0,2023-08-07,2023-03-24 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dark - No Street Lights,Y,Y
+585,REPORT585,STATUS3,ADDRTYPE1,"00354 Nichole Inlet
+West Laurenhaven, PR 38677",Angles,2,2,0,1,3,0,0,2024-01-08,2023-08-08 03:25:08,Other,Standing Water,Dusk,Y,N
+586,REPORT586,STATUS3,ADDRTYPE1,"595 Davis Fort Apt. 118
+West Michaelberg, MN 81493",Cycles,3,2,0,3,0,0,1,2023-04-28,2023-07-18 03:25:08,Overcast,Other,Unknown,N,Y
+587,REPORT587,STATUS1,ADDRTYPE2,"70141 Stewart Village Apt. 212
+Port Jonathanborough, WI 01594",Rear Ended,2,2,0,1,0,1,0,2023-07-19,2023-11-12 03:25:08,Fog/Smog/Smoke,Oil,Dark - Street Lights On,N,N
+588,REPORT588,STATUS3,ADDRTYPE3,"9333 William Corners Apt. 207
+South Kelly, MA 93103",Cycles,1,1,1,3,1,1,1,2023-05-26,2023-09-22 03:25:08,Blowing Sand/Dirt,Standing Water,Other,Y,Y
+589,REPORT589,STATUS3,ADDRTYPE1,"93989 Daniel Lodge
+North Kimberlymouth, IN 77888",Parked Car,2,2,1,1,0,0,0,2023-04-30,2023-11-15 03:25:08,Unknown,Sand/Mud/Dirt,Dark - No Street Lights,Y,Y
+590,REPORT590,STATUS2,ADDRTYPE1,"8564 Andrew Plains
+South Samanthahaven, TN 23148",Pedestrian,3,2,0,2,3,0,1,2023-03-01,2023-07-28 03:25:08,Snowing,Oil,Dark - Street Lights On,N,Y
+591,REPORT591,STATUS2,ADDRTYPE1,"307 Miller Shoal Apt. 742
+Williamstad, NV 54865",Cycles,4,1,1,2,2,0,0,2023-10-30,2023-11-21 03:25:08,Raining,Dry,Dusk,N,N
+592,REPORT592,STATUS3,ADDRTYPE2,"9340 Andrade Course
+North Michaelborough, PR 14592",Rear Ended,5,2,0,1,2,1,1,2023-02-25,2023-04-21 03:25:08,Other,Other,Dark - No Street Lights,N,Y
+593,REPORT593,STATUS1,ADDRTYPE3,"PSC 3199, Box 4160
+APO AA 97854",Cycles,1,1,0,2,2,1,0,2024-01-06,2023-10-01 03:25:08,Other,Other,Dusk,N,N
+594,REPORT594,STATUS2,ADDRTYPE3,"7028 Kyle Tunnel Suite 967
+Nathanielhaven, MS 15339",Sideswipe,3,0,0,1,1,1,0,2023-10-22,2023-05-24 03:25:08,Severe Crosswind,Other,Other,Y,N
+595,REPORT595,STATUS2,ADDRTYPE3,"33691 Bradford Ports Suite 254
+South Randyton, IN 24604",Rear Ended,3,0,0,3,3,1,1,2023-08-18,2023-04-14 03:25:08,Severe Crosswind,Other,Dawn,Y,N
+596,REPORT596,STATUS1,ADDRTYPE3,"9477 Long Creek
+Thompsonport, PA 96303",Pedestrian,2,2,0,3,2,1,1,2024-02-18,2023-06-12 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Daylight,Y,Y
+597,REPORT597,STATUS2,ADDRTYPE3,"USNS Manning
+FPO AE 32899",Sideswipe,1,0,1,2,1,1,0,2023-11-07,2023-05-30 03:25:08,Raining,Unknown,Other,Y,N
+598,REPORT598,STATUS3,ADDRTYPE2,"3613 James Unions
+New Jeremy, SC 27653",Rear Ended,4,0,0,2,2,0,0,2024-02-11,2023-07-13 03:25:08,Clear,Sand/Mud/Dirt,Other,N,Y
+599,REPORT599,STATUS3,ADDRTYPE2,"34956 Valerie View Apt. 039
+Lake Pamela, NM 88783",Other,4,1,1,3,0,0,0,2023-08-18,2023-12-26 03:25:08,Raining,Sand/Mud/Dirt,Other,N,Y
+600,REPORT600,STATUS3,ADDRTYPE3,"37219 Adam Shores Apt. 109
+Nicholasside, UT 30692",Angles,5,1,1,2,0,0,1,2023-05-10,2023-03-08 03:25:08,,,,N,N
+601,REPORT601,STATUS2,ADDRTYPE3,"94500 Bradley Grove Apt. 533
+Lake Gary, AZ 43558",Rear Ended,5,2,1,3,1,1,0,2023-06-22,2024-01-25 03:25:08,Sleet/Hail/Freezing Rain,Oil,Dark - Street Lights On,Y,Y
+602,REPORT602,STATUS2,ADDRTYPE2,"65387 Megan Glen
+New Joelton, MO 63459",Pedestrian,2,1,1,3,1,0,0,2023-12-13,2023-03-26 03:25:08,Fog/Smog/Smoke,Unknown,Unknown,N,N
+603,REPORT603,STATUS2,ADDRTYPE2,"79410 Wendy Island Suite 941
+New Kimberlychester, CA 31652",Left Turn,1,2,1,1,1,1,0,2023-12-25,2023-10-15 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Daylight,Y,N
+604,REPORT604,STATUS2,ADDRTYPE3,"98592 Gardner Radial
+Gregoryhaven, MT 24747",Angles,4,2,1,1,1,1,0,2024-01-20,2023-12-25 03:25:08,Fog/Smog/Smoke,Snow/Slush,Other,N,Y
+605,REPORT605,STATUS3,ADDRTYPE3,"90917 Powell Grove Apt. 005
+Lake Kelliefurt, AK 35763",Rear Ended,1,1,0,3,2,0,0,2023-08-25,2023-10-30 03:25:08,Snowing,Standing Water,Daylight,Y,Y
+606,REPORT606,STATUS1,ADDRTYPE2,"24217 Christy Village Apt. 577
+Lake Sydneyhaven, AR 91398",Angles,2,2,1,3,1,0,1,2023-08-19,2023-12-23 03:25:08,,,,Y,Y
+607,REPORT607,STATUS3,ADDRTYPE1,"0317 Jesse Terrace Apt. 104
+New Samantha, IA 95545",Cycles,1,0,0,1,1,1,1,2023-12-10,2024-01-23 03:25:08,Overcast,Wet,Other,N,Y
+608,REPORT608,STATUS2,ADDRTYPE3,"8926 Kevin Pass
+Juliamouth, IN 82049",Rear Ended,1,0,0,3,1,0,1,2023-09-22,2024-02-01 03:25:08,Overcast,Sand/Mud/Dirt,Unknown,Y,Y
+609,REPORT609,STATUS3,ADDRTYPE1,"58697 Stephens Mountains Suite 838
+Michaelburgh, MD 45258",Sideswipe,1,0,0,3,0,0,1,2023-06-29,2023-05-01 03:25:08,,,,Y,Y
+610,REPORT610,STATUS1,ADDRTYPE3,"66365 Wilson Drive Suite 945
+Vasquezmouth, DE 77473",Pedestrian,2,1,1,3,3,1,1,2023-12-08,2023-10-06 03:25:08,Blowing Sand/Dirt,Other,Dark - No Street Lights,N,Y
+611,REPORT611,STATUS3,ADDRTYPE3,"001 Owens Drive Suite 443
+Kevinchester, NJ 73239",Parked Car,2,0,1,2,0,0,1,2023-05-13,2023-10-20 03:25:08,Raining,Wet,Dark - Street Lights On,N,N
+612,REPORT612,STATUS1,ADDRTYPE3,"912 Rose Cape
+South Cindy, PR 86760",Parked Car,2,2,0,1,0,0,1,2023-07-19,2024-01-17 03:25:08,Overcast,Ice,Dawn,Y,Y
+613,REPORT613,STATUS2,ADDRTYPE3,"3860 Michael Ranch
+New Kimberly, IL 72100",Pedestrian,4,2,1,3,0,1,1,2023-10-18,2023-05-23 03:25:08,Clear,Oil,Dawn,Y,Y
+614,REPORT614,STATUS3,ADDRTYPE1,"28458 Mcclure Meadow Suite 734
+South Sandrachester, NJ 77052",Left Turn,3,2,0,3,3,1,1,2023-11-04,2023-12-30 03:25:08,Severe Crosswind,Other,Daylight,N,N
+615,REPORT615,STATUS3,ADDRTYPE2,"884 Jaime Road Apt. 270
+West Shaneport, AL 66353",Pedestrian,1,1,0,2,3,1,1,2023-10-28,2023-10-01 03:25:08,Severe Crosswind,Snow/Slush,Other,N,N
+616,REPORT616,STATUS3,ADDRTYPE2,"9531 Benton Greens Suite 977
+New Meganbury, MA 56488",Cycles,5,0,1,2,0,1,0,2024-01-22,2023-10-27 03:25:08,Other,Snow/Slush,Dark - Street Lights Off,Y,Y
+617,REPORT617,STATUS3,ADDRTYPE1,"17556 Carrie Hollow Suite 104
+Johnathanville, AK 80734",Pedestrian,5,1,1,3,1,1,1,2023-12-11,2023-04-08 03:25:08,Sleet/Hail/Freezing Rain,Other,Unknown,N,N
+618,REPORT618,STATUS2,ADDRTYPE2,"1400 Lewis Ridges
+Vazquezmouth, CA 73017",Pedestrian,3,2,0,1,0,1,1,2023-12-21,2023-02-26 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dark - Street Lights Off,N,Y
+619,REPORT619,STATUS1,ADDRTYPE2,"00531 Brian Pass Apt. 285
+North Sandra, NY 96845",Angles,1,0,0,2,0,1,1,2023-02-28,2023-07-27 03:25:08,Other,Sand/Mud/Dirt,Dusk,N,N
+620,REPORT620,STATUS1,ADDRTYPE2,"849 Martin Orchard Suite 303
+East Jose, MS 23085",Parked Car,1,0,0,1,0,0,0,2023-02-24,2023-08-03 03:25:08,Sleet/Hail/Freezing Rain,Dry,Other,Y,N
+621,REPORT621,STATUS3,ADDRTYPE2,"PSC 8572, Box 4774
+APO AE 35168",Left Turn,1,0,1,2,3,0,1,2023-12-08,2023-08-02 03:25:08,,,,N,Y
+622,REPORT622,STATUS2,ADDRTYPE2,"9018 Curtis Oval
+Alvaradoland, MH 75236",Angles,2,1,1,2,0,1,1,2023-08-10,2023-12-30 03:25:08,Blowing Sand/Dirt,Unknown,Dawn,N,N
+623,REPORT623,STATUS1,ADDRTYPE3,"80845 Combs Street
+Lloydbury, DE 09335",Parked Car,4,0,0,1,2,1,0,2024-02-06,2023-10-30 03:25:08,Severe Crosswind,Other,Dark - No Street Lights,Y,Y
+624,REPORT624,STATUS1,ADDRTYPE1,"87052 Donna Roads Apt. 375
+Helenview, GA 69813",Pedestrian,2,1,0,3,0,1,0,2023-02-28,2023-03-02 03:25:08,Snowing,Standing Water,Dusk,N,N
+625,REPORT625,STATUS1,ADDRTYPE2,"192 Hebert Lodge
+South Kathleen, MH 89733",Parked Car,1,0,0,1,0,0,1,2023-07-17,2023-10-05 03:25:08,Raining,Standing Water,Dark - Street Lights Off,N,Y
+626,REPORT626,STATUS1,ADDRTYPE2,"USS Chapman
+FPO AA 59881",Other,3,2,1,3,2,1,1,2023-08-13,2023-06-11 03:25:08,,,,N,N
+627,REPORT627,STATUS1,ADDRTYPE2,"387 Katrina Summit
+Grayshire, VT 72129",Rear Ended,1,1,0,3,0,0,0,2024-01-23,2023-11-06 03:25:08,Snowing,Snow/Slush,Dark - No Street Lights,Y,Y
+628,REPORT628,STATUS1,ADDRTYPE3,"6368 Wendy Ports Suite 662
+East Samantha, MT 88559",Rear Ended,1,0,0,2,0,1,0,2023-02-25,2023-11-24 03:25:08,Sleet/Hail/Freezing Rain,Oil,Daylight,N,N
+629,REPORT629,STATUS2,ADDRTYPE2,"729 Stephanie Run
+East Scott, UT 64399",Sideswipe,4,1,1,2,0,1,0,2023-12-27,2023-11-07 03:25:08,Other,Sand/Mud/Dirt,Daylight,N,Y
+630,REPORT630,STATUS3,ADDRTYPE2,"USNS Gonzalez
+FPO AA 38114",Cycles,1,0,1,2,1,0,1,2023-03-17,2023-08-26 03:25:08,Clear,Ice,Dark - No Street Lights,N,Y
+631,REPORT631,STATUS1,ADDRTYPE1,"53110 Hernandez Turnpike
+North Amyfurt, TX 67032",Pedestrian,2,2,1,3,1,1,0,2023-04-28,2023-03-30 03:25:08,Severe Crosswind,Standing Water,Dark - Street Lights On,N,Y
+632,REPORT632,STATUS2,ADDRTYPE3,"03630 Williams Circles
+New Shannon, KS 99650",Pedestrian,5,2,1,3,1,1,1,2024-01-13,2023-09-25 03:25:08,Blowing Sand/Dirt,Oil,Dark - Street Lights On,N,Y
+633,REPORT633,STATUS2,ADDRTYPE2,"USNS Beard
+FPO AP 43302",Other,4,2,0,1,2,0,1,2023-06-20,2023-02-23 03:25:08,Blowing Sand/Dirt,Unknown,Dark - Street Lights On,Y,Y
+634,REPORT634,STATUS3,ADDRTYPE1,"13113 Samuel Circle
+New William, KS 82076",Other,4,0,0,1,0,1,1,2023-04-21,2023-04-20 03:25:08,Severe Crosswind,Standing Water,Dark - Street Lights Off,N,N
+635,REPORT635,STATUS3,ADDRTYPE1,"9231 Kathleen Vista
+New Samuel, HI 04137",Cycles,4,1,0,1,0,1,1,2023-12-01,2023-09-25 03:25:08,Blowing Sand/Dirt,Wet,Unknown,N,Y
+636,REPORT636,STATUS1,ADDRTYPE1,"5691 Barbara Ranch
+Davisberg, DE 70438",Left Turn,1,1,1,1,1,0,0,2024-02-04,2024-02-18 03:25:08,Fog/Smog/Smoke,Wet,Dusk,N,Y
+637,REPORT637,STATUS3,ADDRTYPE1,"21048 Miller Stravenue Apt. 761
+West Bobbyberg, PR 01256",Parked Car,4,2,1,3,2,0,0,2023-12-06,2024-01-02 03:25:08,Snowing,Standing Water,Dusk,N,N
+638,REPORT638,STATUS3,ADDRTYPE2,"50970 Anne Mountains
+Port Ronaldhaven, UT 70073",Sideswipe,4,2,1,3,2,0,1,2023-08-16,2023-11-17 03:25:08,Other,Ice,Unknown,Y,N
+639,REPORT639,STATUS2,ADDRTYPE1,"673 Evan Course Apt. 600
+North Michael, OR 14236",Other,2,2,0,1,2,1,0,2023-12-09,2023-06-07 03:25:08,Fog/Smog/Smoke,Ice,Unknown,N,Y
+640,REPORT640,STATUS2,ADDRTYPE3,"62376 Hahn Courts
+Lake Jill, AZ 49875",Angles,3,0,1,1,1,0,1,2024-01-10,2023-02-26 03:25:08,Other,Wet,Daylight,Y,N
+641,REPORT641,STATUS2,ADDRTYPE3,"15946 Kyle Lane
+Nobleport, CO 96736",Rear Ended,2,1,0,3,1,0,0,2023-10-17,2023-04-07 03:25:08,Overcast,Snow/Slush,Other,N,N
+642,REPORT642,STATUS1,ADDRTYPE2,"7573 Espinoza Knoll Apt. 578
+West Mark, RI 51842",Pedestrian,2,0,0,1,0,0,1,2024-01-11,2023-06-20 03:25:08,Overcast,Unknown,Dark - Street Lights On,N,N
+643,REPORT643,STATUS1,ADDRTYPE1,"USCGC Brown
+FPO AP 95657",Rear Ended,3,2,0,2,0,0,1,2024-02-13,2023-09-16 03:25:08,,,,N,Y
+644,REPORT644,STATUS3,ADDRTYPE3,"993 Brett Junctions
+Deannaville, CA 11688",Other,3,2,0,3,0,0,0,2023-05-04,2023-03-04 03:25:08,Unknown,Standing Water,Dark - Street Lights On,N,N
+645,REPORT645,STATUS3,ADDRTYPE1,"886 Castaneda Shores
+New Kristina, PW 80227",Other,4,0,1,2,1,1,1,2023-07-21,2023-10-20 03:25:08,Fog/Smog/Smoke,Oil,Dark - Street Lights On,Y,Y
+646,REPORT646,STATUS1,ADDRTYPE3,"51718 David Locks Apt. 295
+Aguilartown, ME 57236",Angles,2,2,1,2,1,0,1,2023-12-05,2023-11-24 03:25:08,Blowing Sand/Dirt,Standing Water,Dark - Street Lights Off,Y,Y
+647,REPORT647,STATUS1,ADDRTYPE3,"087 Lee Square Apt. 183
+Schultztown, FM 05347",Angles,1,1,0,3,2,0,0,2023-11-18,2023-09-11 03:25:08,Snowing,Other,Dark - Street Lights Off,N,Y
+648,REPORT648,STATUS2,ADDRTYPE3,"69449 Williams Streets Suite 096
+Kristinland, FM 29676",Rear Ended,5,2,0,3,1,0,1,2023-06-24,2023-03-08 03:25:08,Severe Crosswind,Ice,Dark - Street Lights Off,Y,N
+649,REPORT649,STATUS1,ADDRTYPE2,"316 Elizabeth Dam
+Jennifershire, OK 00786",Cycles,5,1,1,2,0,0,1,2023-12-10,2024-01-15 03:25:08,Severe Crosswind,Standing Water,Dark - Street Lights Off,N,Y
+650,REPORT650,STATUS1,ADDRTYPE3,"5031 Mason Burgs Suite 813
+Ballhaven, LA 80037",Rear Ended,5,2,0,1,0,1,1,2023-05-25,2023-11-26 03:25:08,Other,Snow/Slush,Other,Y,Y
+651,REPORT651,STATUS3,ADDRTYPE1,"76985 Farley Landing Suite 975
+North Matthewstad, NH 60456",Other,2,0,1,1,1,0,0,2023-02-27,2023-11-16 03:25:08,Raining,Other,Unknown,Y,N
+652,REPORT652,STATUS3,ADDRTYPE2,"174 Hill Estates
+Philipstad, NV 74462",Rear Ended,3,2,0,3,3,0,1,2023-09-19,2023-09-02 03:25:08,Other,Other,Dark - No Street Lights,Y,N
+653,REPORT653,STATUS2,ADDRTYPE2,"91117 Jon Freeway Suite 588
+North Charles, WA 28216",Pedestrian,4,2,0,2,2,1,1,2023-06-24,2023-07-01 03:25:08,Snowing,Wet,Unknown,N,N
+654,REPORT654,STATUS1,ADDRTYPE3,"USCGC Ray
+FPO AE 44542",Cycles,4,0,0,2,1,0,0,2023-07-24,2023-12-09 03:25:08,Overcast,Other,Dark - Street Lights On,Y,N
+655,REPORT655,STATUS3,ADDRTYPE2,"28080 Anne Port
+Richardview, IL 49110",Other,5,2,1,3,3,1,0,2023-08-31,2024-02-13 03:25:08,Raining,Oil,Dawn,N,N
+656,REPORT656,STATUS1,ADDRTYPE3,"USNS Young
+FPO AA 24883",Other,4,0,0,3,0,1,0,2023-07-07,2023-03-15 03:25:08,Snowing,Oil,Dark - No Street Lights,Y,Y
+657,REPORT657,STATUS1,ADDRTYPE1,"2484 Tammy Trafficway Suite 249
+North Matthewville, SC 07313",Rear Ended,1,0,1,2,1,0,0,2023-03-26,2023-06-22 03:25:08,Snowing,Oil,Unknown,Y,Y
+658,REPORT658,STATUS2,ADDRTYPE2,"00518 Tonya Shores Apt. 668
+Kennethchester, MH 37498",Parked Car,1,1,0,2,2,1,1,2023-03-01,2023-07-15 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Dark - Street Lights Off,Y,Y
+659,REPORT659,STATUS1,ADDRTYPE3,"27092 Robert Square Apt. 440
+Rachelport, MI 63214",Sideswipe,3,2,0,3,3,0,0,2024-02-13,2023-09-01 03:25:08,Sleet/Hail/Freezing Rain,Ice,Dawn,Y,N
+660,REPORT660,STATUS2,ADDRTYPE2,"86148 Charles Ports Apt. 017
+Danielside, LA 02797",Other,4,2,0,2,3,1,1,2023-09-26,2024-02-09 03:25:08,Unknown,Standing Water,Other,N,Y
+661,REPORT661,STATUS3,ADDRTYPE2,"95071 Julia Key Apt. 229
+East Daniel, OR 21760",Left Turn,2,2,1,1,1,1,1,2023-12-25,2023-11-21 03:25:08,Overcast,Sand/Mud/Dirt,Dark - Street Lights On,Y,Y
+662,REPORT662,STATUS3,ADDRTYPE1,"79384 Johnson Roads
+New Mark, MH 59944",Left Turn,4,1,0,3,1,0,0,2023-12-02,2023-10-07 03:25:08,Snowing,Sand/Mud/Dirt,Unknown,Y,N
+663,REPORT663,STATUS3,ADDRTYPE3,"334 Lester Shoal Suite 576
+Patriciaport, PR 54034",Other,2,2,1,1,3,1,1,2024-01-20,2024-01-11 03:25:08,Snowing,Snow/Slush,Dawn,N,Y
+664,REPORT664,STATUS3,ADDRTYPE3,"PSC 4928, Box 8169
+APO AA 67018",Sideswipe,5,1,0,3,0,0,0,2023-03-28,2023-11-24 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Dark - Street Lights Off,N,N
+665,REPORT665,STATUS2,ADDRTYPE1,"8547 Hogan Knoll
+Ericshire, UT 71128",Parked Car,2,1,0,3,2,1,1,2024-02-03,2023-03-09 03:25:08,Raining,Unknown,Dusk,Y,N
+666,REPORT666,STATUS2,ADDRTYPE1,"27611 Martin Corners Suite 838
+North Kennethtown, MI 12672",Other,5,2,1,2,0,1,0,2023-04-16,2024-02-15 03:25:08,Unknown,Unknown,Dusk,N,N
+667,REPORT667,STATUS3,ADDRTYPE3,"72687 Prince Drive Apt. 774
+Port Christina, MH 15007",Pedestrian,1,2,0,1,3,1,0,2023-11-23,2023-04-21 03:25:08,Snowing,Standing Water,Dark - No Street Lights,N,Y
+668,REPORT668,STATUS3,ADDRTYPE2,"215 Christina Corners Apt. 636
+Lake Brendaport, NV 11624",Sideswipe,4,0,0,2,0,0,0,2023-06-07,2023-08-23 03:25:08,Overcast,Snow/Slush,Dark - Street Lights On,N,N
+669,REPORT669,STATUS3,ADDRTYPE1,"076 Russo Manors Suite 017
+Garciaton, ND 44434",Sideswipe,3,1,0,1,1,0,0,2023-11-29,2023-06-22 03:25:08,Raining,Dry,Dark - No Street Lights,N,N
+670,REPORT670,STATUS2,ADDRTYPE1,"018 Rocha Common Apt. 578
+West Lisamouth, DC 57401",Rear Ended,4,1,1,2,3,0,0,2024-02-14,2023-04-27 03:25:08,Unknown,Oil,Other,Y,Y
+671,REPORT671,STATUS3,ADDRTYPE2,"351 Jason Locks
+Prestonfurt, NE 25529",Parked Car,5,1,0,3,2,0,0,2023-08-01,2024-02-19 03:25:08,Blowing Sand/Dirt,Other,Dark - Street Lights On,N,Y
+672,REPORT672,STATUS2,ADDRTYPE3,"PSC 5976, Box 6673
+APO AE 58537",Pedestrian,4,1,1,1,2,1,1,2023-07-18,2023-06-14 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Dawn,N,Y
+673,REPORT673,STATUS1,ADDRTYPE2,"8031 Flores Bridge
+Paulamouth, ID 05897",Cycles,3,1,1,1,0,0,0,2023-03-08,2023-10-16 03:25:08,Overcast,Unknown,Daylight,Y,Y
+674,REPORT674,STATUS3,ADDRTYPE1,"PSC 6915, Box 0792
+APO AP 03870",Rear Ended,5,0,1,3,0,0,0,2023-07-02,2023-06-23 03:25:08,Clear,Wet,Daylight,Y,Y
+675,REPORT675,STATUS2,ADDRTYPE2,"4019 Clark Cliffs Suite 868
+North Johnbury, MN 41834",Left Turn,5,0,0,3,2,1,1,2023-05-12,2023-12-25 03:25:08,Severe Crosswind,Standing Water,Daylight,N,N
+676,REPORT676,STATUS2,ADDRTYPE3,"183 Mccarthy Fall Apt. 574
+West Robyntown, MO 13864",Pedestrian,3,1,0,2,3,0,1,2023-02-20,2024-01-27 03:25:08,Clear,Standing Water,Dark - No Street Lights,Y,N
+677,REPORT677,STATUS2,ADDRTYPE1,"6920 Little Island
+Kariside, CT 98600",Left Turn,4,2,1,1,0,0,1,2023-10-10,2024-02-11 03:25:08,,,,Y,N
+678,REPORT678,STATUS1,ADDRTYPE2,"657 Wells Bypass
+Timothychester, PR 29950",Pedestrian,3,2,1,2,3,1,0,2023-05-03,2023-05-05 03:25:08,Blowing Sand/Dirt,Standing Water,Unknown,Y,Y
+679,REPORT679,STATUS3,ADDRTYPE3,"49174 Mark Rapid
+Jesuston, SD 67614",Pedestrian,2,2,0,1,2,1,1,2023-06-08,2023-03-08 03:25:08,Unknown,Ice,Daylight,Y,Y
+680,REPORT680,STATUS2,ADDRTYPE3,"50212 Brooks Drives
+Fieldsville, TN 77321",Parked Car,1,2,1,1,3,0,1,2023-09-16,2023-09-24 03:25:08,Clear,Dry,Daylight,N,N
+681,REPORT681,STATUS3,ADDRTYPE3,"91957 Madison Stravenue Suite 273
+Duffyshire, VT 50206",Sideswipe,3,1,0,2,2,0,0,2023-02-21,2023-10-26 03:25:08,Sleet/Hail/Freezing Rain,Ice,Daylight,Y,Y
+682,REPORT682,STATUS2,ADDRTYPE3,"544 Valentine Prairie Suite 793
+Amandamouth, HI 26874",Pedestrian,5,2,1,3,3,1,0,2023-10-26,2023-05-27 03:25:08,Clear,Unknown,Dark - No Street Lights,Y,N
+683,REPORT683,STATUS3,ADDRTYPE3,"687 Smith Pass Apt. 354
+West Robert, WY 08653",Parked Car,2,2,1,3,1,0,1,2023-07-18,2023-06-07 03:25:08,Other,Oil,Dark - Street Lights Off,N,N
+684,REPORT684,STATUS1,ADDRTYPE3,"9980 Mary Key
+Courtneyport, MP 22017",Cycles,1,1,1,2,3,0,0,2023-12-01,2023-11-26 03:25:08,Unknown,Wet,Dawn,Y,N
+685,REPORT685,STATUS2,ADDRTYPE1,"353 Lee Fork
+Port Mary, CT 16493",Other,3,2,1,3,2,0,1,2023-10-03,2023-12-06 03:25:08,Snowing,Standing Water,Daylight,N,Y
+686,REPORT686,STATUS2,ADDRTYPE3,"207 Wallace Lodge
+Hillburgh, MP 79106",Other,1,2,0,2,3,1,0,2024-01-03,2024-01-02 03:25:08,Severe Crosswind,Dry,Dark - No Street Lights,N,Y
+687,REPORT687,STATUS1,ADDRTYPE3,"9743 Joseph Harbors Apt. 293
+West Rhondamouth, UT 01123",Sideswipe,4,2,0,3,1,1,0,2023-05-28,2023-12-30 03:25:08,Fog/Smog/Smoke,Other,Dark - Street Lights On,Y,Y
+688,REPORT688,STATUS3,ADDRTYPE3,"20035 Michael Walk
+Port Robinborough, VA 48051",Parked Car,5,2,1,2,0,0,1,2023-08-10,2023-09-17 03:25:08,Sleet/Hail/Freezing Rain,Ice,Unknown,Y,N
+689,REPORT689,STATUS2,ADDRTYPE2,"10715 Gavin View Apt. 168
+North Anthony, FM 88035",Cycles,3,0,1,2,3,1,1,2023-12-17,2023-09-01 03:25:08,Blowing Sand/Dirt,Unknown,Dusk,Y,Y
+690,REPORT690,STATUS1,ADDRTYPE1,"4876 Mooney Trail
+East Sandra, TN 79011",Rear Ended,5,0,1,2,2,0,1,2023-11-03,2023-07-03 03:25:08,Overcast,Sand/Mud/Dirt,Other,Y,N
+691,REPORT691,STATUS2,ADDRTYPE1,"8463 Dawn Squares
+Port Deanna, WA 31568",Pedestrian,2,0,1,2,1,1,1,2023-07-29,2023-06-13 03:25:08,Sleet/Hail/Freezing Rain,Wet,Unknown,Y,N
+692,REPORT692,STATUS2,ADDRTYPE2,"546 Craig Hills Apt. 828
+East Raymond, FL 41325",Pedestrian,2,2,0,3,0,1,0,2023-04-09,2023-08-24 03:25:08,Snowing,Other,Dusk,Y,Y
+693,REPORT693,STATUS2,ADDRTYPE3,"04374 Ward Mills Apt. 862
+South Alexanderview, TN 07279",Parked Car,1,2,0,1,3,1,0,2024-01-22,2023-05-16 03:25:08,Raining,Dry,Dark - No Street Lights,N,N
+694,REPORT694,STATUS3,ADDRTYPE2,"75940 Moore Mission Apt. 766
+Timothyfurt, VI 24318",Pedestrian,2,1,0,3,0,1,1,2023-10-30,2023-10-11 03:25:08,,,,Y,N
+695,REPORT695,STATUS1,ADDRTYPE2,"33802 Debbie Ranch Apt. 648
+New Christine, MI 57591",Other,2,2,1,1,3,0,0,2023-08-03,2023-03-17 03:25:08,Sleet/Hail/Freezing Rain,Oil,Unknown,Y,N
+696,REPORT696,STATUS1,ADDRTYPE2,"4511 Terry Expressway
+Alexandermouth, PR 34982",Sideswipe,3,1,1,2,3,0,1,2023-11-17,2023-06-15 03:25:08,Fog/Smog/Smoke,Oil,Dark - No Street Lights,Y,Y
+697,REPORT697,STATUS1,ADDRTYPE1,"375 Jennifer Lodge Suite 846
+Lake Shawn, KS 20704",Other,5,2,1,1,0,0,0,2023-05-09,2023-10-13 03:25:08,Sleet/Hail/Freezing Rain,Ice,Unknown,Y,N
+698,REPORT698,STATUS1,ADDRTYPE1,"PSC 7114, Box 7227
+APO AP 50170",Left Turn,1,0,1,1,0,0,0,2023-04-16,2023-08-17 03:25:08,Snowing,Unknown,Other,Y,Y
+699,REPORT699,STATUS2,ADDRTYPE1,"8223 Tyler Oval Apt. 220
+East Josephview, IA 01449",Angles,2,2,1,3,1,0,0,2024-01-11,2023-06-30 03:25:08,Raining,Sand/Mud/Dirt,Unknown,N,N
+700,REPORT700,STATUS3,ADDRTYPE3,"15381 William Run Apt. 998
+South Lauren, NH 26133",Cycles,5,2,0,2,3,1,1,2023-03-02,2024-02-13 03:25:08,Overcast,Other,Unknown,N,N
+701,REPORT701,STATUS1,ADDRTYPE3,"450 Stacy Walk Apt. 073
+Marieville, UT 80324",Left Turn,4,0,1,2,3,1,0,2023-06-25,2023-08-23 03:25:08,,,,Y,N
+702,REPORT702,STATUS3,ADDRTYPE2,"PSC 8573, Box 2854
+APO AA 63036",Angles,3,2,0,2,0,0,0,2023-06-20,2023-09-18 03:25:08,Raining,Unknown,Daylight,N,N
+703,REPORT703,STATUS1,ADDRTYPE1,"44640 Gabrielle Groves Apt. 804
+Virginiamouth, NM 55309",Other,2,2,0,1,1,1,1,2023-09-12,2023-02-21 03:25:08,Other,Sand/Mud/Dirt,Daylight,N,Y
+704,REPORT704,STATUS1,ADDRTYPE1,"82799 Adam Locks Apt. 677
+East Amy, IA 83003",Rear Ended,2,2,1,2,0,0,0,2023-03-22,2023-09-02 03:25:08,,,,N,Y
+705,REPORT705,STATUS2,ADDRTYPE3,"PSC 5861, Box 5729
+APO AP 19467",Sideswipe,2,2,0,3,2,1,1,2023-03-28,2023-05-30 03:25:08,,,,Y,N
+706,REPORT706,STATUS2,ADDRTYPE3,"21798 Hunt Landing
+Rodriguezville, PW 26957",Pedestrian,5,1,1,1,1,1,1,2023-07-27,2023-03-17 03:25:08,Raining,Unknown,Dawn,N,N
+707,REPORT707,STATUS2,ADDRTYPE1,"65030 Andrew Ville
+Lake Alexis, WA 04683",Rear Ended,3,2,0,1,2,1,0,2023-08-09,2023-04-20 03:25:08,Other,Snow/Slush,Dark - Street Lights On,N,Y
+708,REPORT708,STATUS3,ADDRTYPE1,"349 Daniel Courts
+West Brittney, MP 48476",Angles,3,0,1,1,1,0,1,2023-11-27,2023-06-17 03:25:08,Overcast,Wet,Dark - No Street Lights,N,Y
+709,REPORT709,STATUS2,ADDRTYPE3,"Unit 1501 Box 7226
+DPO AE 89580",Other,5,1,0,1,3,1,0,2024-01-23,2023-12-24 03:25:08,Blowing Sand/Dirt,Dry,Unknown,N,Y
+710,REPORT710,STATUS2,ADDRTYPE3,"9780 Jones Mountains
+West David, MP 56455",Other,1,2,1,3,0,0,0,2023-08-13,2023-10-04 03:25:08,Other,Ice,Unknown,Y,Y
+711,REPORT711,STATUS1,ADDRTYPE1,"095 Vanessa Field
+Riosville, MS 28834",Cycles,3,1,0,1,1,1,1,2023-03-25,2023-03-05 03:25:08,Snowing,Sand/Mud/Dirt,Dark - Street Lights On,N,N
+712,REPORT712,STATUS1,ADDRTYPE2,"13524 Brandi Vista
+Tammyville, IN 12225",Other,5,2,1,1,3,0,1,2023-07-17,2023-05-30 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Other,N,Y
+713,REPORT713,STATUS2,ADDRTYPE2,"2071 Cortez Groves Suite 184
+Norrisshire, MA 79340",Left Turn,5,2,1,3,3,0,1,2023-11-12,2023-03-29 03:25:08,Blowing Sand/Dirt,Ice,Dusk,N,Y
+714,REPORT714,STATUS2,ADDRTYPE2,"84092 Kelly Centers Suite 817
+Kyleport, OK 25184",Sideswipe,2,2,1,2,2,1,1,2023-10-04,2024-02-09 03:25:08,Raining,Sand/Mud/Dirt,Unknown,Y,N
+715,REPORT715,STATUS3,ADDRTYPE2,"679 Stark Station
+East Jacquelinehaven, GA 64056",Rear Ended,5,2,1,3,2,0,0,2023-12-26,2023-12-06 03:25:08,Other,Ice,Dark - No Street Lights,N,N
+716,REPORT716,STATUS3,ADDRTYPE1,"47423 Ford Station Apt. 183
+South Shannonville, VT 05774",Other,2,1,0,2,3,0,0,2023-12-28,2023-07-24 03:25:08,Clear,Unknown,Other,Y,N
+717,REPORT717,STATUS1,ADDRTYPE2,"9905 Ryan Crest
+Newtonport, FL 58710",Other,4,2,0,1,2,0,0,2024-01-11,2023-10-30 03:25:08,,,,N,Y
+718,REPORT718,STATUS3,ADDRTYPE2,"0669 Thompson Squares
+New Crystalview, TX 95341",Angles,5,2,0,1,3,1,1,2023-08-18,2023-03-19 03:25:08,Raining,Oil,Other,N,Y
+719,REPORT719,STATUS2,ADDRTYPE3,"USS Henderson
+FPO AA 17974",Cycles,3,2,0,1,3,1,0,2023-04-17,2023-12-09 03:25:08,Blowing Sand/Dirt,Wet,Dark - Street Lights On,N,Y
+720,REPORT720,STATUS2,ADDRTYPE2,"825 Carter Trafficway
+West Robert, WY 07283",Other,2,1,0,3,3,1,1,2023-09-01,2023-08-21 03:25:08,Other,Other,Dark - Street Lights On,Y,Y
+721,REPORT721,STATUS1,ADDRTYPE3,"3037 Foley Camp
+Thomasbury, WA 19647",Other,4,1,0,2,2,0,1,2024-02-05,2023-06-10 03:25:08,Unknown,Unknown,Dark - No Street Lights,N,Y
+722,REPORT722,STATUS2,ADDRTYPE3,"52926 Norton Plains Suite 132
+South Tamiberg, NV 15231",Pedestrian,1,0,0,2,1,0,0,2023-10-20,2024-02-04 03:25:08,Blowing Sand/Dirt,Ice,Dusk,N,Y
+723,REPORT723,STATUS2,ADDRTYPE1,"33799 Roy Tunnel Apt. 653
+South Brian, MT 65717",Other,1,2,0,3,3,0,1,2023-09-28,2023-10-17 03:25:08,Clear,Sand/Mud/Dirt,Dark - No Street Lights,N,N
+724,REPORT724,STATUS2,ADDRTYPE1,"52527 Hernandez Ways Apt. 367
+North Amandaton, GA 64490",Left Turn,1,0,0,3,0,1,0,2023-11-28,2023-04-30 03:25:08,Clear,Wet,Unknown,Y,N
+725,REPORT725,STATUS2,ADDRTYPE1,"Unit 0258 Box 7772
+DPO AA 79340",Sideswipe,2,0,1,2,0,0,1,2023-05-18,2023-02-28 03:25:08,Unknown,Dry,Dusk,N,Y
+726,REPORT726,STATUS3,ADDRTYPE1,"14073 Denise Heights
+Thomasside, MT 16990",Pedestrian,5,1,0,3,2,0,1,2023-12-27,2023-07-14 03:25:08,Overcast,Dry,Other,N,N
+727,REPORT727,STATUS3,ADDRTYPE3,"289 Jimmy Trace
+Mitchellport, OK 38724",Cycles,2,0,0,1,3,1,0,2024-01-17,2023-08-19 03:25:08,Severe Crosswind,Standing Water,Dusk,N,N
+728,REPORT728,STATUS3,ADDRTYPE1,"82731 Brenda Burg Suite 961
+Lake Paultown, IL 95753",Left Turn,1,0,0,2,3,1,1,2023-11-03,2023-11-06 03:25:08,Fog/Smog/Smoke,Oil,Dark - Street Lights Off,Y,Y
+729,REPORT729,STATUS3,ADDRTYPE3,"8622 Price Dale Apt. 562
+Kingville, FM 05144",Sideswipe,5,2,1,3,1,0,0,2023-04-20,2024-01-05 03:25:08,Unknown,Sand/Mud/Dirt,Daylight,N,N
+730,REPORT730,STATUS3,ADDRTYPE1,"Unit 7225 Box 8436
+DPO AE 86388",Sideswipe,4,0,1,2,1,0,0,2024-02-14,2023-11-12 03:25:08,Unknown,Standing Water,Dark - No Street Lights,Y,Y
+731,REPORT731,STATUS1,ADDRTYPE2,"1917 Evans Common
+Mullinsview, NH 45143",Left Turn,1,0,1,3,0,1,1,2023-09-14,2023-08-10 03:25:08,,,,N,N
+732,REPORT732,STATUS2,ADDRTYPE2,"19478 Susan Corners
+Masonport, ME 86099",Cycles,3,1,0,2,0,1,1,2023-11-15,2023-03-29 03:25:08,Sleet/Hail/Freezing Rain,Standing Water,Other,Y,N
+733,REPORT733,STATUS1,ADDRTYPE3,"763 Tracy Dam Suite 128
+Lake Raymond, NM 14777",Cycles,5,0,1,2,0,0,0,2023-05-13,2023-12-26 03:25:08,Overcast,Snow/Slush,Dark - Street Lights On,N,Y
+734,REPORT734,STATUS2,ADDRTYPE2,"293 Pamela Fork
+Dominguezbury, NY 10906",Angles,2,1,0,2,0,0,1,2023-11-08,2023-10-02 03:25:08,Sleet/Hail/Freezing Rain,Oil,Dark - Street Lights On,N,N
+735,REPORT735,STATUS2,ADDRTYPE2,"093 Johnson Wall Apt. 658
+Turnerville, NH 51311",Cycles,2,2,0,1,3,0,1,2023-03-30,2023-04-05 03:25:08,Overcast,Wet,Dark - No Street Lights,Y,N
+736,REPORT736,STATUS2,ADDRTYPE3,"197 Alvarez Trail Apt. 935
+East Terri, IN 79601",Left Turn,3,1,0,1,0,1,0,2024-02-03,2023-03-09 03:25:08,Sleet/Hail/Freezing Rain,Oil,Dark - Street Lights Off,Y,Y
+737,REPORT737,STATUS1,ADDRTYPE2,"02754 Jones Springs Apt. 941
+Port John, MT 77300",Other,2,0,0,2,1,1,1,2023-10-19,2023-05-17 03:25:08,Snowing,Dry,Dusk,Y,Y
+738,REPORT738,STATUS2,ADDRTYPE2,"955 Evans Estates
+Kramershire, ID 31964",Left Turn,3,0,1,3,3,1,1,2023-10-05,2023-07-04 03:25:08,Overcast,Sand/Mud/Dirt,Dawn,Y,Y
+739,REPORT739,STATUS2,ADDRTYPE2,"751 Hicks Ports
+Garrettshire, PA 39181",Left Turn,1,2,0,1,2,1,1,2024-01-07,2023-05-26 03:25:08,Unknown,Sand/Mud/Dirt,Dark - No Street Lights,N,Y
+740,REPORT740,STATUS3,ADDRTYPE1,"340 Gary Walk
+New Dana, AZ 79580",Pedestrian,1,1,1,3,1,1,0,2023-05-04,2023-11-22 03:25:08,Raining,Dry,Unknown,N,Y
+741,REPORT741,STATUS3,ADDRTYPE3,"63341 Erica Ridges
+Port Cesarport, AR 70316",Rear Ended,2,0,0,2,2,0,1,2023-05-06,2023-10-07 03:25:08,Blowing Sand/Dirt,Snow/Slush,Other,N,Y
+742,REPORT742,STATUS2,ADDRTYPE1,"953 Alvarez Vista Suite 137
+Pottsfurt, NY 19092",Other,5,2,1,3,0,1,0,2024-01-28,2023-03-09 03:25:08,,,,Y,N
+743,REPORT743,STATUS3,ADDRTYPE2,"4954 Watson Port
+East Rebecca, AL 17885",Parked Car,2,0,1,1,0,0,0,2023-05-07,2023-08-25 03:25:08,Clear,Dry,Dawn,N,Y
+744,REPORT744,STATUS1,ADDRTYPE2,"8787 Anna Walks
+Bushshire, NV 84936",Rear Ended,1,1,1,3,3,0,0,2023-06-17,2023-09-03 03:25:08,,,,Y,N
+745,REPORT745,STATUS2,ADDRTYPE1,"98285 Shawn Burg Suite 502
+Jenkinschester, MT 23564",Sideswipe,5,1,0,3,3,0,0,2024-01-27,2023-08-03 03:25:08,Raining,Standing Water,Dark - Street Lights Off,N,N
+746,REPORT746,STATUS1,ADDRTYPE2,"88248 Joe Club Suite 770
+East Richard, CO 74549",Pedestrian,3,0,1,2,1,1,0,2024-01-26,2023-04-24 03:25:08,Sleet/Hail/Freezing Rain,Oil,Dark - Street Lights Off,N,N
+747,REPORT747,STATUS3,ADDRTYPE3,"PSC 8587, Box 0090
+APO AA 70668",Sideswipe,1,2,0,2,2,0,1,2023-09-11,2023-07-21 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Dark - Street Lights Off,N,Y
+748,REPORT748,STATUS3,ADDRTYPE3,"2031 Hannah Keys
+Andersonville, WI 56588",Parked Car,3,2,0,3,3,1,1,2024-01-03,2023-10-01 03:25:08,Severe Crosswind,Standing Water,Dark - Street Lights On,Y,N
+749,REPORT749,STATUS1,ADDRTYPE3,"7916 Timothy Lake Suite 076
+North Katieborough, NV 64709",Other,4,2,1,3,3,0,1,2023-09-14,2023-09-14 03:25:08,Unknown,Wet,Other,N,Y
+750,REPORT750,STATUS2,ADDRTYPE2,"2738 Reynolds Trace
+Whiteburgh, CT 06137",Left Turn,5,2,0,2,2,0,0,2024-02-15,2023-11-14 03:25:08,Overcast,Wet,Daylight,Y,Y
+751,REPORT751,STATUS3,ADDRTYPE3,"16336 Joseph Corner
+Josephside, CO 53989",Other,1,0,0,1,2,1,0,2023-08-21,2024-01-29 03:25:08,Clear,Unknown,Other,Y,Y
+752,REPORT752,STATUS3,ADDRTYPE3,"6677 Martinez Corners Apt. 319
+Port Sarah, AZ 83117",Pedestrian,3,2,0,1,0,1,1,2023-09-28,2023-04-29 03:25:08,,,,Y,N
+753,REPORT753,STATUS3,ADDRTYPE2,"PSC 6500, Box 1050
+APO AA 91692",Other,3,2,0,3,0,0,1,2023-07-31,2023-05-29 03:25:08,Snowing,Wet,Dark - No Street Lights,Y,Y
+754,REPORT754,STATUS1,ADDRTYPE1,"01187 Matthew Viaduct
+Gordonport, DE 33938",Cycles,3,2,0,2,3,1,1,2023-06-08,2023-02-25 03:25:08,Severe Crosswind,Unknown,Other,N,Y
+755,REPORT755,STATUS1,ADDRTYPE1,"1315 Moore Cliffs Apt. 304
+Lake Troyhaven, RI 23062",Left Turn,2,1,1,3,0,1,1,2023-11-12,2023-08-28 03:25:08,Fog/Smog/Smoke,Other,Dark - Street Lights Off,Y,Y
+756,REPORT756,STATUS3,ADDRTYPE2,"2614 Brown Rest Suite 133
+West Ashleyshire, WY 45352",Sideswipe,2,0,0,2,3,1,1,2023-09-11,2023-04-12 03:25:08,Severe Crosswind,Standing Water,Dawn,Y,Y
+757,REPORT757,STATUS2,ADDRTYPE3,"100 Beck Parks
+Aprilfort, NJ 72813",Cycles,4,2,0,1,3,1,1,2023-08-03,2023-12-19 03:25:08,Unknown,Other,Other,N,N
+758,REPORT758,STATUS1,ADDRTYPE1,"335 Warner Ridges Suite 350
+Lake Lee, VA 19902",Cycles,4,2,0,3,2,1,1,2023-08-21,2023-07-13 03:25:08,Other,Unknown,Dawn,N,Y
+759,REPORT759,STATUS2,ADDRTYPE1,"112 Walker Crossroad
+South Marisa, NJ 75366",Cycles,3,1,0,2,3,0,0,2023-12-15,2023-07-02 03:25:08,Sleet/Hail/Freezing Rain,Ice,Daylight,N,Y
+760,REPORT760,STATUS1,ADDRTYPE1,"3448 Jenna Course Apt. 694
+Campbellport, DE 59866",Parked Car,2,2,1,3,3,1,1,2023-02-25,2023-05-05 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Daylight,Y,Y
+761,REPORT761,STATUS1,ADDRTYPE2,"131 Sarah Haven
+West Greg, NM 74532",Left Turn,5,2,0,1,3,1,1,2023-03-11,2023-08-26 03:25:08,Overcast,Ice,Dusk,N,Y
+762,REPORT762,STATUS2,ADDRTYPE1,"74112 Taylor Heights
+Rogerhaven, ME 11262",Parked Car,5,0,1,1,0,0,0,2024-01-01,2023-09-25 03:25:08,Snowing,Snow/Slush,Dark - Street Lights On,Y,N
+763,REPORT763,STATUS2,ADDRTYPE1,"721 Parker Meadows
+Richardsonborough, MS 02660",Parked Car,3,1,1,3,0,1,1,2023-09-03,2023-12-25 03:25:08,Unknown,Wet,Dawn,N,Y
+764,REPORT764,STATUS2,ADDRTYPE2,"USNS Saunders
+FPO AP 69655",Cycles,2,1,1,3,1,1,0,2023-07-26,2024-02-15 03:25:08,Snowing,Other,Unknown,Y,N
+765,REPORT765,STATUS1,ADDRTYPE2,"2023 Stein Park
+Port Carrie, GA 23254",Parked Car,5,1,0,3,2,0,0,2023-06-07,2023-06-09 03:25:08,Sleet/Hail/Freezing Rain,Wet,Dark - No Street Lights,N,Y
+766,REPORT766,STATUS2,ADDRTYPE2,"99635 Shaw Port
+Whitefort, RI 14404",Rear Ended,2,2,0,2,1,0,1,2023-12-30,2023-03-06 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Daylight,N,N
+767,REPORT767,STATUS2,ADDRTYPE1,"37887 Johnson Ports Suite 280
+West Hector, RI 12767",Rear Ended,4,1,0,2,3,0,0,2023-06-07,2023-12-06 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Daylight,Y,Y
+768,REPORT768,STATUS2,ADDRTYPE1,"61905 Thomas Vista Suite 245
+Riceton, DE 57572",Angles,3,2,1,3,3,1,1,2023-12-05,2023-06-26 03:25:08,Severe Crosswind,Ice,Daylight,Y,Y
+769,REPORT769,STATUS2,ADDRTYPE2,"1117 Carpenter Brook Apt. 160
+Cassandraburgh, MA 75435",Rear Ended,3,0,1,1,1,0,1,2024-02-07,2023-03-08 03:25:08,Other,Snow/Slush,Dawn,N,N
+770,REPORT770,STATUS2,ADDRTYPE3,"011 Alice Motorway Apt. 052
+Lake Christopher, UT 55819",Rear Ended,2,0,0,3,2,0,0,2023-04-25,2023-12-05 03:25:08,Blowing Sand/Dirt,Other,Dark - Street Lights Off,N,Y
+771,REPORT771,STATUS2,ADDRTYPE2,"8846 Christine Roads Suite 935
+Mosesside, LA 59262",Pedestrian,2,2,1,3,3,0,0,2023-08-08,2023-05-28 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Dusk,N,N
+772,REPORT772,STATUS2,ADDRTYPE1,"52255 Scott Circle
+New Anthonymouth, OK 07366",Parked Car,1,1,1,1,3,1,1,2023-06-20,2023-09-24 03:25:08,Snowing,Sand/Mud/Dirt,Dark - No Street Lights,Y,Y
+773,REPORT773,STATUS1,ADDRTYPE1,"36166 Thomas Way Apt. 321
+Fernandezfurt, MT 10230",Other,5,0,1,1,0,1,1,2023-04-25,2023-04-06 03:25:08,Raining,Other,Daylight,Y,N
+774,REPORT774,STATUS2,ADDRTYPE2,"5216 Ashlee Station
+Lake Rogerton, IL 81533",Angles,4,2,1,2,3,1,1,2024-01-31,2023-05-10 03:25:08,Unknown,Sand/Mud/Dirt,Dark - Street Lights Off,Y,N
+775,REPORT775,STATUS1,ADDRTYPE3,"57130 Debbie Branch Apt. 039
+Port Ashley, WI 28329",Parked Car,5,1,1,3,3,0,0,2023-09-24,2023-03-16 03:25:08,,,,Y,Y
+776,REPORT776,STATUS3,ADDRTYPE3,"484 Benson Cliffs Apt. 183
+North Natasha, DE 40703",Rear Ended,1,0,1,3,3,0,0,2023-11-29,2023-11-28 03:25:08,Snowing,Snow/Slush,Dark - No Street Lights,N,N
+777,REPORT777,STATUS3,ADDRTYPE1,"492 Lauren Valley
+North Christopherhaven, NJ 26453",Other,2,2,1,3,1,0,0,2023-12-04,2023-09-17 03:25:08,Fog/Smog/Smoke,Dry,Daylight,N,N
+778,REPORT778,STATUS1,ADDRTYPE3,"73084 Travis Square Apt. 050
+Lake Theodorefurt, IA 30695",Cycles,5,2,1,3,0,1,0,2023-03-07,2023-06-15 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Dusk,Y,N
+779,REPORT779,STATUS2,ADDRTYPE3,"USNV Moss
+FPO AA 86137",Left Turn,3,2,0,1,3,0,0,2023-06-27,2023-09-25 03:25:08,Other,Unknown,Dark - Street Lights On,Y,N
+780,REPORT780,STATUS1,ADDRTYPE3,"17460 Madison Views
+Jeffreybury, AR 86265",Rear Ended,5,2,0,3,2,1,1,2024-01-10,2024-01-17 03:25:08,,,,N,Y
+781,REPORT781,STATUS3,ADDRTYPE2,"329 Brown Road Apt. 109
+Sergiomouth, NH 04069",Cycles,2,1,1,3,3,1,0,2023-04-05,2023-09-22 03:25:08,Fog/Smog/Smoke,Snow/Slush,Unknown,Y,Y
+782,REPORT782,STATUS1,ADDRTYPE1,"9565 Olson Manor
+Anthonyborough, MD 99856",Cycles,5,2,1,3,3,1,0,2024-01-03,2024-02-12 03:25:08,Raining,Dry,Dusk,N,N
+783,REPORT783,STATUS3,ADDRTYPE2,"32098 Molly Corners
+Tracyton, AK 45137",Rear Ended,1,2,1,3,2,1,1,2023-10-24,2023-07-02 03:25:08,,,,Y,N
+784,REPORT784,STATUS1,ADDRTYPE3,"USS Lopez
+FPO AE 45046",Rear Ended,4,2,1,2,2,0,1,2023-11-01,2024-01-30 03:25:08,Sleet/Hail/Freezing Rain,Other,Dark - Street Lights On,N,N
+785,REPORT785,STATUS1,ADDRTYPE1,"536 James Mountain Suite 238
+Michaelton, LA 77639",Pedestrian,2,2,1,3,2,0,0,2023-03-08,2023-10-31 03:25:08,Other,Other,Dusk,Y,Y
+786,REPORT786,STATUS1,ADDRTYPE2,"91773 Miller Port Apt. 171
+Port Jennifermouth, DE 06691",Rear Ended,3,0,1,1,0,0,0,2023-03-22,2023-09-28 03:25:08,Raining,Snow/Slush,Other,Y,Y
+787,REPORT787,STATUS1,ADDRTYPE1,"41280 Faith Unions
+Whiteberg, CO 92734",Rear Ended,1,2,0,2,0,1,0,2023-12-09,2023-04-22 03:25:08,Other,Snow/Slush,Dusk,N,N
+788,REPORT788,STATUS1,ADDRTYPE2,"8212 Bailey Road
+Hillburgh, WY 66441",Sideswipe,2,0,0,3,0,1,1,2023-11-29,2023-12-18 03:25:08,Fog/Smog/Smoke,Unknown,Daylight,N,Y
+789,REPORT789,STATUS3,ADDRTYPE1,"820 Zachary Stream Suite 483
+East Johnton, ID 70033",Sideswipe,3,1,1,1,1,0,1,2023-06-08,2024-01-23 03:25:08,Overcast,Snow/Slush,Daylight,Y,N
+790,REPORT790,STATUS1,ADDRTYPE2,"675 Wade Inlet Apt. 080
+Morenoland, WA 03290",Rear Ended,3,1,0,2,2,1,0,2023-05-31,2023-06-14 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Dark - Street Lights Off,N,Y
+791,REPORT791,STATUS1,ADDRTYPE3,"21410 Bautista Lakes Suite 862
+South Laurafort, NV 90957",Pedestrian,2,0,0,2,2,0,0,2023-04-14,2023-09-16 03:25:08,,,,Y,Y
+792,REPORT792,STATUS1,ADDRTYPE2,"31987 Lisa Ramp
+Steveview, IL 52535",Parked Car,1,2,1,3,0,0,0,2023-03-23,2024-02-17 03:25:08,,,,Y,Y
+793,REPORT793,STATUS2,ADDRTYPE3,"6160 Smith Stravenue Apt. 211
+West Amanda, MH 31533",Angles,3,0,0,2,2,0,1,2023-05-28,2023-07-14 03:25:08,Fog/Smog/Smoke,Unknown,Dawn,Y,Y
+794,REPORT794,STATUS3,ADDRTYPE2,"15992 Jill Ford Apt. 630
+West Katherinefort, AR 63794",Angles,4,0,1,3,3,1,1,2023-08-29,2023-08-23 03:25:08,Unknown,Unknown,Daylight,Y,Y
+795,REPORT795,STATUS1,ADDRTYPE3,"716 Summers Neck
+Jamesburgh, ID 17065",Parked Car,1,0,0,3,0,1,0,2023-07-05,2023-03-18 03:25:08,Clear,Unknown,Dusk,Y,Y
+796,REPORT796,STATUS3,ADDRTYPE3,"0744 Jones Glen Suite 281
+Sandovalmouth, LA 70129",Other,3,2,0,2,3,0,1,2023-12-14,2024-02-19 03:25:08,Snowing,Snow/Slush,Dark - No Street Lights,Y,Y
+797,REPORT797,STATUS1,ADDRTYPE2,"905 Julia Parkways
+Caitlinport, NC 94247",Other,2,2,1,2,2,0,0,2023-08-30,2024-01-25 03:25:08,Snowing,Standing Water,Unknown,N,Y
+798,REPORT798,STATUS2,ADDRTYPE2,"99753 Harper Pines Apt. 471
+Staceyborough, CA 47570",Sideswipe,2,0,0,2,2,1,0,2023-09-24,2023-10-14 03:25:08,Blowing Sand/Dirt,Snow/Slush,Dark - Street Lights Off,N,Y
+799,REPORT799,STATUS3,ADDRTYPE1,"8679 Miller Port Apt. 656
+West Olivia, IL 91174",Left Turn,1,1,1,2,3,0,0,2023-08-19,2023-12-11 03:25:08,Unknown,Ice,Dusk,N,Y
+800,REPORT800,STATUS2,ADDRTYPE2,"0066 Holden Ramp Apt. 084
+North Davidton, VA 98842",Sideswipe,3,0,0,2,2,0,0,2023-04-06,2023-08-24 03:25:08,Fog/Smog/Smoke,Dry,Dark - No Street Lights,N,N
+801,REPORT801,STATUS2,ADDRTYPE1,"7532 Davis Glens Apt. 714
+New Heather, KS 72914",Pedestrian,3,1,0,1,0,1,1,2023-07-14,2023-09-27 03:25:08,Clear,Ice,Dark - Street Lights Off,Y,Y
+802,REPORT802,STATUS1,ADDRTYPE2,"46092 Paul Extensions
+Lake Jameston, GA 11405",Angles,1,1,0,1,1,1,1,2024-01-30,2023-06-07 03:25:08,Blowing Sand/Dirt,Snow/Slush,Daylight,N,Y
+803,REPORT803,STATUS3,ADDRTYPE1,"593 Blair Glen
+North Susanfort, PA 84832",Left Turn,1,2,1,3,1,0,1,2023-02-20,2023-03-16 03:25:08,Other,Unknown,Unknown,Y,N
+804,REPORT804,STATUS3,ADDRTYPE3,"691 Sarah Wells
+Port Melissaview, ND 30799",Pedestrian,1,1,1,3,1,1,0,2023-03-07,2023-05-08 03:25:08,Snowing,Dry,Unknown,N,Y
+805,REPORT805,STATUS3,ADDRTYPE2,"57017 Crystal Garden Apt. 951
+Thomasburgh, AK 38349",Cycles,4,0,0,3,2,1,1,2023-08-05,2023-12-02 03:25:08,Other,Snow/Slush,Dusk,N,Y
+806,REPORT806,STATUS3,ADDRTYPE3,"46298 Carson Cove Suite 423
+Port Jamesville, CA 13628",Other,4,0,0,2,0,0,0,2023-10-20,2024-01-06 03:25:08,Fog/Smog/Smoke,Other,Dawn,Y,Y
+807,REPORT807,STATUS1,ADDRTYPE2,"319 Amber Crossroad Suite 048
+North Heidi, PA 63799",Other,4,2,1,3,0,0,1,2023-11-05,2023-10-04 03:25:08,Fog/Smog/Smoke,Oil,Dark - Street Lights Off,N,Y
+808,REPORT808,STATUS1,ADDRTYPE1,"720 Kim Ridges
+Johnfurt, LA 17763",Sideswipe,2,1,1,3,2,0,1,2023-04-13,2023-12-08 03:25:08,Sleet/Hail/Freezing Rain,Oil,Dawn,N,Y
+809,REPORT809,STATUS2,ADDRTYPE2,"PSC 1393, Box 0430
+APO AA 30191",Angles,4,0,0,2,0,1,1,2023-04-15,2023-11-11 03:25:08,Fog/Smog/Smoke,Standing Water,Dusk,N,N
+810,REPORT810,STATUS1,ADDRTYPE1,"2997 Jesse Squares Suite 909
+Hartmanton, CA 58143",Rear Ended,4,1,0,1,2,0,1,2024-01-12,2023-07-13 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dawn,Y,Y
+811,REPORT811,STATUS3,ADDRTYPE1,"14678 Valenzuela Pike Suite 721
+North Matthew, CO 69442",Angles,4,1,1,3,1,1,1,2023-12-03,2023-04-26 03:25:08,Snowing,Unknown,Dark - Street Lights Off,Y,N
+812,REPORT812,STATUS1,ADDRTYPE2,"4684 Vicki Point Suite 136
+Port Teresa, SD 62255",Pedestrian,3,2,1,2,0,1,0,2023-05-05,2024-01-09 03:25:08,Clear,Other,Daylight,Y,Y
+813,REPORT813,STATUS2,ADDRTYPE3,"626 Kelsey Port
+Coleborough, OH 53412",Pedestrian,5,0,0,3,2,0,0,2023-04-04,2023-09-24 03:25:08,Snowing,Unknown,Dark - Street Lights Off,N,N
+814,REPORT814,STATUS3,ADDRTYPE2,"54475 Nicholas Motorway
+Heatherville, FL 10764",Pedestrian,4,0,1,1,0,0,0,2023-06-10,2023-10-30 03:25:08,,,,N,Y
+815,REPORT815,STATUS3,ADDRTYPE3,"66671 Lisa Skyway Suite 422
+Wilsonside, PA 66042",Cycles,1,0,0,3,3,0,0,2024-01-01,2024-02-03 03:25:08,Unknown,Other,Dark - Street Lights Off,N,Y
+816,REPORT816,STATUS2,ADDRTYPE1,"PSC 4537, Box 9854
+APO AE 92919",Rear Ended,4,1,0,1,3,0,0,2024-02-12,2023-06-22 03:25:08,Other,Oil,Dawn,N,Y
+817,REPORT817,STATUS2,ADDRTYPE2,"4835 Marc Land Suite 967
+Douglasside, IA 61210",Rear Ended,5,2,1,3,3,0,1,2023-12-08,2023-08-22 03:25:08,Clear,Other,Dusk,Y,N
+818,REPORT818,STATUS3,ADDRTYPE2,"190 James Crest
+Schultzview, MT 23759",Parked Car,2,0,1,2,2,0,0,2023-09-14,2023-10-15 03:25:08,,,,Y,N
+819,REPORT819,STATUS1,ADDRTYPE3,"65522 Schmidt Junction
+Port Stacytown, IN 95708",Angles,2,2,0,3,0,0,0,2023-05-15,2023-03-09 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Dawn,Y,N
+820,REPORT820,STATUS1,ADDRTYPE2,"992 Huff Junction Apt. 638
+Lauraberg, VI 82434",Cycles,4,2,1,3,3,1,1,2024-01-06,2023-03-30 03:25:08,Fog/Smog/Smoke,Unknown,Daylight,Y,N
+821,REPORT821,STATUS3,ADDRTYPE1,"8807 Rivera Lakes Apt. 076
+Austinbury, GU 54334",Pedestrian,1,2,0,1,0,0,1,2023-06-09,2023-08-06 03:25:08,Unknown,Oil,Dark - Street Lights Off,Y,N
+822,REPORT822,STATUS3,ADDRTYPE2,"188 Jeffrey Vista Suite 889
+Nelsonhaven, OK 79210",Left Turn,1,1,1,2,2,1,0,2024-01-02,2023-07-18 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Daylight,Y,N
+823,REPORT823,STATUS3,ADDRTYPE1,"9372 Amy Fort Apt. 312
+East George, WY 98378",Angles,3,1,0,2,3,0,0,2023-07-02,2023-07-30 03:25:08,Overcast,Unknown,Other,Y,Y
+824,REPORT824,STATUS1,ADDRTYPE1,"66434 Chloe Junction
+Lake Matthew, IN 41100",Rear Ended,1,2,1,1,3,0,1,2023-09-12,2023-12-31 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Unknown,Y,Y
+825,REPORT825,STATUS1,ADDRTYPE3,"USNS Bass
+FPO AP 18082",Other,3,2,0,1,2,1,1,2023-11-25,2023-10-09 03:25:08,Unknown,Standing Water,Dusk,N,Y
+826,REPORT826,STATUS3,ADDRTYPE3,"851 Robert Expressway Apt. 836
+Phillipsburgh, OR 29198",Other,3,1,0,3,0,1,1,2023-09-21,2023-09-18 03:25:08,Raining,Dry,Dark - Street Lights On,N,N
+827,REPORT827,STATUS2,ADDRTYPE1,"151 Evans Rapids
+Jennifermouth, AZ 15606",Cycles,1,0,1,1,3,0,1,2023-11-29,2023-04-20 03:25:08,Severe Crosswind,Wet,Dark - Street Lights On,N,N
+828,REPORT828,STATUS3,ADDRTYPE3,"357 Robert Lights
+New Jaredside, MH 43769",Sideswipe,1,2,1,2,0,1,0,2024-01-16,2023-09-13 03:25:08,Severe Crosswind,Other,Dark - Street Lights On,N,Y
+829,REPORT829,STATUS3,ADDRTYPE3,"4827 Benson Track Apt. 690
+Reyesmouth, RI 90200",Rear Ended,3,1,1,2,1,0,0,2023-09-29,2023-11-23 03:25:08,Other,Ice,Unknown,Y,Y
+830,REPORT830,STATUS1,ADDRTYPE1,"284 Samantha Circle Apt. 257
+South Geneside, DE 79819",Angles,2,2,1,1,2,1,1,2023-04-30,2023-05-07 03:25:08,Overcast,Snow/Slush,Other,Y,N
+831,REPORT831,STATUS3,ADDRTYPE2,"64291 Miller Stravenue
+Rachaelfurt, NV 69854",Sideswipe,4,0,0,3,3,1,0,2023-08-17,2023-07-11 03:25:08,Severe Crosswind,Ice,Dark - Street Lights On,N,N
+832,REPORT832,STATUS1,ADDRTYPE2,"6875 Regina Fort Suite 288
+Jessicaview, AL 30573",Rear Ended,2,0,0,2,2,1,0,2023-08-23,2023-03-09 03:25:08,Blowing Sand/Dirt,Ice,Unknown,Y,N
+833,REPORT833,STATUS2,ADDRTYPE3,"807 Martin Island Apt. 102
+South Katherine, VT 70289",Parked Car,1,2,0,2,1,1,1,2024-01-05,2023-09-07 03:25:08,,,,Y,N
+834,REPORT834,STATUS3,ADDRTYPE3,"367 Young Spring Apt. 698
+East Williamburgh, OK 58739",Left Turn,5,0,1,2,2,0,0,2024-01-14,2023-04-29 03:25:08,Clear,Snow/Slush,Unknown,Y,Y
+835,REPORT835,STATUS2,ADDRTYPE1,"97843 Nicholas Haven Apt. 805
+Harrellview, MP 19892",Rear Ended,1,2,0,1,2,1,1,2023-11-20,2023-12-10 03:25:08,Fog/Smog/Smoke,Wet,Dawn,Y,N
+836,REPORT836,STATUS3,ADDRTYPE1,"236 Booth Oval
+West Christopher, VT 93616",Other,3,0,1,3,3,1,1,2023-02-21,2023-03-07 03:25:08,Raining,Ice,Dark - Street Lights Off,Y,Y
+837,REPORT837,STATUS2,ADDRTYPE1,"01532 Susan Ville
+East Bradley, VI 54442",Parked Car,5,1,0,1,1,1,0,2023-06-29,2023-11-09 03:25:08,Other,Other,Dawn,N,N
+838,REPORT838,STATUS1,ADDRTYPE1,"801 Boyer Spurs
+Daltonfort, AL 16574",Pedestrian,5,2,1,3,3,0,0,2023-10-10,2023-10-14 03:25:08,Other,Sand/Mud/Dirt,Dawn,Y,N
+839,REPORT839,STATUS3,ADDRTYPE2,"7903 Jennifer Crescent Apt. 611
+Port Lawrencechester, ME 64120",Angles,4,2,0,1,0,0,0,2023-06-22,2023-12-12 03:25:08,Blowing Sand/Dirt,Sand/Mud/Dirt,Dawn,N,Y
+840,REPORT840,STATUS3,ADDRTYPE1,"493 Kimberly Centers Apt. 583
+South Alicechester, NY 73742",Sideswipe,1,1,1,3,1,0,0,2023-10-11,2023-07-21 03:25:08,Raining,Dry,Dawn,Y,Y
+841,REPORT841,STATUS2,ADDRTYPE1,"424 Tina Alley Suite 116
+East Matthewview, FM 50972",Parked Car,4,0,0,3,2,1,0,2023-07-08,2023-05-12 03:25:08,Clear,Oil,Dark - Street Lights On,N,Y
+842,REPORT842,STATUS1,ADDRTYPE3,"690 Brown Field
+Janetside, AZ 25258",Other,2,1,0,1,2,1,0,2023-03-24,2023-11-09 03:25:08,Blowing Sand/Dirt,Ice,Dark - Street Lights On,Y,N
+843,REPORT843,STATUS2,ADDRTYPE1,"Unit 0534 Box 3552
+DPO AP 56287",Pedestrian,5,0,0,3,0,1,0,2023-12-10,2023-09-18 03:25:08,Unknown,Ice,Dark - Street Lights Off,Y,N
+844,REPORT844,STATUS2,ADDRTYPE3,"USCGC Rodriguez
+FPO AA 97049",Left Turn,4,0,1,2,2,1,1,2023-12-18,2023-09-16 03:25:08,Other,Other,Dusk,Y,Y
+845,REPORT845,STATUS1,ADDRTYPE1,"6915 Rodriguez Ford Apt. 148
+Hernandezshire, MS 89331",Pedestrian,2,2,1,2,3,0,1,2023-05-04,2024-01-07 03:25:08,Blowing Sand/Dirt,Dry,Dark - Street Lights On,N,N
+846,REPORT846,STATUS2,ADDRTYPE1,"3786 Troy Mill Apt. 664
+New Douglasshire, GU 67984",Parked Car,1,1,0,1,1,1,0,2023-06-15,2023-09-20 03:25:08,Unknown,Standing Water,Other,Y,Y
+847,REPORT847,STATUS2,ADDRTYPE3,"PSC 0617, Box 7308
+APO AP 34989",Angles,1,1,0,2,0,0,0,2024-01-30,2023-05-05 03:25:08,Overcast,Wet,Dusk,N,N
+848,REPORT848,STATUS3,ADDRTYPE2,"8528 Theodore Plains
+Brownport, NJ 03276",Left Turn,3,1,1,3,0,1,0,2023-08-17,2023-04-04 03:25:08,Blowing Sand/Dirt,Other,Unknown,Y,Y
+849,REPORT849,STATUS2,ADDRTYPE2,"PSC 2453, Box 5016
+APO AP 84982",Rear Ended,2,1,1,1,2,0,0,2023-09-26,2023-06-28 03:25:08,,,,N,N
+850,REPORT850,STATUS3,ADDRTYPE3,"PSC 6625, Box 3657
+APO AP 08179",Angles,2,0,1,2,2,0,0,2023-07-29,2023-05-16 03:25:08,Unknown,Wet,Other,Y,N
+851,REPORT851,STATUS1,ADDRTYPE3,"61273 Ricardo Parkways
+Santiagomouth, CA 28833",Pedestrian,4,2,0,1,0,0,0,2023-07-25,2023-11-18 03:25:08,Snowing,Snow/Slush,Other,N,Y
+852,REPORT852,STATUS2,ADDRTYPE2,"980 Tyler Camp Apt. 531
+West Daltonbury, CA 50682",Other,5,2,0,3,3,1,1,2023-04-08,2023-08-11 03:25:08,Overcast,Oil,Dark - Street Lights On,Y,N
+853,REPORT853,STATUS1,ADDRTYPE3,"5148 Heather Fall
+Jameston, NJ 32655",Angles,5,1,1,1,3,0,0,2023-03-08,2023-07-11 03:25:08,Other,Oil,Dark - Street Lights On,Y,Y
+854,REPORT854,STATUS3,ADDRTYPE3,"50546 Jeanette Rue Apt. 463
+Lake Theresaside, GA 71978",Left Turn,3,2,0,2,1,0,0,2023-12-15,2024-01-01 03:25:08,,,,N,N
+855,REPORT855,STATUS3,ADDRTYPE3,"1601 William Drive
+Millermouth, SC 03679",Pedestrian,3,2,1,1,2,0,0,2023-07-09,2023-12-11 03:25:08,,,,N,Y
+856,REPORT856,STATUS3,ADDRTYPE3,"95460 Brandi Brooks
+Grayville, MI 33798",Left Turn,3,0,0,1,0,0,1,2023-08-16,2023-05-26 03:25:08,,,,N,N
+857,REPORT857,STATUS2,ADDRTYPE3,"5290 Evans Brook
+Deannabury, OH 70065",Rear Ended,2,0,1,3,2,1,1,2023-06-02,2023-07-08 03:25:08,,,,Y,N
+858,REPORT858,STATUS3,ADDRTYPE2,"22460 Smith Burg Suite 717
+East Edward, WA 33485",Sideswipe,1,2,1,1,2,1,0,2023-04-06,2023-03-01 03:25:08,Unknown,Oil,Dark - Street Lights On,Y,N
+859,REPORT859,STATUS3,ADDRTYPE3,"697 Rebecca Drive
+Marybury, CO 31416",Cycles,1,1,0,2,3,0,1,2023-09-12,2023-09-12 03:25:08,Clear,Ice,Dark - Street Lights On,Y,Y
+860,REPORT860,STATUS2,ADDRTYPE2,"78865 Parker Hill Apt. 943
+North Eric, SD 24921",Cycles,4,1,1,2,2,0,0,2023-08-12,2023-06-07 03:25:08,Clear,Ice,Dusk,N,N
+861,REPORT861,STATUS2,ADDRTYPE1,"6236 Wilson Path Suite 876
+North Greg, RI 38619",Other,5,0,1,2,1,0,0,2024-01-08,2023-03-06 03:25:08,Clear,Snow/Slush,Dark - Street Lights Off,Y,Y
+862,REPORT862,STATUS2,ADDRTYPE2,"083 Ryan Throughway Suite 834
+New Troy, PR 34372",Left Turn,5,2,0,1,3,1,1,2023-03-07,2023-02-20 03:25:08,Blowing Sand/Dirt,Unknown,Dark - No Street Lights,Y,N
+863,REPORT863,STATUS3,ADDRTYPE1,"0947 Adams Summit Suite 737
+New Heather, NJ 84268",Pedestrian,4,2,0,3,3,1,0,2023-07-23,2023-08-20 03:25:08,Raining,Ice,Other,Y,N
+864,REPORT864,STATUS3,ADDRTYPE2,"8636 Lee Haven Suite 030
+East Julia, AS 60932",Pedestrian,2,2,1,2,2,0,1,2023-06-05,2023-06-25 03:25:08,,,,Y,N
+865,REPORT865,STATUS2,ADDRTYPE2,"16021 Christine Walks
+Morrisberg, NE 54391",Parked Car,1,0,0,3,3,1,1,2023-07-04,2023-08-22 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Other,Y,N
+866,REPORT866,STATUS2,ADDRTYPE3,"469 Wagner Street Apt. 791
+West Sherri, MA 86184",Pedestrian,3,0,1,3,1,1,0,2023-10-08,2023-07-16 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Daylight,N,Y
+867,REPORT867,STATUS1,ADDRTYPE2,"Unit 9559 Box 8781
+DPO AE 85582",Angles,1,2,1,1,0,0,1,2023-03-07,2023-06-26 03:25:08,Clear,Dry,Dusk,Y,N
+868,REPORT868,STATUS1,ADDRTYPE2,"40823 Mary Walk Suite 919
+North David, OR 89640",Sideswipe,4,1,0,1,1,0,1,2024-01-29,2023-07-19 03:25:08,Overcast,Snow/Slush,Dusk,Y,Y
+869,REPORT869,STATUS2,ADDRTYPE3,"7600 Castro Hill Suite 708
+Brownfurt, NM 64454",Other,1,1,0,3,3,1,1,2023-04-08,2023-07-24 03:25:08,Snowing,Oil,Dark - No Street Lights,Y,N
+870,REPORT870,STATUS2,ADDRTYPE1,"430 Malik Crest
+Lucasland, MS 19115",Angles,3,0,0,3,1,0,0,2023-03-27,2023-06-28 03:25:08,Snowing,Snow/Slush,Daylight,N,Y
+871,REPORT871,STATUS1,ADDRTYPE2,"801 Bianca Path Apt. 184
+East Christineberg, AZ 27858",Angles,5,1,0,2,3,1,0,2024-01-21,2024-02-05 03:25:08,Clear,Wet,Daylight,N,Y
+872,REPORT872,STATUS2,ADDRTYPE3,"897 Joshua Way Suite 148
+Brandonmouth, NV 96295",Sideswipe,4,1,1,1,2,0,0,2023-10-17,2023-05-09 03:25:08,Unknown,Ice,Unknown,Y,Y
+873,REPORT873,STATUS3,ADDRTYPE1,"783 Michelle Lock
+East Kimberly, AZ 83165",Parked Car,2,2,1,3,3,1,0,2023-02-26,2024-02-06 03:25:08,Unknown,Wet,Dark - No Street Lights,N,N
+874,REPORT874,STATUS3,ADDRTYPE2,"502 Powers Court Apt. 707
+Lisaberg, KS 88770",Pedestrian,1,2,1,2,0,0,0,2023-05-08,2023-07-19 03:25:08,Clear,Unknown,Dawn,N,N
+875,REPORT875,STATUS3,ADDRTYPE2,"4632 Chase Run
+Moorechester, IL 17066",Parked Car,1,1,0,1,1,0,0,2024-02-15,2024-01-05 03:25:08,Snowing,Oil,Unknown,Y,Y
+876,REPORT876,STATUS2,ADDRTYPE2,"3188 Jason Shoals Suite 724
+West Jasonfurt, CA 31905",Pedestrian,2,0,0,1,2,1,0,2023-12-02,2023-12-10 03:25:08,Raining,Snow/Slush,Dark - No Street Lights,N,Y
+877,REPORT877,STATUS2,ADDRTYPE1,"8688 Mccann Rapids
+Katiefort, IA 44840",Left Turn,2,2,1,1,3,0,1,2023-12-28,2023-04-11 03:25:08,Fog/Smog/Smoke,Dry,Other,Y,Y
+878,REPORT878,STATUS1,ADDRTYPE1,"958 Chad Villages Apt. 262
+Lake Jaredbury, MT 75414",Left Turn,3,1,1,2,1,1,0,2023-09-24,2023-09-18 03:25:08,Fog/Smog/Smoke,Ice,Dusk,N,N
+879,REPORT879,STATUS2,ADDRTYPE2,"990 Mary Route
+Rogerburgh, RI 04286",Angles,1,2,1,2,1,0,0,2023-08-11,2023-10-18 03:25:08,Overcast,Ice,Daylight,N,N
+880,REPORT880,STATUS2,ADDRTYPE2,"51863 James Ridges
+West Julie, MT 68710",Angles,4,2,1,2,1,0,0,2023-11-30,2023-04-28 03:25:08,Snowing,Ice,Dark - Street Lights Off,Y,N
+881,REPORT881,STATUS1,ADDRTYPE1,"PSC 6250, Box 0443
+APO AA 75242",Rear Ended,1,1,0,2,2,0,1,2023-05-04,2023-06-02 03:25:08,Raining,Sand/Mud/Dirt,Dark - Street Lights Off,Y,Y
+882,REPORT882,STATUS2,ADDRTYPE3,"62469 Stephanie Motorway Suite 129
+Dannytown, MS 20169",Sideswipe,3,1,1,2,3,0,1,2023-07-30,2023-08-12 03:25:08,Raining,Sand/Mud/Dirt,Unknown,N,N
+883,REPORT883,STATUS1,ADDRTYPE1,"840 Perez Keys
+Juanmouth, OR 89895",Cycles,4,0,1,3,3,1,0,2024-01-13,2023-12-16 03:25:08,Raining,Wet,Dawn,N,N
+884,REPORT884,STATUS2,ADDRTYPE3,"2394 Aaron Spring Suite 528
+Susanstad, TX 68512",Left Turn,4,1,0,3,2,1,1,2023-10-28,2023-04-08 03:25:08,Blowing Sand/Dirt,Oil,Dark - Street Lights On,N,N
+885,REPORT885,STATUS2,ADDRTYPE3,"70476 Lee Mews
+North Chloefurt, VA 52888",Sideswipe,4,2,1,1,0,0,0,2023-08-05,2023-05-17 03:25:08,Fog/Smog/Smoke,Dry,Dusk,Y,Y
+886,REPORT886,STATUS2,ADDRTYPE3,"61507 Lee Skyway
+Davidborough, NC 16407",Angles,3,0,0,2,1,0,1,2023-06-28,2023-05-06 03:25:08,Clear,Other,Unknown,Y,Y
+887,REPORT887,STATUS2,ADDRTYPE2,"Unit 2879 Box 0846
+DPO AE 87438",Parked Car,1,1,1,3,3,0,1,2023-03-14,2023-09-22 03:25:08,Clear,Wet,Dusk,N,Y
+888,REPORT888,STATUS3,ADDRTYPE2,"06247 Kelley Rue
+Parkerstad, OH 35779",Angles,5,2,1,3,2,1,1,2024-01-03,2024-01-23 03:25:08,Blowing Sand/Dirt,Ice,Dark - No Street Lights,N,Y
+889,REPORT889,STATUS3,ADDRTYPE3,"00322 Gordon Stravenue
+West Jessicatown, AZ 53349",Parked Car,4,0,0,2,2,0,0,2023-08-25,2023-08-02 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Other,Y,N
+890,REPORT890,STATUS2,ADDRTYPE3,"9414 John Harbors
+Chadview, KS 20356",Pedestrian,2,0,1,2,1,1,1,2023-06-26,2023-12-17 03:25:08,Overcast,Wet,Daylight,Y,N
+891,REPORT891,STATUS3,ADDRTYPE3,"98673 Willis Mall Apt. 596
+East Meganview, NV 88456",Cycles,3,0,0,2,2,1,1,2023-06-25,2023-07-28 03:25:08,Raining,Sand/Mud/Dirt,Other,N,Y
+892,REPORT892,STATUS1,ADDRTYPE1,"PSC 4328, Box 8502
+APO AE 65775",Pedestrian,4,2,0,1,1,0,0,2023-03-28,2023-03-13 03:25:08,Severe Crosswind,Wet,Dark - Street Lights On,N,Y
+893,REPORT893,STATUS3,ADDRTYPE2,"5963 Kathy Lodge Apt. 554
+Cherylshire, ND 76394",Angles,3,2,0,3,3,0,1,2023-05-22,2024-02-16 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dusk,Y,N
+894,REPORT894,STATUS1,ADDRTYPE3,"050 Bailey Crossroad Suite 395
+South Patrickhaven, AZ 45332",Rear Ended,2,0,1,2,1,0,1,2023-06-26,2023-06-28 03:25:08,Unknown,Ice,Dawn,N,Y
+895,REPORT895,STATUS1,ADDRTYPE3,"033 Howell Expressway Suite 545
+West Garymouth, OK 42478",Angles,4,2,0,1,0,0,0,2023-12-26,2023-05-30 03:25:08,Severe Crosswind,Wet,Unknown,Y,Y
+896,REPORT896,STATUS1,ADDRTYPE1,"825 Robert Plaza Suite 284
+Lake Terri, OK 10655",Left Turn,1,0,0,2,1,1,0,2024-01-07,2023-06-29 03:25:08,Snowing,Oil,Unknown,N,Y
+897,REPORT897,STATUS3,ADDRTYPE2,"22918 Cook Streets Suite 092
+Lake Phyllis, WY 32129",Angles,3,0,0,2,1,1,0,2023-11-19,2024-01-23 03:25:08,Other,Ice,Dark - No Street Lights,Y,N
+898,REPORT898,STATUS2,ADDRTYPE3,"0800 Brian Trafficway
+New Jessicaside, SD 63298",Left Turn,4,2,0,2,0,1,1,2023-12-26,2024-01-07 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Daylight,Y,N
+899,REPORT899,STATUS2,ADDRTYPE2,"79541 Burke Wall Suite 746
+Markborough, WY 59614",Pedestrian,4,2,0,3,1,0,0,2023-07-31,2024-01-22 03:25:08,Blowing Sand/Dirt,Snow/Slush,Dark - Street Lights On,Y,N
+900,REPORT900,STATUS3,ADDRTYPE3,"691 Smith Centers Apt. 513
+South Robert, NM 63320",Rear Ended,3,0,0,2,2,1,1,2023-07-13,2023-10-04 03:25:08,Clear,Dry,Dark - Street Lights On,Y,Y
+901,REPORT901,STATUS1,ADDRTYPE1,"0734 Johnson Roads Apt. 377
+North Kathyberg, ND 92358",Sideswipe,2,2,1,3,3,0,0,2023-11-09,2023-03-24 03:25:08,Snowing,Standing Water,Dark - Street Lights Off,N,N
+902,REPORT902,STATUS3,ADDRTYPE1,"7317 Ethan Meadow
+Lake Timothyhaven, SC 43470",Pedestrian,3,1,0,3,3,0,1,2023-07-29,2023-12-27 03:25:08,,,,N,Y
+903,REPORT903,STATUS2,ADDRTYPE2,"9400 Roberts Plaza Suite 068
+Caseyberg, IA 16673",Pedestrian,5,0,1,1,3,1,0,2023-09-04,2023-09-02 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Unknown,N,Y
+904,REPORT904,STATUS3,ADDRTYPE1,"99850 Mullins Park Suite 259
+East Chrisport, ME 56260",Angles,1,0,0,1,3,1,1,2024-01-17,2023-04-21 03:25:08,Unknown,Ice,Dark - No Street Lights,N,Y
+905,REPORT905,STATUS3,ADDRTYPE2,"43759 Ortiz Mews
+Port Ashley, AR 51730",Other,2,2,1,3,0,1,1,2023-09-10,2024-01-01 03:25:08,Raining,Sand/Mud/Dirt,Dark - No Street Lights,N,N
+906,REPORT906,STATUS2,ADDRTYPE3,"27295 Flowers Locks
+Lake Dakotaburgh, ND 01778",Parked Car,1,2,1,3,1,1,1,2023-08-28,2023-09-24 03:25:08,,,,N,N
+907,REPORT907,STATUS2,ADDRTYPE1,"1349 Katherine Falls Suite 986
+Justinside, MS 24863",Pedestrian,1,2,1,2,1,0,0,2023-04-16,2023-05-06 03:25:08,Severe Crosswind,Snow/Slush,Unknown,N,N
+908,REPORT908,STATUS1,ADDRTYPE3,"00971 Johnson Club Suite 576
+South Davidmouth, VA 47816",Parked Car,3,1,0,2,2,1,0,2023-06-16,2023-06-18 03:25:08,,,,N,N
+909,REPORT909,STATUS1,ADDRTYPE3,"1839 Alexander Oval
+East Stephanie, MO 50943",Parked Car,5,2,1,3,1,0,0,2023-11-03,2023-03-03 03:25:08,Fog/Smog/Smoke,Snow/Slush,Dusk,N,Y
+910,REPORT910,STATUS2,ADDRTYPE1,"44890 Smith Ridges Apt. 223
+West Michaelview, KS 76759",Sideswipe,4,0,0,3,0,1,1,2023-02-25,2023-09-03 03:25:08,Snowing,Sand/Mud/Dirt,Daylight,N,N
+911,REPORT911,STATUS1,ADDRTYPE1,"900 Kathleen Radial
+West Johnfurt, MP 81628",Sideswipe,5,2,0,2,2,1,0,2023-06-21,2024-01-19 03:25:08,Fog/Smog/Smoke,Unknown,Dark - Street Lights Off,N,N
+912,REPORT912,STATUS2,ADDRTYPE1,"00130 Debra Mount Suite 390
+Murraybury, CA 78021",Sideswipe,2,2,0,2,2,0,0,2023-12-23,2023-12-19 03:25:08,Raining,Other,Daylight,N,Y
+913,REPORT913,STATUS3,ADDRTYPE3,"000 Boyd Prairie Apt. 978
+Stephanieberg, LA 37717",Cycles,5,0,1,2,1,0,1,2023-09-30,2023-04-26 03:25:08,Unknown,Oil,Daylight,Y,N
+914,REPORT914,STATUS1,ADDRTYPE2,"80852 Elizabeth Center Suite 152
+South Rebeccashire, LA 31282",Parked Car,1,0,1,2,0,0,0,2023-07-02,2023-03-11 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dark - Street Lights Off,N,N
+915,REPORT915,STATUS2,ADDRTYPE2,"5262 Peterson Springs
+West Alex, AL 73711",Angles,4,1,0,1,3,0,1,2024-01-31,2023-06-03 03:25:08,,,,N,Y
+916,REPORT916,STATUS3,ADDRTYPE3,"USNV Chavez
+FPO AE 30940",Parked Car,5,2,0,2,0,0,0,2023-05-16,2024-01-23 03:25:08,Snowing,Snow/Slush,Dusk,Y,Y
+917,REPORT917,STATUS3,ADDRTYPE3,"85616 Weaver Manor Apt. 709
+Justinstad, AK 90606",Pedestrian,4,1,1,3,0,0,1,2023-12-02,2023-02-25 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Daylight,N,N
+918,REPORT918,STATUS2,ADDRTYPE3,"19371 Duran Meadows
+West Deborah, MT 27036",Sideswipe,5,0,0,3,0,0,1,2023-06-24,2023-11-07 03:25:08,Snowing,Snow/Slush,Dark - Street Lights On,N,Y
+919,REPORT919,STATUS2,ADDRTYPE1,"76165 Paul Throughway Suite 149
+Coltonfort, PR 97119",Pedestrian,4,0,1,2,2,1,1,2023-12-07,2023-05-31 03:25:08,Blowing Sand/Dirt,Oil,Daylight,Y,N
+920,REPORT920,STATUS3,ADDRTYPE2,"USS Carter
+FPO AE 62942",Sideswipe,5,0,0,2,2,1,0,2023-03-29,2023-12-08 03:25:08,Blowing Sand/Dirt,Ice,Other,N,N
+921,REPORT921,STATUS3,ADDRTYPE2,"12516 Page Crest
+West Monique, MP 02301",Cycles,2,0,0,3,0,1,0,2023-11-02,2023-05-08 03:25:08,,,,N,N
+922,REPORT922,STATUS2,ADDRTYPE2,"53191 Julia Knoll
+New Tina, FL 68029",Angles,4,0,1,3,3,1,1,2023-09-09,2023-06-11 03:25:08,Fog/Smog/Smoke,Snow/Slush,Dawn,N,Y
+923,REPORT923,STATUS2,ADDRTYPE2,"14733 Neal Roads Suite 661
+West Erinview, DE 52896",Left Turn,3,1,0,1,2,1,0,2023-05-05,2023-12-12 03:25:08,,,,N,N
+924,REPORT924,STATUS3,ADDRTYPE2,"3743 Gina Landing
+East Shawn, OH 12578",Sideswipe,1,2,1,3,0,0,0,2024-02-03,2023-10-28 03:25:08,Sleet/Hail/Freezing Rain,Oil,Other,Y,N
+925,REPORT925,STATUS3,ADDRTYPE2,"Unit 2166 Box 0124
+DPO AP 09583",Other,4,0,0,3,3,0,1,2023-04-18,2023-03-11 03:25:08,Fog/Smog/Smoke,Snow/Slush,Dusk,N,Y
+926,REPORT926,STATUS2,ADDRTYPE3,"48699 Bright Rapid Suite 941
+Lake Kenneth, SC 01857",Cycles,1,2,1,3,1,0,0,2023-08-09,2023-03-29 03:25:08,Other,Sand/Mud/Dirt,Other,N,N
+927,REPORT927,STATUS2,ADDRTYPE3,"9765 Hernandez Manor Suite 728
+Natalieland, VT 56202",Other,5,0,0,1,1,0,1,2024-01-19,2023-12-02 03:25:08,Blowing Sand/Dirt,Wet,Dawn,Y,Y
+928,REPORT928,STATUS3,ADDRTYPE1,"980 Nicole Court
+Harrisberg, WV 07822",Cycles,5,1,0,3,0,0,0,2023-08-18,2023-09-18 03:25:08,Raining,Unknown,Dark - No Street Lights,Y,Y
+929,REPORT929,STATUS2,ADDRTYPE3,"23735 Jacob Port Apt. 042
+West Kevinfort, AR 21039",Angles,5,1,1,2,0,0,0,2023-07-14,2023-04-04 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Other,N,Y
+930,REPORT930,STATUS2,ADDRTYPE3,"2069 Blake Lane
+Port Joseph, MT 05140",Parked Car,5,1,1,3,2,1,0,2023-06-22,2023-09-13 03:25:08,Unknown,Dry,Other,N,Y
+931,REPORT931,STATUS2,ADDRTYPE2,"2711 Orr Underpass Suite 114
+Kaylafurt, MP 58570",Sideswipe,5,1,1,3,3,1,1,2023-11-02,2024-02-16 03:25:08,Severe Crosswind,Other,Unknown,Y,Y
+932,REPORT932,STATUS2,ADDRTYPE1,"70876 Daniel Dam
+Port Daniel, NJ 23320",Rear Ended,2,2,0,1,0,1,1,2024-01-23,2023-06-16 03:25:08,Clear,Oil,Other,N,N
+933,REPORT933,STATUS1,ADDRTYPE2,"07910 Allen Plains Apt. 056
+Lake Jeffreyborough, MI 79360",Pedestrian,1,1,0,2,1,1,0,2023-11-03,2023-04-06 03:25:08,Fog/Smog/Smoke,Sand/Mud/Dirt,Dark - No Street Lights,N,Y
+934,REPORT934,STATUS1,ADDRTYPE1,"PSC 7527, Box 1969
+APO AA 85675",Left Turn,4,1,1,3,0,0,1,2024-02-08,2023-03-04 03:25:08,Unknown,Sand/Mud/Dirt,Dusk,N,Y
+935,REPORT935,STATUS3,ADDRTYPE3,"325 Bailey Stream
+New Yolandaville, FM 38748",Pedestrian,2,1,1,1,2,0,1,2023-03-06,2023-11-09 03:25:08,,,,N,N
+936,REPORT936,STATUS1,ADDRTYPE3,"6794 Haley Spring Suite 845
+Brianfurt, WY 29930",Left Turn,2,0,0,3,2,1,1,2023-07-18,2023-12-23 03:25:08,Other,Unknown,Dawn,N,N
+937,REPORT937,STATUS2,ADDRTYPE2,"7432 Daniel Streets Apt. 790
+Lake Andrew, OR 96908",Cycles,2,1,1,1,3,1,0,2023-10-04,2024-01-16 03:25:08,Sleet/Hail/Freezing Rain,Wet,Unknown,Y,Y
+938,REPORT938,STATUS1,ADDRTYPE2,"92800 Terrell Forks Apt. 810
+Lake Sarahberg, MH 52065",Left Turn,2,2,0,1,1,1,0,2023-10-13,2024-02-19 03:25:08,Severe Crosswind,Standing Water,Dark - Street Lights Off,Y,Y
+939,REPORT939,STATUS3,ADDRTYPE2,"3089 Johnson Hill Apt. 731
+Roseborough, KS 76967",Pedestrian,2,0,1,1,3,1,0,2023-03-31,2023-12-03 03:25:08,Raining,Snow/Slush,Dawn,N,N
+940,REPORT940,STATUS3,ADDRTYPE3,"94717 Jeremy Wall
+Jamesberg, UT 07785",Parked Car,1,2,1,2,1,1,1,2023-11-21,2023-04-16 03:25:08,,,,Y,Y
+941,REPORT941,STATUS3,ADDRTYPE3,"84902 Hinton Mountain
+Kyleview, FM 34134",Sideswipe,4,0,0,1,1,0,1,2024-01-08,2023-12-20 03:25:08,Other,Sand/Mud/Dirt,Dark - No Street Lights,N,Y
+942,REPORT942,STATUS1,ADDRTYPE3,"USS Franklin
+FPO AP 08792",Left Turn,1,2,0,3,0,0,0,2023-12-09,2023-05-29 03:25:08,Overcast,Other,Daylight,N,Y
+943,REPORT943,STATUS1,ADDRTYPE1,"594 Benjamin Union
+Jasonport, NM 84671",Other,4,2,0,1,1,0,1,2024-01-15,2024-01-01 03:25:08,Raining,Oil,Dark - Street Lights Off,Y,Y
+944,REPORT944,STATUS1,ADDRTYPE2,"PSC 5676, Box 0738
+APO AE 10836",Cycles,2,2,1,3,1,0,1,2023-10-02,2023-10-16 03:25:08,Raining,Unknown,Dawn,N,N
+945,REPORT945,STATUS3,ADDRTYPE1,"900 Cynthia Wall Suite 751
+Matamouth, UT 52810",Left Turn,2,0,0,2,2,0,1,2023-07-27,2023-11-07 03:25:08,Blowing Sand/Dirt,Ice,Unknown,Y,Y
+946,REPORT946,STATUS2,ADDRTYPE3,"482 Sheri Fall
+Port Alexandramouth, TN 41701",Parked Car,5,2,0,2,3,1,0,2024-01-09,2023-12-28 03:25:08,Overcast,Wet,Daylight,Y,Y
+947,REPORT947,STATUS2,ADDRTYPE3,"5193 Hernandez Station
+Lisafurt, NY 32428",Pedestrian,3,2,0,1,3,1,1,2023-09-20,2023-06-22 03:25:08,Unknown,Ice,Other,N,N
+948,REPORT948,STATUS3,ADDRTYPE1,"82345 Ryan Way
+Johnmouth, DC 52557",Left Turn,3,0,1,3,2,0,0,2023-02-20,2024-02-07 03:25:08,Sleet/Hail/Freezing Rain,Ice,Dark - Street Lights Off,Y,Y
+949,REPORT949,STATUS3,ADDRTYPE2,"508 Desiree Isle
+Shepherdbury, PA 31566",Sideswipe,1,2,1,2,0,0,0,2023-07-03,2023-06-06 03:25:08,,,,Y,N
+950,REPORT950,STATUS3,ADDRTYPE2,"6172 Elizabeth Villages Apt. 039
+Seanhaven, KY 12096",Cycles,1,0,1,2,3,0,0,2023-07-20,2023-07-07 03:25:08,,,,N,Y
+951,REPORT951,STATUS3,ADDRTYPE3,"PSC 2352, Box 4580
+APO AE 73301",Other,4,1,1,1,2,0,0,2023-05-27,2023-08-03 03:25:08,Raining,Snow/Slush,Unknown,Y,N
+952,REPORT952,STATUS2,ADDRTYPE3,"398 Holland Points
+East Melanie, KS 48646",Left Turn,5,2,0,1,0,1,1,2023-11-02,2024-01-22 03:25:08,Overcast,Other,Dark - No Street Lights,N,N
+953,REPORT953,STATUS1,ADDRTYPE3,"40653 James Village
+South Jason, MH 84505",Pedestrian,4,0,0,1,2,0,1,2023-03-14,2023-12-19 03:25:08,Fog/Smog/Smoke,Oil,Dusk,N,Y
+954,REPORT954,STATUS1,ADDRTYPE2,"24843 Dominguez Crescent Apt. 750
+West Susanfurt, AZ 34783",Sideswipe,5,1,1,3,3,1,0,2023-10-10,2023-09-19 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Dark - Street Lights Off,Y,Y
+955,REPORT955,STATUS2,ADDRTYPE1,"25212 Mcgee Freeway Suite 594
+South Johnmouth, ND 60136",Pedestrian,3,2,1,1,3,1,1,2023-11-17,2023-07-27 03:25:08,,,,N,N
+956,REPORT956,STATUS1,ADDRTYPE3,"244 Zimmerman Hollow Suite 352
+North Natalietown, MA 55029",Left Turn,3,1,1,1,1,1,0,2024-01-23,2023-06-17 03:25:08,Blowing Sand/Dirt,Snow/Slush,Dark - Street Lights Off,N,Y
+957,REPORT957,STATUS2,ADDRTYPE3,"0875 Le Plain Suite 475
+Davisview, TN 47230",Angles,5,2,1,3,2,1,1,2024-01-03,2023-11-17 03:25:08,Severe Crosswind,Ice,Other,N,Y
+958,REPORT958,STATUS1,ADDRTYPE1,"7985 Wells Crossing Apt. 970
+Alvarezburgh, PW 94075",Other,4,0,0,3,1,1,1,2023-07-15,2023-10-22 03:25:08,Unknown,Unknown,Other,N,Y
+959,REPORT959,STATUS2,ADDRTYPE2,"1178 Deborah Spurs
+Elizabethland, VT 51207",Parked Car,1,1,1,1,2,1,0,2023-08-28,2023-05-16 03:25:08,Clear,Other,Other,N,N
+960,REPORT960,STATUS1,ADDRTYPE3,"28563 Morgan Shores Apt. 122
+North Tiffanyport, MD 46453",Rear Ended,5,1,0,3,3,1,1,2023-09-20,2023-10-09 03:25:08,Sleet/Hail/Freezing Rain,Unknown,Dark - Street Lights Off,Y,Y
+961,REPORT961,STATUS3,ADDRTYPE2,"Unit 4938 Box 6517
+DPO AP 54859",Cycles,5,1,1,3,2,0,1,2023-11-27,2023-04-12 03:25:08,Snowing,Ice,Other,N,Y
+962,REPORT962,STATUS3,ADDRTYPE3,"5823 Jones Mount
+Floreschester, IA 66711",Other,5,1,1,1,2,0,1,2023-11-10,2023-03-08 03:25:08,Fog/Smog/Smoke,Standing Water,Dark - No Street Lights,Y,N
+963,REPORT963,STATUS1,ADDRTYPE2,"90356 Joshua Union
+Lake Frederickbury, VA 39440",Cycles,4,2,0,3,0,1,1,2023-08-25,2023-07-10 03:25:08,Snowing,Unknown,Dark - No Street Lights,N,N
+964,REPORT964,STATUS2,ADDRTYPE1,"72267 Porter Junction Suite 317
+Port Paulborough, VI 73763",Sideswipe,1,0,1,1,0,0,1,2023-07-20,2023-03-20 03:25:08,Other,Unknown,Dark - No Street Lights,Y,Y
+965,REPORT965,STATUS1,ADDRTYPE3,"8511 Mary Ranch Apt. 894
+Lake Jasonfurt, OR 36517",Angles,4,1,0,1,0,1,1,2023-06-18,2023-04-10 03:25:08,Overcast,Unknown,Dark - Street Lights Off,N,Y
+966,REPORT966,STATUS1,ADDRTYPE3,"Unit 4063 Box 3574
+DPO AE 92564",Pedestrian,2,0,0,3,1,0,0,2023-06-21,2023-12-18 03:25:08,Clear,Other,Unknown,N,N
+967,REPORT967,STATUS3,ADDRTYPE3,"879 Maria Station Apt. 287
+Jonestown, MO 37029",Cycles,2,2,1,1,2,0,1,2023-05-21,2023-07-13 03:25:08,Other,Oil,Dusk,Y,Y
+968,REPORT968,STATUS2,ADDRTYPE3,"2593 Carmen River
+Ethanfurt, CA 09809",Parked Car,5,0,1,2,3,0,0,2023-03-04,2023-12-07 03:25:08,Severe Crosswind,Sand/Mud/Dirt,Dusk,Y,N
+969,REPORT969,STATUS3,ADDRTYPE3,"224 Renee Inlet
+Shepherdstad, FM 12551",Sideswipe,5,0,0,3,2,0,1,2023-11-29,2023-03-31 03:25:08,Severe Crosswind,Standing Water,Dusk,Y,N
+970,REPORT970,STATUS1,ADDRTYPE1,"548 Burnett Estate
+New Stephanie, DE 52920",Other,5,2,0,3,2,1,1,2023-02-28,2024-02-08 03:25:08,Fog/Smog/Smoke,Snow/Slush,Dusk,N,Y
+971,REPORT971,STATUS3,ADDRTYPE3,"157 Tamara Gateway
+East Travisland, MT 83973",Sideswipe,1,1,1,3,0,0,1,2023-07-11,2023-11-17 03:25:08,Clear,Ice,Dusk,N,Y
+972,REPORT972,STATUS2,ADDRTYPE3,"7944 Thomas Corner Suite 437
+Colleenberg, WV 96325",Parked Car,1,2,0,1,1,0,0,2023-08-22,2023-12-09 03:25:08,Snowing,Snow/Slush,Dark - No Street Lights,N,Y
+973,REPORT973,STATUS1,ADDRTYPE2,"548 Martinez Inlet Apt. 481
+Delacruzmouth, AL 09464",Pedestrian,5,1,1,1,3,1,0,2023-03-02,2023-03-20 03:25:08,,,,N,N
+974,REPORT974,STATUS1,ADDRTYPE3,"79585 Susan Drive Apt. 829
+East Christopher, CA 53911",Pedestrian,1,2,0,3,3,1,0,2023-05-03,2023-10-19 03:25:08,Blowing Sand/Dirt,Snow/Slush,Dark - Street Lights Off,N,Y
+975,REPORT975,STATUS3,ADDRTYPE2,"48897 Mark Valleys Suite 153
+Port Codyshire, KY 77812",Angles,3,0,0,1,0,1,0,2023-08-04,2023-11-24 03:25:08,Sleet/Hail/Freezing Rain,Other,Dark - No Street Lights,Y,N
+976,REPORT976,STATUS2,ADDRTYPE1,"09015 Phillips Park
+Garrettland, CT 70596",Cycles,5,1,1,2,3,0,0,2024-02-14,2023-06-03 03:25:08,Blowing Sand/Dirt,Unknown,Dawn,N,N
+977,REPORT977,STATUS2,ADDRTYPE2,"75625 Kaitlyn Avenue Apt. 631
+Lake Randall, MT 00720",Cycles,3,2,1,2,2,1,0,2023-05-08,2023-02-26 03:25:08,,,,Y,N
+978,REPORT978,STATUS2,ADDRTYPE2,"01732 Luna Circle
+Jamesbury, MD 85390",Pedestrian,4,2,1,2,2,0,0,2023-04-20,2023-05-16 03:25:08,Other,Other,Dark - Street Lights Off,N,N
+979,REPORT979,STATUS2,ADDRTYPE1,"Unit 3352 Box 4259
+DPO AA 90384",Pedestrian,3,2,1,3,0,0,0,2023-11-10,2023-11-09 03:25:08,Unknown,Other,Unknown,N,Y
+980,REPORT980,STATUS2,ADDRTYPE1,"61679 Jensen Forge Suite 585
+Beardmouth, TX 14077",Rear Ended,4,1,0,1,1,1,1,2024-01-11,2023-06-21 03:25:08,Other,Other,Other,Y,Y
+981,REPORT981,STATUS1,ADDRTYPE2,"375 Tanner Station
+Riceville, PA 61505",Left Turn,4,0,0,3,2,0,1,2023-03-15,2023-06-19 03:25:08,Sleet/Hail/Freezing Rain,Sand/Mud/Dirt,Dark - Street Lights On,N,Y
+982,REPORT982,STATUS1,ADDRTYPE2,"463 Taylor Terrace Suite 232
+Lake David, NE 40284",Angles,5,2,0,2,1,0,0,2023-04-29,2023-09-24 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Other,N,Y
+983,REPORT983,STATUS2,ADDRTYPE1,"6499 Daniel Dam Suite 704
+Leahville, RI 04604",Angles,5,2,0,2,1,1,1,2023-04-10,2023-09-24 03:25:08,Blowing Sand/Dirt,Standing Water,Dawn,N,N
+984,REPORT984,STATUS2,ADDRTYPE1,"0182 Sarah Throughway
+Nicholaston, IA 52272",Other,4,0,0,2,3,0,0,2023-12-07,2023-03-15 03:25:08,Blowing Sand/Dirt,Standing Water,Dark - Street Lights Off,N,Y
+985,REPORT985,STATUS1,ADDRTYPE1,"315 Michael Squares Apt. 516
+East Jamesview, MO 47632",Left Turn,1,0,1,3,2,0,1,2023-09-07,2023-12-30 03:25:08,,,,Y,Y
+986,REPORT986,STATUS1,ADDRTYPE1,"5651 Brian Trail
+New Monicaborough, AR 87571",Parked Car,2,0,0,3,3,0,1,2023-03-16,2023-04-24 03:25:08,Raining,Dry,Dusk,Y,Y
+987,REPORT987,STATUS2,ADDRTYPE1,"8714 Ruiz Center Suite 749
+Kennethmouth, TN 92954",Rear Ended,3,0,1,2,0,1,0,2023-09-10,2023-06-12 03:25:08,Fog/Smog/Smoke,Standing Water,Dusk,Y,Y
+988,REPORT988,STATUS2,ADDRTYPE2,"75615 Davis Lane Apt. 283
+East Darryl, ID 56443",Pedestrian,4,2,0,2,2,1,1,2024-02-12,2023-08-15 03:25:08,Raining,Dry,Dark - No Street Lights,Y,Y
+989,REPORT989,STATUS1,ADDRTYPE1,"50784 Emma Port
+Rhondaland, KS 09332",Left Turn,2,2,0,1,0,0,0,2023-12-04,2023-03-15 03:25:08,Fog/Smog/Smoke,Standing Water,Unknown,N,Y
+990,REPORT990,STATUS3,ADDRTYPE3,"758 Smith Spur Apt. 615
+South Johnmouth, NM 76699",Pedestrian,5,1,1,1,3,1,0,2023-06-30,2023-10-02 03:25:08,Overcast,Other,Dark - Street Lights Off,Y,Y
+991,REPORT991,STATUS3,ADDRTYPE3,"7283 Barbara Haven
+Jenniferchester, OK 38442",Angles,5,2,0,2,3,0,0,2023-12-06,2023-08-03 03:25:08,Clear,Unknown,Dark - Street Lights Off,Y,Y
+992,REPORT992,STATUS3,ADDRTYPE3,"Unit 4837 Box 4223
+DPO AE 42534",Rear Ended,4,2,0,1,3,0,1,2023-06-09,2023-08-06 03:25:08,Overcast,Sand/Mud/Dirt,Unknown,Y,Y
+993,REPORT993,STATUS1,ADDRTYPE3,"44146 Tina Ridge Suite 495
+Hernandezshire, MH 05178",Angles,1,0,0,2,2,0,1,2023-09-10,2023-02-27 03:25:08,Blowing Sand/Dirt,Snow/Slush,Other,N,Y
+994,REPORT994,STATUS1,ADDRTYPE1,"30671 Austin Bridge Suite 580
+New Katie, ND 62437",Sideswipe,4,1,1,2,3,0,0,2023-12-23,2023-12-27 03:25:08,Raining,Dry,Daylight,Y,N
+995,REPORT995,STATUS1,ADDRTYPE3,"67528 Stephen Turnpike Suite 585
+Anahaven, DE 53727",Other,3,0,0,2,0,1,0,2023-03-11,2023-06-27 03:25:08,Overcast,Ice,Dusk,N,N
+996,REPORT996,STATUS3,ADDRTYPE2,"0180 Long Views Apt. 992
+Watsonberg, FM 63442",Other,2,2,0,1,1,0,1,2023-07-26,2023-07-21 03:25:08,Unknown,Ice,Dark - Street Lights Off,Y,Y
+997,REPORT997,STATUS2,ADDRTYPE3,"276 Perez Ramp Suite 017
+Derrickstad, GA 15115",Cycles,1,2,1,2,2,0,0,2023-10-08,2023-07-17 03:25:08,Sleet/Hail/Freezing Rain,Snow/Slush,Unknown,Y,N
+998,REPORT998,STATUS1,ADDRTYPE1,"USNV Martin
+FPO AE 04779",Left Turn,4,2,1,2,0,1,0,2023-05-29,2023-12-06 03:25:08,Raining,Snow/Slush,Dawn,N,Y
+999,REPORT999,STATUS1,ADDRTYPE3,"918 Mays Mall
+Ronaldmouth, NE 82443",Pedestrian,3,1,1,1,2,0,0,2024-02-18,2024-02-05 03:25:08,Clear,Other,Unknown,Y,Y
+1000,REPORT1000,STATUS1,ADDRTYPE2,"35625 Brown Circles Apt. 155
+Samanthamouth, VA 79339",Cycles,3,0,1,2,3,1,0,2023-07-04,2023-09-27 03:25:08,Fog/Smog/Smoke,Dry,Dark - Street Lights Off,Y,Y
